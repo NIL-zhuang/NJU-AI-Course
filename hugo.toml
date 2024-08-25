@@ -1,3 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'NJU AI 通识课'
+theme = "njuai"
