@@ -1,0 +1,64 @@
+{{ define "main" }}
+{{ $query := .Request.Params.Get "q" }} <!-- 获取搜索查询 -->
+{{ $searchPages := where .Site.RegularPages "Title" "in" $query }} <!-- 根据标题中的关键词过滤页面 -->
+{{ $.Scratch.Set "Pages" $searchPages }} <!-- 将搜索结果存储在Scratch中 -->
+
+<section class="section">
+    <div class="container">
+        <div class="columns is-centered">
+            <div class="column">
+                {{- partial "contentsearch.html" . -}}
+               
+            </div>
+        </div>
+        <div class="columns is-centered">
+            <div class="column">
+                <div style="margin-bottom: 1em;">
+                    {{ range .Site.Taxonomies.tags }}
+                    <a class="tag is-primary is-light" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+                    {{ end }}
+                </div>
+            </div>
+            {{ if and .Site.Params.repo .Site.Params.newpath }}
+            <div class="column is-narrow">
+                <a href="{{ .Site.Params.repo }}/{{ .Site.Params.newpath }}/{{ .Site.Params.contentDir | default "content" }}">
+                    <button class="button">
+                        <span class="icon is-small"><i class="fa fa-plus"></i></span>
+                    </button>
+                </a>
+            </div>
+            {{ end }}
+        </div>
+
+        <!-- 使用搜索结果进行分页 -->
+        {{- $paginator := .Paginate (or ($.Scratch.Get "Pages") .Site.RegularPages) }}
+
+        <div class="columns is-centered">
+            <div class="column">
+                {{ range $index, $page := $paginator.Pages }}
+                {{ if eq (mod $index 4) 0 }}{{ partial "box.html" $page }}{{ end }}
+                {{ end }}
+            </div>
+            <div class="column">
+                {{ range $index, $page := $paginator.Pages }}
+                {{ if eq (mod $index 4) 1 }}{{ partial "box.html" $page }}{{ end }}
+                {{ end }}
+            </div>
+            <div class="column">
+                {{ range $index, $page := $paginator.Pages }}
+                {{ if eq (mod $index 4) 2 }}{{ partial "box.html" $page }}{{ end }}
+                {{ end }}
+            </div>
+            <div class="column">
+                {{ range $index, $page := $paginator.Pages }}
+                {{ if eq (mod $index 4) 3 }}{{ partial "box.html" $page }}{{ end }}
+                {{ end }}
+            </div>
+        </div>
+
+        <div class="column is-centered">
+            {{ template "_internal/pagination.html" . }} <!-- 显示分页导航 -->
+        </div>
+    </div>
+</section>
+{{ end }}
