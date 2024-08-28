@@ -1,131 +1,112 @@
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
-<script src="https://ludard.com/js/search.js"></script>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>
-    {{- block "title" . -}}
-      {{ if .IsPage }}{{ .Title }} - {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}
-    {{- end -}}
-  </title>
-  {{ partial "head.html" . }}
-
-  <style type="text/css">
-    @media (max-width: 425px) {
-        /*0~425*/
-        .search-container {
-            padding: 3em 1em;
-            margin: 0 0 1em 0;
-            background-color: #fff;
-            font-size: 11px;
-            font-weight: 200;
-        }
-
-        #search-box {
-            width: 85%;
-            height: 25px;
-            border: 2px solid #e58f38;
-            margin: auto;
-        }
-    }
-
-    @media (min-width: 426px) and (max-width: 768px) {
-        /*426~768*/
-        .search-container {
-            padding: 3em 2em;
-            margin: 0 2em 1.5em;
-            background-color: #fff;
-        }
-
-        #search-box {
-            width: 80%;
-            height: 40px;
-            border: 2px solid #e58f38;
-            margin: auto;
-        }
-    }
-
-    @media (min-width: 769px) {
-      /*769~+∞*/
-      .search-container {
-        padding: 3em 5em;
-        margin: 0 5em 3em;
-        background-color: #fff;
-      }
-
-      #search-box {
-        width:71%;
-        height:40px;
-        border:2px solid #E58F38;
-        margin:auto;
-      }
-    }
-
-    #search-query {
-      float:left;
-      width:80%;
-      height:100%;/*高38（因为文本框内外边框要占用1像素所以总体高度减2，其他盒子同理）*/
-      outline:none;
-      border:none;/*取消文本框内外边框*/
-    }
-
-    #search-submit {
-      float:left;
-      text-align: center;
-      width:20%;
-      height:100%;
-      color:white;
-      background-color:#E58F38;
-      border:none;
-      outline:none;/*取消边框和外边框将按钮边框去掉*/
-      cursor: pointer;
-    }
-  </style>
-</header>
-
-<body>
-    {{- partial "header.html" . -}}
-
-  <div id="mobile-panel">
-    <section class="resume-section p-3 p-lg-5 d-flex flex-column">
-      <main id="main" class="main bg-llight wallpaper">
-        <div class="content-wrapper">
-          <div id="content" class="content container">
-            <div class="search-container">
-              <form action="/search">
-                <div id="search-box">
-                  <input id="search-query" name="s" placeholder="输入搜索内容..." />
-                  <button type="submit" id="search-submit" action="/search">搜索</button>
-                </div>
-              </form>
-              <div id="search-results"> 
-
-              </div>
-            </div>
-          </div>
-        </div>
-      </main>
-
-        
-    </section>
+{{ $baseUrl := .Site.BaseURL }} 
+<!DOCTYPE html>
+<html lang="en" class="has-navbar-fixed-top">
     
-  </div>
-  {{ partial "footer.html" . }}
-  
-<!-- this template is sucked in by search.js and appended to the search-results div above. So editing here will adjust style -->
-<script id="search-result-template" type="text/x-js-template">
-    <div id="summary-${key}">
-      <h4><a href="${link}">${title}</a></h4>
-      <p>${snippet}</p>
-      ${ isset tags }<p>Tags: ${tags}</p>${ end }
-      ${ isset categories }<p>Categories: ${categories}</p>${ end }
-    </div>
-</script>
-<script>
-  document.getElementById('search-query').focus();
-</script>
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+    <script src="{{ $baseUrl }}/js/search.js"></script>
+    {{- partial "head.html" . -}}
 
-</body>
+  <body>
+    {{- partial "header.html" . -}}
+    <main class="main" role="main">
+        <section class="section">
+            <div class="container">
+              <div class="columns is-centered">
+                <div class="column">
+                  {{- partial "contentsearch.html" . -}}
+                </div>
+              </div>
+              <div class="columns is-centered">
+                <div class="column">
+                  <div style="margin-bottom: 1em;">
+                    {{ range .Site.Taxonomies.tags }}
+                    <a class="tag is-primary is-light" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+                    {{ end }}
+                  </div>
+                </div>
+          {{ if and .Site.Params.repo .Site.Params.newpath }}
+                <div class="column is-narrow">
+                  <a href="{{ .Site.Params.repo }}/{{ .Site.Params.newpath }}/{{ .Site.Params.contentDir | default "content" }}">
+                    <button class="button">
+                      <span class="icon is-small"><i class="fa fa-plus"></i></span>
+                    </button>
+                  </a>
+                </div>
+          {{ end }}
+              </div>
+          
+            </div>
+                    <div class="content-wrapper">
+                      <div id="content" class="content container">
+                        <div class="search-container">
+                          <!-- <form action="/search">
+                            <div id="search-box">
+                              <input id="search-query" name="s" placeholder="输入搜索内容..." />
+                              <button type="submit" id="search-submit" action="/search">搜索</button>
+                            </div>
+                          </form> -->
+                    
+                          <div class="columns is-centered" id="search-results"> 
+            
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+              </div>
+              
+            <!-- this template is sucked in by search.js and appended to the search-results div above. So editing here will adjust style -->
+            <script id="search-result-template" type="text/x-js-template">
+                <div class="column is-centered">
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+                <a class="box" href="${link}"  id="summary1-${key}" aria-label="${title}">
+                    <div class="columns is-flex">
+                        <div class="column is-one-quarter">
+                            ${ isset featured_image }<figure class="is-flex image is-1by1" style="margin-left:0; margin-right:0"><img alt="${featured_image}" class="is-rounded" src="${featured_image}" /></figure>${ end }
+                            
+                        </div>
+                        <div class="column">
+                            <div>${title}</div>
+                            ${ isset author }<small><p class="has-text-info">${author}</p></small>${ end }
+                            <span>
+                                ${ for i in range(1, ${rating}+1) }<i class="fas fa-star has-text-warning"></i>${ end }
+                                ${ for i in range(1, 5-${rating}) }<i class="fas fa-star"></i>${ end }
+                            </span>
+                        </div>
+                    </div>
+                    <div class="columns is-flex">
+                        <div class="column" style="height: 6em;">
+                            ${ isset description } <small class="has-text-grey" style="overflow: hidden;display: box;display: -webkit-box;display: -ms-flexbox;-webkit-box-orient: vertical;-ms-flex-direction: column;-webkit-line-clamp: 3;/* 限制在3行内 */line-clamp: 3;/* 标准化支持 */">${description}</small>${ end }
+                        </div>
+                    </div>
+                    <div class="columns is-flex">
+                        <div class="column">
+                            
+                            ${ for tag in tags }<span class="tag is-primary is-light">${tag}</span>${ end }
+                        </div>
+                    </div>
+                </a>
+
+                <!-- <div id="summary-${key}">
+                    <h4><a href="${link}">${title}</a></h4>
+                    <p>${snippet}</p>
+                    ${ isset tags }<p>Tags: ${tags}</p>${ end }
+                    ${ isset categories }<p>Categories: ${categories}</p>${ end }
+                  </div>
+                </div> -->
+            </script>
+            <script>
+              document.getElementById('search-query').focus();
+            </script>
+            <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+            
+          </section>
+
+
+
+    </main>
+    {{- partial "footer.html" . -}}
+  </body>
+</html>
+

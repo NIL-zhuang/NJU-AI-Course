@@ -3,7 +3,7 @@
   <div class="container">
     <div class="columns is-centered">
       <div class="column">
-        {{- partial "search.html" . -}}
+        {{- partial "contentsearch.html" . -}}
       </div>
     </div>
     <div class="columns is-centered">
@@ -25,7 +25,8 @@
 {{ end }}
     </div>
 
-    {{- $paginator := .Paginate .Site.RegularPages }}
+    {{- $postPages := where .Site.RegularPages "File.Dir" "posts/" }}
+{{- $paginator := .Paginate $postPages }}
     <div class="columns is-centered">
       <div class="column">
         {{ range $index, $page := $paginator.Pages }}

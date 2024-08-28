@@ -33,11 +33,19 @@
     </div>
   </div>
   <div class="columns is-flex">
-    <div class="column">
+    <div class="column" style="height: 6em;">
       {{ if .Params.description }}
-      <small class="has-text-grey">{{ .Params.description }}</small>
+      <small class="has-text-grey" style="overflow: hidden;
+      display: box;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      -webkit-box-orient: vertical;
+      -ms-flex-direction: column;
+      -webkit-line-clamp: 3;
+      /* 限制在3行内 */
+      line-clamp: 3;
+      /* 标准化支持 */">{{ .Params.description }}</small>
       {{ end }}
-      <!-- <small class="has-text-grey">{{ .Summary }}</small> -->
     </div>
   </div>
   <div class="columns is-flex">

@@ -30,6 +30,7 @@ if (searchQuery) {
 function executeSearch(searchQuery) {
     $.getJSON("/index.json", function (data) {
         var pages = data;
+        console.log({ "pages": pages });
         var fuse = new Fuse(pages, fuseOptions);
         var result = fuse.search(searchQuery);
         console.log({ "matches": result });
@@ -44,6 +45,7 @@ function executeSearch(searchQuery) {
 function populateResults(result) {
     $.each(result, function (key, value) {
         var contents = value.item.contents;
+        console.log({ "print": result });
         var snippet = "";
         var snippetHighlights = [];
         var tags = [];
@@ -53,7 +55,7 @@ function populateResults(result) {
             $.each(value.matches, function (matchKey, mvalue) {
                 if (mvalue.key == "tags" || mvalue.key == "categories") {
                     snippetHighlights.push(mvalue.value);
-                } else if (mvalue.key == "contents") {
+                } else if (mvalue.key == "contents" || mvalue.key == "description") {
                     start = mvalue.indices[0][0] - summaryInclude > 0 ? mvalue.indices[0][0] - summaryInclude : 0;
                     end = mvalue.indices[0][1] + summaryInclude < contents.length ? mvalue.indices[0][1] + summaryInclude : contents.length;
                     snippet += contents.substring(start, end);
@@ -68,7 +70,7 @@ function populateResults(result) {
         //pull template from hugo templarte definition
         var templateDefinition = $('#search-result-template').html();
         //replace values
-        var output = render(templateDefinition, { key: key, title: value.item.title, link: value.item.permalink, tags: value.item.tags, categories: value.item.categories, snippet: snippet });
+        var output = render(templateDefinition, { key: key, title: value.item.title, link: value.item.permalink, rating: value.item.rating, description: value.item.description, tags: value.item.tags, featured_image: value.item.featured_image, snippet: snippet });
         $('#search-results').append(output);
 
         $.each(snippetHighlights, function (snipkey, snipvalue) {
@@ -84,10 +86,13 @@ function param(name) {
 
 function render(templateString, data) {
     var conditionalMatches, conditionalPattern, copy;
-    conditionalPattern = /\$\{\s*isset ([a-zA-Z]*) \s*\}(.*)\$\{\s*end\s*}/g;
+    conditionalPattern = /\$\{\s*isset ([a-zA-Z_]*) \s*\}(.*)\$\{\s*end\s*}/g;
+
+
     //since loop below depends on re.lastInxdex, we use a copy to capture any manipulations whilst inside the loop
     copy = templateString;
     while ((conditionalMatches = conditionalPattern.exec(templateString)) !== null) {
+        console.log(conditionalMatches);
         if (data[conditionalMatches[1]]) {
             //valid key, remove conditionals, leave contents.
             copy = copy.replace(conditionalMatches[0], conditionalMatches[2]);
@@ -97,6 +102,41 @@ function render(templateString, data) {
         }
     }
     templateString = copy;
+
+    // 处理 for in range 语句
+    loopPattern = /\$\{\s*for\s+([a-zA-Z_]+)\s+in\s+range\((\d+),\s*(\d+)\)\s*\}(.*?)\$\{\s*end\s*\}/gs;
+    while ((loopMatches = loopPattern.exec(templateString)) !== null) {
+        var loopVariable = loopMatches[1];
+        var start = parseInt(loopMatches[2]);
+        var end = parseInt(loopMatches[3]);
+        var loopContent = '';
+
+        // 根据范围执行循环
+        for (var i = start; i < end; i++) {
+            loopContent += loopMatches[4].replace(new RegExp(`\\$\\{\\s*${loopVariable}\\s*\\}`, 'g'), i);
+        }
+
+        templateString = templateString.replace(loopMatches[0], loopContent);
+    }
+
+    // 处理 for in array 语句
+    loopPattern = /\$\{\s*for\s+([a-zA-Z_]+)\s+in\s+([a-zA-Z_]+)\s*\}(.*?)\$\{\s*end\s*\}/gs;
+    while ((loopMatches = loopPattern.exec(templateString)) !== null) {
+        var loopVariable = loopMatches[1];
+        var arrayName = loopMatches[2];
+        var loopContent = '';
+
+        if (Array.isArray(data[arrayName])) {
+            // 遍历数组
+            data[arrayName].forEach(function (item) {
+                loopContent += loopMatches[3].replace(new RegExp(`\\$\\{\\s*${loopVariable}\\s*\\}`, 'g'), item);
+            });
+        }
+
+        templateString = templateString.replace(loopMatches[0], loopContent);
+    }
+
+
     //now any conditionals removed we can do simple substitution
     var key, find, re;
     for (key in data) {
