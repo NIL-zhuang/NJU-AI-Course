@@ -8,11 +8,3 @@ rating: 5
 comment: true
 website: ""
 ---
-
-## Location
-
-<!--- The restaurant's exact location  --->
-
-## Review
-
-<!--- Your review  --->
