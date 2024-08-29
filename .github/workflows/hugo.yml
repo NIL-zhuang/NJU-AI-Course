@@ -37,6 +37,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-          publish_branch: main
           publish_dir: ./public
           commit_message: ${{ github.event.head_commit.message }}
