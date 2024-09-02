@@ -28,7 +28,7 @@ if (searchQuery) {
 
 
 function executeSearch(searchQuery) {
-    $.getJSON("/index.json", function (data) {
+    $.getJSON("/NJU-AI-Course/index.json", function (data) {
         var pages = data;
         //console.log({ "pages": pages });
         var fuse = new Fuse(pages, fuseOptions);
