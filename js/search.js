@@ -30,10 +30,10 @@ if (searchQuery) {
 function executeSearch(searchQuery) {
     $.getJSON("/index.json", function (data) {
         var pages = data;
-        console.log({ "pages": pages });
+        //console.log({ "pages": pages });
         var fuse = new Fuse(pages, fuseOptions);
         var result = fuse.search(searchQuery);
-        console.log({ "matches": result });
+        //console.log({ "matches": result });
         if (result.length > 0) {
             populateResults(result);
         } else {
@@ -45,7 +45,7 @@ function executeSearch(searchQuery) {
 function populateResults(result) {
     $.each(result, function (key, value) {
         var contents = value.item.contents;
-        console.log({ "print": result });
+        //console.log({ "print": result });
         var snippet = "";
         var snippetHighlights = [];
         var tags = [];
@@ -92,7 +92,7 @@ function render(templateString, data) {
     //since loop below depends on re.lastInxdex, we use a copy to capture any manipulations whilst inside the loop
     copy = templateString;
     while ((conditionalMatches = conditionalPattern.exec(templateString)) !== null) {
-        console.log(conditionalMatches);
+        //console.log(conditionalMatches);
         if (data[conditionalMatches[1]]) {
             //valid key, remove conditionals, leave contents.
             copy = copy.replace(conditionalMatches[0], conditionalMatches[2]);
@@ -144,5 +144,26 @@ function render(templateString, data) {
         re = new RegExp(find, 'g');
         templateString = templateString.replace(re, data[key]);
     }
+    var rating = data['rating']; // 这里用3作为示例，你可以根据需要获取实际的rating值
+
+    // 获取要插入星星的容器
+    var starContainer = "";
+
+    // 生成有色星星
+    for (var i = 0; i < rating; i++) {
+        var star = '<i class="fas fa-star has-text-warning"></i>';
+        starContainer += star;
+    }
+
+    // 生成灰色星星
+    for (var i = 0; i < (5 - rating); i++) {
+        var star = '<i class="fas fa-star"></i>';
+        starContainer += star;
+    }
+    //starContainer = "<span\s+id=\"rating-space\">" + starContainer + "</span>";
+    templateString = templateString.replace(
+        "${Code for replace }",
+        starContainer
+    );
     return templateString;
 }
