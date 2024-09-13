@@ -6,23 +6,28 @@
         {{- partial "contentsearch.html" . -}}
       </div>
     </div>
-    <div class="columns is-centered">
-      <div class="column">
-        <div style="margin-bottom: 1em;">
-          {{ range .Site.Taxonomies.tags }}
-          <a class="tag is-primary is-light" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-          {{ end }}
-        </div>
+
+    <div class="tags-container">
+      <div class="tags has-addons">
+        <span class="tag is-dark">模态</span>
+        {{ range .Site.Taxonomies.modality }}
+        <a class="tag is-info is-light" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+        {{ end }}
       </div>
-{{ if and .Site.Params.repo .Site.Params.newpath }}
-      <div class="column is-narrow">
-        <a href="{{ .Site.Params.repo }}/{{ .Site.Params.newpath }}/{{ .Site.Params.contentDir | default "content" }}">
-          <button class="button">
-            <span class="icon is-small"><i class="fa fa-plus"></i></span>
-          </button>
-        </a>
+
+      <div class="tags has-addons">
+        <span class="tag is-dark">地区</span>
+        {{ range .Site.Taxonomies.availability }}
+        <a class="tag is-success is-light" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+        {{ end }}
       </div>
-{{ end }}
+
+      <div class="tags has-addons">
+        <span class="tag is-dark">场景</span>
+        {{ range .Site.Taxonomies.scenario }}
+        <a class="tag is-warning is-light" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+        {{ end }}
+      </div>
     </div>
 
     {{- $postPages := where .Site.RegularPages "File.Dir" "posts/" }}
