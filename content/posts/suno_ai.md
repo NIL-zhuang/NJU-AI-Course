@@ -2,7 +2,7 @@
 title: "SUNO AI"
 date: "2024-08-28T15:15:47+08:00"
 tags: ["音乐", "海外", "音频"]
-featured_image: "https://suno-ai.org/wp-content/uploads/2024/01/suno-ai.png"
+featured_image: "https://suno-ai.org/wp-content/uploads/2024/09/suno-ai.org_.png"
 description: "为任何事物创造一首歌"
 rating: 5
 comment: true
