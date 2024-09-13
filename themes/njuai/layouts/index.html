@@ -11,21 +11,21 @@
       <div class="tags has-addons">
         <span class="tag is-dark">模态</span>
         {{ range .Site.Taxonomies.modality }}
-        <a class="tag is-info is-light" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+        <a class="tag is-info is-light" href="{{ .Page.Permalink | safeURL }}">{{ .Page.Title }}</a>
         {{ end }}
       </div>
 
       <div class="tags has-addons">
         <span class="tag is-dark">地区</span>
         {{ range .Site.Taxonomies.availability }}
-        <a class="tag is-success is-light" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+        <a class="tag is-success is-light" href="{{ .Page.Permalink | safeURL }}">{{ .Page.Title }}</a>
         {{ end }}
       </div>
 
       <div class="tags has-addons">
         <span class="tag is-dark">场景</span>
         {{ range .Site.Taxonomies.scenario }}
-        <a class="tag is-warning is-light" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+        <a class="tag is-warning is-light" href="{{ .Page.Permalink | safeURL }}">{{ .Page.Title }}</a>
         {{ end }}
       </div>
     </div>
