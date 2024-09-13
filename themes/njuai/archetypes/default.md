@@ -1,7 +1,9 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: "{{ .Date }}"
-tags: []
+modality: []
+availability: []
+scenario: []
 featured_image: ""
 description: ""
 rating: 5
