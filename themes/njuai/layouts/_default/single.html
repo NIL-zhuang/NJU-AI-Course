@@ -30,6 +30,7 @@
           <h5 class="is-5">{{ .Params.description }}</h5>
           {{ end }}
           <span>
+            <b>Rating:</b>
             {{ $rating := 0 }} {{ if and (isset .Params "rating") (le
             .Params.rating 5) }} {{ $rating = .Params.rating }} {{ end }} {{
             range $i := (seq $rating) }}
@@ -38,29 +39,30 @@
             <i class="fas fa-star"></i>
             {{ end }}
           </span>
+          <div class="tags is-flex is-justify-content-start" style="gap: 1rem;">
+            <div class="tags has-addons mb-0">
+              <span class="tag is-dark">模态</span>
+              {{ range .Params.Modality }}
+              <a class="tag is-info is-light" href="{{ $baseUrl | relURL }}/modality/{{ . }}">{{ . }}</a>
+              {{ end }}
+            </div>
+            <div class="tags has-addons mb-0">
+              <span class="tag is-dark">地区</span>
+              {{ range .Params.Availability }}
+              <a class="tag is-success is-light" href="{{ $baseUrl | relURL }}/availability/{{ . }}">{{ . }}</a>
+              {{ end }}
+            </div>
+            <div class="tags has-addons mb-0">
+              <span class="tag is-dark">场景</span>
+              {{ range .Params.Scenario }}
+              <a class="tag is-warning is-light" href="{{ $baseUrl | relURL }}/scenario/{{ . }}">{{ . }}</a>
+              {{ end }}
+            </div>
+          </div>
         </div>
       </div>
 
-      <div class="tags is-flex is-justify-content-start" style="gap: 1rem;">
-        <div class="tags has-addons mb-0">
-          <span class="tag is-dark">模态</span>
-          {{ range .Params.Modality }}
-          <a class="tag is-info is-light" href="{{ $baseUrl | relURL }}/modality/{{ . }}">{{ . }}</a>
-          {{ end }}
-        </div>
-        <div class="tags has-addons mb-0">
-          <span class="tag is-dark">地区</span>
-          {{ range .Params.Availability }}
-          <a class="tag is-success is-light" href="{{ $baseUrl | relURL }}/availability/{{ . }}">{{ . }}</a>
-          {{ end }}
-        </div>
-        <div class="tags has-addons mb-0">
-          <span class="tag is-dark">场景</span>
-          {{ range .Params.Scenario }}
-          <a class="tag is-warning is-light" href="{{ $baseUrl | relURL }}/scenario/{{ . }}">{{ . }}</a>
-          {{ end }}
-        </div>
-      </div>
+
 
     </header>
     <div class="content" style="margin-top: 1em">{{ .Content }}</div>
