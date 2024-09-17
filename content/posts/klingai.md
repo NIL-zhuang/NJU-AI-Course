@@ -1,7 +1,9 @@
 ---
 title: "可灵 AI"
 date: "2024-08-28T15:15:12+08:00"
-tags: ["文生视频", "图生视频", "国内", "视觉"]
+modality: ["图像", "视频"]
+availability: ["国内"]
+scenario: ["视频生成", "图像生成"]
 featured_image: "https://hao.logosc.cn/oss/navi/logo/2024/06/08/91fa5174-770e-444f-85f4-fdc11bb22fc7.png"
 description: "可灵 让想象力动起来 | 快手的视频生成平台"
 rating: 5

@@ -1,7 +1,9 @@
 ---
 title: "Cursor"
 date: "2024-08-28T15:15:40+08:00"
-tags: ["编程", "海外", "代码"]
+modality: ["代码"]
+availability: ["海外"]
+scenario: ["编程"]
 featured_image: "https://avatars.githubusercontent.com/u/126759922?s=200&v=4"
 description: "AI 代码编辑器 | Cursor旨在让您提高工作效率，是使用AI进行编码的最佳方式。"
 rating: 5

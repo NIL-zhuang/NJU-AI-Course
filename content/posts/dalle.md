@@ -1,7 +1,9 @@
 ---
 title: "DALL·E 3"
 date: "2024-08-28T15:14:38+08:00"
-tags: ["文生图", "海外", "图像"]
+modality: ["图像"]
+availability: ["海外"]
+scenario: ["图像生成"]
 featured_image: "https://qph.cf2.poecdn.net/main-thumb-pb-3017-200-ffkgsbdxtxdxeieebtyvgplzvpqsuakd.jpeg"
 description: "DALL·E 3比 OpenAI 以前的系统理解更多的细微差别和细节，让您可以轻松地将您的想法转化为异常准确的图像"
 rating: 5
