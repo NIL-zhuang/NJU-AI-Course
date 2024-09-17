@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>国内 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/availability/%E5%9B%BD%E5%86%85/</link><description>Recent content in 国内 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 15:16:39 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/availability/%E5%9B%BD%E5%86%85/index.xml" rel="self" type="application/rss+xml"/><item><title>Kimi.ai</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/kimi_ai/</link><pubDate>Wed, 28 Aug 2024 15:16:39 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/kimi_ai/</guid><description>&lt;h4 id="kimi-功能">Kimi 功能：&lt;/h4>
+&lt;p>&lt;img src="https://picx.zhimg.com/v2-93823535f337e397c8251039f5c0458d.webp" alt="img">&lt;/p>
+&lt;ol>
+&lt;li>长文总结和生成功能：能够高效地提炼大量信息，支持最多50个文件，接受pdf、doc、xlsx、PPT、txt、图片等多种格式；&lt;/li>
+&lt;li>联网搜索功能：帮助用户快速获取所需信息，提升了工作效率；&lt;/li>
+&lt;li>数据处理功能：能够处理和分析复杂数据，为企业决策提供了有力支持；&lt;/li>
+&lt;li>编写代码功能：使得Kimi能够辅助开发者进行编程工作，提高了开发效率&lt;/li>
+&lt;li>用户交互功能：使得Kimi能够与用户进行自然流畅的对话，提升了用户体验；&lt;/li>
+&lt;li>翻译功能：帮助用户跨越语言障碍，实现全球范围内的信息交流。&lt;/li>
+&lt;/ol></description></item><item><title>剪映</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/capcut/</link><pubDate>Wed, 28 Aug 2024 15:15:23 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/capcut/</guid><description>&lt;p>字幕识别，智能定位素材，音频美化，声音克隆，智能打光，画面超分，镜头跟踪，智能运镜&lt;/p></description></item><item><title>可灵 AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/klingai/</link><pubDate>Wed, 28 Aug 2024 15:15:12 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/klingai/</guid><description>&lt;p>可灵大模型（Kling）是由快手大模型团队自研打造的视频生成大模型，具备强大的视频生成能力，让用户可以轻松高效地完成艺术视频创作&lt;/p>
+&lt;ul>
+&lt;li>大幅度的合理运动：可灵采用3D时空联合注意力机制，能够更好地建模复杂时空运动，生成较大幅度运动的视频内容，同时能够符合运动规律。&lt;/li>
+&lt;li>长达2分钟的视频生成：得益于高效的训练基础设施、极致的推理优化和可扩展的基础架构，可灵大模型能够生成长达2分钟的视频，且帧率达到30fps。&lt;/li>
+&lt;li>模拟物理世界特性：基于自研模型架构及Scaling Law激发出的强大建模能力，可灵能够模拟真实世界的物理特性，生成符合物理规律的视频。&lt;/li>
+&lt;li>强大的概念组合能力：基于对文本-视频语义的深刻理解和 Diffusion Transformer 架构的强大能力，可灵能够将用户丰富的想象力转化为具体的画面，虚构真实世界中不会出现的的场景&lt;/li>
+&lt;li>电影级的画面生成：基于自研3D VAE，可灵能够生成1080p分辨率的电影级视频，无论是浩瀚壮阔的宏大场景，还是细腻入微的特写镜头，都能够生动呈现。&lt;/li>
+&lt;li>支持自由的输出视频宽高比：可灵采用了可变分辨率的训练策略，在推理过程中可以做到同样的内容输出多种多样的视频宽高比，满足更丰富场景中的视频素材使用需求。&lt;/li>
+&lt;/ul></description></item><item><title>火山翻译</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/volcengine_translate/</link><pubDate>Wed, 28 Aug 2024 15:13:30 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/volcengine_translate/</guid><description>&lt;h2 id="在火山让翻译更简单">在火山，让翻译更简单&lt;/h2>
+&lt;p>依托百亿级数据积累和行业前沿算法，火山翻译向企业客户提供翻译 API、火山同传等产品服务，适用于直播同传、海外内容翻译等场景。同时，我们也在浏览器插件、在线翻译器等产品上向个人用户提供丰富、便捷的翻译功能。&lt;/p>
+&lt;h2 id="丰富的产品和服务能力">丰富的产品和服务能力&lt;/h2>
+&lt;p>从个人到企业，从文本翻译到音视频翻译，从标准API到定制化服务，各类型能力可满足不同场景需要&lt;/p>
+&lt;h2 id="前沿的算法能力">前沿的算法能力&lt;/h2>
+&lt;p>由字节跳动 AI Lab（人工智能实验室）自主研发，屡次斩获机器翻译大赛重磅奖项、学术研究成果国际知名，保证了先进的翻译质量和服务优化的长期投入&lt;/p>
+&lt;h2 id="广泛的行业应用场景">广泛的行业应用场景&lt;/h2>
+&lt;p>各行各业个人用户和企业客户的共同选择，为直播、游戏、电商等行业提供完善的翻译解决方案&lt;/p></description></item><item><title>通义千问</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/qwen/</link><pubDate>Sun, 25 Aug 2024 12:08:58 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/qwen/</guid><description>&lt;p>阿里巴巴的&amp;quot;通义千问&amp;quot;是阿里云自主研发的大语言模型，于2023年4月首次问世，致力于基础模型的技术研发，并不断升级迭代。最新版本2.5在理解能力、逻辑推理、指令遵循和代码能力等方面均有显著提升，尤其在中文能力方面持续领先业界。此外，通义还发布了1100亿参数的开源模型Qwen1.5-110B，在多个基准测评中超越了Meta的Llama-3-70B模型，登顶HuggingFace开源大模型排行榜。&lt;/p>
+&lt;p>通义千问在多模态模型和专有能力模型方面也具有业界顶尖影响力，如视觉理解模型Qwen-VL-Max和代码大模型CodeQwen1.5-7B均在各自领域取得优异成绩。通义千问已广泛应用于文生图、智能编码、文档解析、音视频理解等多个领域，企业客户和开发者可以通过API调用或模型下载等方式接入通义，个人用户也可免费使用。&lt;/p>
+&lt;p>阿里云坚定地走开源路线，推动大模型开源，让更多开发者和中小企业能够使用和迭代大模型，加速了大模型的应用落地进程。通义推出了参数规模从5亿到1100亿不等的多款大语言模型，满足不同场景用户的需求。&lt;/p>
+&lt;p>2024年5月24日，通义千问2.5正式发布，相比上一版本在多个方面有显著提升。同时，通义还推出了多模态AI生成能力，并与小米、微博、众安保险等企业达成合作，将大模型应用于社交媒体、保险、游戏等领域。&lt;/p></description></item></channel></rss>

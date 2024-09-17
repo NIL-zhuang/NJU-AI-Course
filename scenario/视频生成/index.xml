@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>视频生成 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/scenario/%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90/</link><description>Recent content in 视频生成 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 15:15:12 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/scenario/%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml"/><item><title>可灵 AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/klingai/</link><pubDate>Wed, 28 Aug 2024 15:15:12 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/klingai/</guid><description>&lt;p>可灵大模型（Kling）是由快手大模型团队自研打造的视频生成大模型，具备强大的视频生成能力，让用户可以轻松高效地完成艺术视频创作&lt;/p>
+&lt;ul>
+&lt;li>大幅度的合理运动：可灵采用3D时空联合注意力机制，能够更好地建模复杂时空运动，生成较大幅度运动的视频内容，同时能够符合运动规律。&lt;/li>
+&lt;li>长达2分钟的视频生成：得益于高效的训练基础设施、极致的推理优化和可扩展的基础架构，可灵大模型能够生成长达2分钟的视频，且帧率达到30fps。&lt;/li>
+&lt;li>模拟物理世界特性：基于自研模型架构及Scaling Law激发出的强大建模能力，可灵能够模拟真实世界的物理特性，生成符合物理规律的视频。&lt;/li>
+&lt;li>强大的概念组合能力：基于对文本-视频语义的深刻理解和 Diffusion Transformer 架构的强大能力，可灵能够将用户丰富的想象力转化为具体的画面，虚构真实世界中不会出现的的场景&lt;/li>
+&lt;li>电影级的画面生成：基于自研3D VAE，可灵能够生成1080p分辨率的电影级视频，无论是浩瀚壮阔的宏大场景，还是细腻入微的特写镜头，都能够生动呈现。&lt;/li>
+&lt;li>支持自由的输出视频宽高比：可灵采用了可变分辨率的训练策略，在推理过程中可以做到同样的内容输出多种多样的视频宽高比，满足更丰富场景中的视频素材使用需求。&lt;/li>
+&lt;/ul></description></item></channel></rss>
