@@ -1,7 +1,9 @@
 ---
 title: "火山翻译"
 date: "2024-08-28T15:13:30+08:00"
-tags: ["翻译", "国内", "文本"]
+modality: ["文本"]
+availability: ["国内"]
+scenario: ["翻译"]
 featured_image: "https://store-images.s-microsoft.com/image/apps.30225.bc9854c8-063c-4742-aa5c-7172ae61bf83.5cdc6cad-f2e6-4268-8a45-e2dd08f60989.20905871-a54e-4e27-abdb-8fa9c8f74ce6?mode=scale&h=100&q=90&w=100"
 description: "在火山， 让翻译更简单"
 rating: 5

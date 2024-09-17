@@ -1,7 +1,9 @@
 ---
 title: "Leonardo.AI"
 date: "2024-08-28T15:14:53+08:00"
-tags: ["素材", "海外", "3D", "视觉"]
+modality: ["3D", "图像"]
+availability: ["海外"]
+scenario: ["素材生成"]
 featured_image: "https://hotaigc.cn/imgs/sites/20230613_1686628412_BIugc.png"
 description: "创造力 释放 | 通过一套独特的工具利用生成式 AI 向世界传达您的想法。"
 rating: 3

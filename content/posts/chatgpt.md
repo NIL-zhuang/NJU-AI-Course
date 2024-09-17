@@ -1,7 +1,9 @@
 ---
 title: "ChatGPT"
 date: 2024-08-25T12:08:58+08:00
-tags: ["Chat","海外","文本"]
+modality: ["文本"]
+availability: ["海外"]
+scenario: ["聊天"]
 featured_image: "https://qph.cf2.poecdn.net/main-thumb-pb-3017-200-ffkgsbdxtxdxeieebtyvgplzvpqsuakd.jpeg"
 description: "获得答案。寻找灵感。更有效率。免费使用。易于尝试。只需询问和ChatGPT可以帮助写作、学习、头脑风暴等等。"
 rating: 5

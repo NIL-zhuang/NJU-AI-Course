@@ -2,6 +2,9 @@
 title: "QuillBot"
 date: "2024-08-28T15:13:58+08:00"
 tags: ["写作", "海外", "文本"]
+modality: ["文本"]
+availability: ["海外"]
+scenario: ["写作", "文本润色"]
 featured_image: "https://store-images.s-microsoft.com/image/apps.9491.174c7817-5178-49ef-b42e-528bc792616c.54885689-0a49-4579-b6a1-c609d3110e9e.a9469b89-940a-4480-8d63-2742d59e0bee?mode=scale&h=100&q=90&w=100"
 description: "Your ideas better writing"
 rating: 3

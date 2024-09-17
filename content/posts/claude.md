@@ -1,7 +1,9 @@
 ---
 title: "Claude"
 date: 2024-08-25T12:08:58+08:00
-tags: ["Chat","海外","文本"]
+modality: ["文本"]
+availability: ["海外"]
+scenario: ["聊天"]
 featured_image: "https://qph.cf2.poecdn.net/main-thumb-pb-1019-200-ecyfizaydihfkxfwhwjlruyjdyoxengr.jpeg"
 description: "Claude 是我们所有人的人工智能。无论您是独自集思广益还是与数千人的团队一起建设，Claude 都在这里提供帮助。"
 rating: 5

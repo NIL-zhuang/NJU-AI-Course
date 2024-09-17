@@ -2,6 +2,9 @@
 title: "NovelAI"
 date: "2024-08-28T15:14:18+08:00"
 tags: ["写作", "海外", "文本"]
+modality: ["文本"]
+availability: ["海外"]
+scenario: ["写作"]
 featured_image: "https://novelai.net/_next/static/media/logo_dark.fc64fca2.png"
 description: "在人工智能的驱动下，轻松构建独特的故事，说明激动人心的故事，写诱人的浪漫故事，或者只是胡闹。没有审查或指导方针——什么都可以！"
 rating: 5

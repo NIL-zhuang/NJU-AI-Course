@@ -1,7 +1,9 @@
 ---
 title: "Github Copilot"
 date: "2024-08-28T15:15:32+08:00"
-tags: ["编程", "海外", "代码"]
+modality: ["代码"]
+availability: ["海外"]
+scenario: ["编程", "代码补全"]
 featured_image: "https://img0.baidu.com/it/u=3670695822,3153400769&fm=253&fmt=auto&app=138&f=JPEG?w=243&h=243"
 description: "世界上采用最广泛的AI开发工具"
 rating: 5
