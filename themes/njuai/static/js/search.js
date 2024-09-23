@@ -37,7 +37,13 @@ function executeSearch(searchQuery) {
         if (result.length > 0) {
             populateResults(result);
         } else {
-            $('#search-results').append("<p>No matches found</p>");
+            $('#search-results').css({
+                'display': 'flex',
+                'justify-content': 'center',
+                'align-items': 'center',
+                'flex-wrap': 'wrap'
+            });
+            $('#search-results').append("<div class='notification is-warning'>未找到搜索结果，请更换关键词后重试。</div>");
         }
     });
 }
