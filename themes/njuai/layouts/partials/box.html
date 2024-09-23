@@ -40,6 +40,7 @@
       display: -webkit-box;
       display: -ms-flexbox;
       -webkit-box-orient: vertical;
+      flex-direction: column;
       -ms-flex-direction: column;
       -webkit-line-clamp: 3;
       /* 限制在3行内 */
@@ -50,8 +51,14 @@
   </div>
   <div class="columns is-flex">
     <div class="column">
-      {{ range .Params.Tags }}
-      <span class="tag is-primary is-light">{{ . }}</span>
+      {{ range .Params.Modality }}
+      <span class="tag is-info is-light">{{ . }}</span>
+      {{ end }}
+      {{ range .Params.Availability }}
+      <span class="tag is-success is-light">{{ . }}</span>
+      {{ end }}
+      {{ range .Params.Scenario }}
+      <span class="tag is-warning is-light">{{ . }}</span>
       {{ end }}
     </div>
   </div>
