@@ -12,19 +12,19 @@
     <div class="columns is-centered">
       <div class="column">
         {{ range $index, $page := $paginator.Pages }} {{ if eq (mod $index 4) 0
-        }}{{ partialCached "box.html" $page }}{{ end }} {{ end }}
+        }}{{ partial "box.html" $page }}{{ end }} {{ end }}
       </div>
       <div class="column">
         {{ range $index, $page := $paginator.Pages }} {{ if eq (mod $index 4) 1
-        }}{{ partialCached "box.html" $page }}{{ end }} {{ end }}
+        }}{{ partial "box.html" $page }}{{ end }} {{ end }}
       </div>
       <div class="column">
         {{ range $index, $page := $paginator.Pages }} {{ if eq (mod $index 4) 2
-        }}{{ partialCached "box.html" $page }}{{ end }} {{ end }}
+        }}{{ partial "box.html" $page }}{{ end }} {{ end }}
       </div>
       <div class="column">
         {{ range $index, $page := $paginator.Pages }} {{ if eq (mod $index 4) 3
-        }}{{ partialCached "box.html" $page }}{{ end }} {{ end }}
+        }}{{ partial "box.html" $page }}{{ end }} {{ end }}
       </div>
     </div>
     <div class="column is-centered">
