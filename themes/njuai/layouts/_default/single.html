@@ -82,5 +82,5 @@
 </div>
 {{- if or (eq .Params.comment true) (and (ne .Params.comment false) (eq
 site.Params.comment true)) -}}
-<section class="container">{{- partial "comments.html" . -}}</section>
+<section class="container">{{- partialCached "comments.html" . -}}</section>
 {{- end -}} {{ end }}

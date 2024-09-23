@@ -6,16 +6,16 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
     <script src="{{ $baseUrl }}/js/search.js"></script>
-    {{- partial "head.html" . -}}
+    {{- partialCached "head.html" . -}}
 
   <body>
-    {{- partial "header.html" . -}}
+    {{- partialCached "header.html" . -}}
     <main class="main" role="main">
         <section class="section">
             <div class="container">
               <div class="columns is-centered">
                 <div class="column">
-                  {{- partial "contentsearch.html" . -}}
+                  {{- partialCached "contentsearch.html" . -}}
                 </div>
               </div>
               <div class="columns is-centered">
@@ -105,7 +105,7 @@
 
 
     </main>
-    {{- partial "footer.html" . -}}
+    {{- partialCached "footer.html" . -}}
   </body>
 </html>
 
