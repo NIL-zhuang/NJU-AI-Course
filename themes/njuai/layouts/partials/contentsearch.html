@@ -1,6 +1,18 @@
 <style>
-    #search-query {
-        width: 80rem; /* 你可以根据需要调整这个值 */
+    #search-query{
+      width: 600px; /* 默认宽度 */
+    }
+
+    @media screen and (max-width: 768px) {
+      #search-query {
+        width: 400px; /* 屏幕宽度小于等于 768px 时的宽度 */
+      }
+    }
+
+    @media screen and (max-width: 480px) {
+      #search-query {
+        width: 100%; /* 屏幕宽度小于等于 480px 时的宽度，自适应父容器宽度 */
+      }
     }
   </style>
 <!-- 正式发布后需要修改这个搜索地址 -->
