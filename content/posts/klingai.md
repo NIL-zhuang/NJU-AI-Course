@@ -4,7 +4,7 @@ date: "2024-08-28T15:15:12+08:00"
 modality: ["图像", "视频"]
 availability: ["国内"]
 scenario: ["视频生成", "图像生成", "视频编辑"]
-featured_image: "icons/keling.png"
+featured_image: "icons/kling.jpg"
 description: "可灵 让想象力动起来 | 快手的视频生成平台"
 rating: 5
 comment: true
