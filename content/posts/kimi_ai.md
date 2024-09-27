@@ -4,7 +4,7 @@ date: "2024-08-28T15:16:39+08:00"
 modality: ["文本"]
 availability: ["国内"]
 scenario: ["聊天"]
-featured_image: "https://www.glookai.com/wp-content/uploads/2024/03/Kimi.jpg"
+featured_image: "icons/Kimi.jpg"
 description: "Kimi 是一个有着超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧| Kimi.ai - Moonshot AI 出品的智能助手."
 rating: 4
 comment: true

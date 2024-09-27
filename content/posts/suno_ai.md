@@ -4,7 +4,7 @@ date: "2024-08-28T15:15:47+08:00"
 modality: ["音频"]
 availability: ["海外"]
 scenario: ["音乐生成"]
-featured_image: "https://suno-ai.org/wp-content/uploads/2024/09/suno-ai.org_.png"
+featured_image: "icons/suno.jpg"
 description: "为任何事物创造一首歌"
 rating: 5
 comment: true

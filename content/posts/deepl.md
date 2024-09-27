@@ -4,7 +4,7 @@ date: "2024-08-28T15:13:03+08:00"
 modality: ["文本"]
 availability: ["海外"]
 scenario: ["翻译"]
-featured_image: "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/08/7e/02/087e0207-625a-fe74-5924-26a67914d55f/source/512x512bb.jpg"
+featured_image: "icons/deepl.jpg"
 description: "DeepL是由一家德国公司推出的一款国际化翻译软件，号称“全世界最准确的翻译”"
 rating: 4
 comment: true

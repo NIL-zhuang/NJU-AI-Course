@@ -4,7 +4,7 @@ date: "2024-08-28T15:14:08+08:00"
 modality: ["文本"]
 availability: ["海外"]
 scenario: ["写作", "文本润色"]
-featured_image: "https://picx.zhimg.com/70/v2-c242b0f206cdf0388188775d05e9bba9_1440w.avis?source=172ae18b&biz_tag=Post"
+featured_image: "icons/grammarly.avif"
 description: "更快地完成工作。借助Grammarly forChrome浏览器扩展，无论何时何地，您都可以在线工作，获得行业领先的AI写作帮助。"
 rating: 5
 comment: true

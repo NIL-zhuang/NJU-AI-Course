@@ -4,7 +4,7 @@ date: "2024-08-28T15:14:27+08:00"
 modality: ["文本"]
 availability: ["海外"]
 scenario: ["写作"]
-featured_image: "https://img2.baidu.com/it/u=2411745869,1778405222&fm=253&fmt=auto&app=138&f=PNG?w=500&h=500"
+featured_image: "icons/notion.jpg"
 description: "笔记软件 Notion 的 AI，知识、答案、想法，一键之遥。"
 rating: 4
 comment: true

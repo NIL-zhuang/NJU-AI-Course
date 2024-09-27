@@ -4,7 +4,7 @@ date: "2024-08-28T15:14:45+08:00"
 modality: ["图像"]
 availability: ["海外"]
 scenario: ["图像编辑", "素材生成"]
-featured_image: "https://avatars.githubusercontent.com/u/1154221?s=200&v=4"
+featured_image: "icons/hotpot.png"
 description: "用人工智能激发创造力和生产力"
 rating: 3
 comment: true

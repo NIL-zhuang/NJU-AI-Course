@@ -4,7 +4,7 @@ date: 2024-08-25T12:08:58+08:00
 modality: ["文本"]
 availability: ["国内"]
 scenario: ["聊天"]
-featured_image: "https://qph.cf2.poecdn.net/main-thumb-pb-4160791-200-qlqunomdvkyitpedtghnhsgjlutapgfl.jpeg"
+featured_image: "icons/qwen.jpg"
 description: "通义/ 通情，达意 | 你的全能 AI 助手"
 rating: 4
 comment: true

@@ -4,7 +4,7 @@ date: "2024-08-28T15:13:47+08:00"
 modality: ["文本"]
 availability: ["海外"]
 scenario: ["论文阅读"]
-featured_image: "https://papers.cool/static/favicon.ico"
+featured_image: "icons/coolpaper.jpg"
 description: "让刷论文变成一种非常“酷”的沉浸式体验，“酷”主要体现在通过 Kimi 回答了几个论文的FAQ"
 rating: 5
 comment: true
