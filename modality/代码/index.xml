@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>代码 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/modality/%E4%BB%A3%E7%A0%81/</link><description>Recent content in 代码 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 15:15:40 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/modality/%E4%BB%A3%E7%A0%81/index.xml" rel="self" type="application/rss+xml"/><item><title>Cursor</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/cursor/</link><pubDate>Wed, 28 Aug 2024 15:15:40 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/cursor/</guid><description>&lt;p>Cursor 是一个基于 Visual Studio Code（VS Code）技术构建的高级代码编辑器，专为提高编程效率并更深度地整合 AI 功能而设计。它不仅继承了 VS Code 的强大功能和用户界面，还增加了专门针对 AI 支持的特色功能。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>代码 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/modality/%E4%BB%A3%E7%A0%81/</link><description>Recent content in 代码 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 20:32:55 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/modality/%E4%BB%A3%E7%A0%81/index.xml" rel="self" type="application/rss+xml"/><item><title>豆包 MarsCode</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao_marscode/</link><pubDate>Fri, 27 Sep 2024 20:32:55 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao_marscode/</guid><description>&lt;p>豆包 MarsCode 编程助手是豆包旗下的 AI 编程助手，提供以智能代码补全为代表的 AI 功能，支持主流编程语言及 IDE，能在开发过程中提供单行或整个函数的编写建议，同时支持在用户开发过程中提供代码解释、代码审查、问题修复等辅助功能，提升开发效率与质量。​&lt;/p>
+&lt;h2 id="使用场景">使用场景​&lt;/h2>
+&lt;h3 id="智能代码操作">智能代码操作​&lt;/h3>
+&lt;p>豆包 MarsCode 编程助手提供代码自动补全与生成、问题修复、代码优化等能力，帮助你更高效地完成开发任务。​&lt;/p>
+&lt;h3 id="智能问答">智能问答​&lt;/h3>
+&lt;p>基于丰富的研发知识，豆包 MarsCode 编程助手可以快速且准确地回答研发相关问题。&lt;/p></description></item><item><title>Amazon Q</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/amazon_q/</link><pubDate>Fri, 27 Sep 2024 20:31:02 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/amazon_q/</guid><description>&lt;p>Amazon Q Developer是一款生成式人工智能（AI）驱动的对话助手，可以帮助您理解、构建、扩展和操作AWS应用程序。您可以提出有关AWS架构、您的AWS资源、最佳实践、留档、支持等方面的问题。Amazon Q 不断更新其功能，以便您的问题获得最上下文相关和可操作的答案。&lt;/p>
+&lt;p>当在集成开发环境（IDE）中使用时，Amazon Q 提供软件开发帮助。Amazon Q 可以聊天代码，提供内联代码完成，生成新代码，扫描您的代码以查找安全漏洞，并进行代码升级和改进，例如语言更新、调试和优化。&lt;/p>
+&lt;p>Amazon Q 由 Amazon Bedrock 提供支持，这是一项完全托管的服务，通过应用编程接口提供基础模型。为 Amazon Q 提供支持的模型已经通过高质量的AWS内容得到了增强，为您提供更完整、可操作和参考的答案，以加速您在AWS上的构建。&lt;/p></description></item><item><title>CodeGeeX</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/codegeex/</link><pubDate>Fri, 27 Sep 2024 20:29:35 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/codegeex/</guid><description>&lt;p>CodeGeeX是一款基于大模型的智能编程助手，它可以实现代码的生成与补全、自动为代码添加注释、自动解释代码、自动编写单元测试、实现代码审查Code Review、自动修复代码fixbug、自动生成commit message完成git提交，以及在不同编程语言的代码间实现互译、针对技术和代码问题的智能问答等丰富的功能。帮助开发者显著提高工作效率，CodeGeeX支持300+种编程语言，适配多种主流IDE平台，包括Visual Studio Code， JetBrains IDES，Visual Studio, HBuilderX，DeepIn-IDE等。&lt;/p></description></item><item><title>扣子/Coze</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</link><pubDate>Fri, 27 Sep 2024 20:28:10 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</guid><description>&lt;h2 id="概述">概述&lt;/h2>
+&lt;p>海外版 coze.com，可以用 GPT-4&lt;/p>
+&lt;p>扣子是新一代 AI 应用开发平台。无论你是否有编程基础，都可以在扣子上快速搭建基于大模型的各类 Bot，并将 Bot 发布到各个社交平台、通讯软件或部署到网站等其他渠道。&lt;/p>
+&lt;h2 id="功能与优势">功能与优势&lt;/h2>
+&lt;h3 id="无限拓展的能力集">无限拓展的能力集&lt;/h3>
+&lt;p>扣子集成了丰富的插件工具，可以极大地拓展 Bot 的能力边界。&lt;/p>
+&lt;ul>
+&lt;li>内置插件：目前平台已经集成了近百款各类型的插件，包括资讯阅读、旅游出行、效率办公、图片理解等 API 及多模态模型。 你可以直接将这些插件添加到 Bot 中，丰富 Bot 能力。例如使用新闻插件，打造一个可以播报最新时事新闻的 AI 新闻播音员。&lt;/li>
+&lt;li>自定义插件：扣子平台也支持创建自定义插件。 你可以将已有的 API 能力通过参数配置的方式快速创建一个插件让 Bot 调用。&lt;/li>
+&lt;/ul>
+&lt;h3 id="丰富的数据源">丰富的数据源&lt;/h3>
+&lt;p>扣子提供了简单易用的知识库功能来管理和存储数据，支持 Bot 与你自己的数据进行交互。无论是内容量巨大的本地文件还是某个网站的实时信息，都可以上传到知识库中。这样，Bot 就可以使用知识库中的内容回答问题了。&lt;/p>
+&lt;ul>
+&lt;li>内容格式：知识库支持添加文本格式、表格格式、照片格式的数据。&lt;/li>
+&lt;li>内容上传： 知识库支持 TXT 等本地文件、在线网页数据、Notion 页面及数据库、API JSON 等多种数据源，你也可以直接在知识库内添加自定义数据。&lt;/li>
+&lt;/ul>
+&lt;h3 id="持久化的记忆能力">持久化的记忆能力&lt;/h3>
+&lt;p>扣子提供了方便 AI 交互的数据库记忆能力，可持久记住用户对话的重要参数或内容。&lt;/p>
+&lt;p>例如，创建一个数据库来记录阅读笔记，包括书名、阅读进度和个人注释。有了数据库，Bot 就可以通过查询数据库中的数据来提供更准确的答案。&lt;/p>
+&lt;h3 id="灵活的工作流设计">灵活的工作流设计&lt;/h3>
+&lt;p>扣子的工作流功能可以用来处理逻辑复杂，且有较高稳定性要求的任务流。扣子提供了大量灵活可组合的节点包括大语言模型 LLM、自定义代码、判断逻辑等，无论你是否有编程基础，都可以通过拖拉拽的方式快速搭建一个工作流，例如：&lt;/p>
+&lt;ul>
+&lt;li>创建一个搜集电影评论的工作流，快速查看一部最新电影的评论与评分。&lt;/li>
+&lt;li>创建一个撰写行业研究报告的工作流，让 Bot 写一份 20 页的报告。&lt;/li>
+&lt;/ul></description></item><item><title>Devv AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/devv_ai/</link><pubDate>Fri, 27 Sep 2024 20:27:37 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/devv_ai/</guid><description>&lt;h2 id="devv的主要功能">Devv的主要功能&lt;/h2>
+&lt;ul>
+&lt;li>编程和技术问题搜索解答：Devv.ai可以提供关于编程、软件开发和人工智能等方面的建议和指导，回答关于编程语言、算法、代码调试、软件开发最佳实践等方面的问题&lt;/li>
+&lt;li>预设多种编程语言：Devv.ai搜索引擎预设了Python、Go、JavaScript、Java、SQL、Rust、PHP、C、Swift等10多种编程语言可供选择进行提问&lt;/li>
+&lt;li>支持连续对话：Devv.ai允许用户在当前内容上继续提问和进行连续对话，并且回答的内容会在右侧标注参考来源和出处&lt;/li>
+&lt;li>多平台使用：Devv.ai支持通过在线网页版、Windows和macOS桌面客户端使用&lt;/li>
+&lt;/ul></description></item><item><title>Cursor</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/cursor/</link><pubDate>Wed, 28 Aug 2024 15:15:40 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/cursor/</guid><description>&lt;p>Cursor 是一个基于 Visual Studio Code（VS Code）技术构建的高级代码编辑器，专为提高编程效率并更深度地整合 AI 功能而设计。它不仅继承了 VS Code 的强大功能和用户界面，还增加了专门针对 AI 支持的特色功能。&lt;/p>
 &lt;p>Cursor通过这些独特的功能，极大地提升了编程的便捷和效率，使开发者能够更有效地利用AI技术进行软件开发。下面是Cursor的三个核心功能&lt;/p>
 &lt;ol>
 &lt;li>了解您的代码库：用户可以通过聊天界面直接查询代码库中的信息或引用特定的文件或文档。这种方式非常适合快速获取方案或进行代码审查，用户还可以通过简单的点击即可使用模型生成的代码片段。&lt;/li>

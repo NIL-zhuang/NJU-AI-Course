@@ -1,4 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>图像 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/modality/%E5%9B%BE%E5%83%8F/</link><description>Recent content in 图像 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 15:15:12 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/modality/%E5%9B%BE%E5%83%8F/index.xml" rel="self" type="application/rss+xml"/><item><title>可灵 AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/klingai/</link><pubDate>Wed, 28 Aug 2024 15:15:12 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/klingai/</guid><description>&lt;p>可灵大模型（Kling）是由快手大模型团队自研打造的视频生成大模型，具备强大的视频生成能力，让用户可以轻松高效地完成艺术视频创作&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>图像 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/modality/%E5%9B%BE%E5%83%8F/</link><description>Recent content in 图像 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 20:36:35 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/modality/%E5%9B%BE%E5%83%8F/index.xml" rel="self" type="application/rss+xml"/><item><title>Gauth 学习助手</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/gauth/</link><pubDate>Fri, 27 Sep 2024 20:36:35 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/gauth/</guid><description>&lt;p>由 AI 驱动的 Gauth 是一个方便的作业助手，具有高精度。拍张照片，AI 即可为您解决复杂的数学、化学等问题。凭借广泛的专家网络，Gauth 还提供随时随地的专业帮助。无论您的作业需求是什么，都可以试试 Gauth！&lt;/p>
+&lt;h2 id="主要功能">主要功能：&lt;/h2>
+&lt;h3 id="-准确的答案逐步解析">► 准确的答案，逐步解析&lt;/h3>
+&lt;p>与其他作业助手相比，Gauth 更快、更准确，尤其是借助 Gauth AI Pro 的支持。问题可以在几秒钟内快速解决，所有答案都附有动画演示和详细解释。&lt;/p>
+&lt;h3 id="-掌握所有学科涵盖各个年级">► 掌握所有学科，涵盖各个年级&lt;/h3>
+&lt;p>不仅是数学问题，Gauth 现在还可以解决物理、化学、生物等各个层次的问题。&lt;/p>
+&lt;h3 id="-专业专家247随时提供帮助">► 专业专家24/7随时提供帮助&lt;/h3>
+&lt;p>作为一个强大且资源丰富的作业解决者，我们拥有专业专家，24/7随时为您提供多学科的帮助，包括数学、物理、化学和生物。所有专家都可以随时随地解决您的问题，并提供清晰的逐步解析。借助 Gauth，您可以轻松理解和掌握不同的学科知识。&lt;/p>
+&lt;h3 id="-使用方便作业变得有趣">► 使用方便，作业变得有趣&lt;/h3>
+&lt;p>只需拍摄问题照片，Gauth 就能自动识别并裁剪问题。在上传后，专家将在几秒钟内提供格式化的解答和解释。我们希望通过 Gauth，您能发现作业也可以变得有趣且易于理解！&lt;/p>
+&lt;h3 id="-学习工具箱集于一身">► 学习工具箱，集于一身&lt;/h3>
+&lt;p>包含阅读、写作、专注模式和计算器等必备工具。无论您在阅读、写作、分心或计算方面遇到困难，都可以使用文本简化、语法检查和数学计算等工具。Gauth 帮助您提升学术表现。&lt;/p>
+&lt;h3 id="-涵盖的学科">► 涵盖的学科&lt;/h3>
+&lt;ul>
+&lt;li>数学&lt;/li>
+&lt;li>生物&lt;/li>
+&lt;li>物理&lt;/li>
+&lt;li>化学&lt;/li>
+&lt;li>其他&lt;/li>
+&lt;/ul>
+&lt;h3 id="-涵盖的数学主题">► 涵盖的数学主题&lt;/h3>
+&lt;ul>
+&lt;li>数学文字题&lt;/li>
+&lt;li>代数（实数；算术；集合论；表达式；对数；复数）&lt;/li>
+&lt;li>函数（线性；二次；多项式；指数；有理；对数；反函数）&lt;/li>
+&lt;li>几何（平面与立体几何；代数与线；空间中的线与平面；变换）&lt;/li>
+&lt;li>三角学（三角比；正弦定理；余弦定理；倒数性质）&lt;/li>
+&lt;li>微积分（导数；积分；极限；切线/面积问题）&lt;/li>
+&lt;li>统计与数据分析（概率；数据表示；泊松/正态分布）&lt;/li>
+&lt;li>矩阵（矩阵代数；线性方程组与矩阵）&lt;/li>
+&lt;li>逻辑（推理与证明）&lt;/li>
+&lt;/ul></description></item><item><title>Grok</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</link><pubDate>Fri, 27 Sep 2024 20:36:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</guid><description>&lt;p>Grok是 xAI 基于大型语言模型开发的生成式人工智能聊天机器人，类似于 ChatGPT。它能够实时回答用户的问题，并利用 X 社交媒体平台的数据进行回应。&lt;/p></description></item><item><title>扣子/Coze</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</link><pubDate>Fri, 27 Sep 2024 20:28:10 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</guid><description>&lt;h2 id="概述">概述&lt;/h2>
+&lt;p>海外版 coze.com，可以用 GPT-4&lt;/p>
+&lt;p>扣子是新一代 AI 应用开发平台。无论你是否有编程基础，都可以在扣子上快速搭建基于大模型的各类 Bot，并将 Bot 发布到各个社交平台、通讯软件或部署到网站等其他渠道。&lt;/p>
+&lt;h2 id="功能与优势">功能与优势&lt;/h2>
+&lt;h3 id="无限拓展的能力集">无限拓展的能力集&lt;/h3>
+&lt;p>扣子集成了丰富的插件工具，可以极大地拓展 Bot 的能力边界。&lt;/p>
+&lt;ul>
+&lt;li>内置插件：目前平台已经集成了近百款各类型的插件，包括资讯阅读、旅游出行、效率办公、图片理解等 API 及多模态模型。 你可以直接将这些插件添加到 Bot 中，丰富 Bot 能力。例如使用新闻插件，打造一个可以播报最新时事新闻的 AI 新闻播音员。&lt;/li>
+&lt;li>自定义插件：扣子平台也支持创建自定义插件。 你可以将已有的 API 能力通过参数配置的方式快速创建一个插件让 Bot 调用。&lt;/li>
+&lt;/ul>
+&lt;h3 id="丰富的数据源">丰富的数据源&lt;/h3>
+&lt;p>扣子提供了简单易用的知识库功能来管理和存储数据，支持 Bot 与你自己的数据进行交互。无论是内容量巨大的本地文件还是某个网站的实时信息，都可以上传到知识库中。这样，Bot 就可以使用知识库中的内容回答问题了。&lt;/p>
+&lt;ul>
+&lt;li>内容格式：知识库支持添加文本格式、表格格式、照片格式的数据。&lt;/li>
+&lt;li>内容上传： 知识库支持 TXT 等本地文件、在线网页数据、Notion 页面及数据库、API JSON 等多种数据源，你也可以直接在知识库内添加自定义数据。&lt;/li>
+&lt;/ul>
+&lt;h3 id="持久化的记忆能力">持久化的记忆能力&lt;/h3>
+&lt;p>扣子提供了方便 AI 交互的数据库记忆能力，可持久记住用户对话的重要参数或内容。&lt;/p>
+&lt;p>例如，创建一个数据库来记录阅读笔记，包括书名、阅读进度和个人注释。有了数据库，Bot 就可以通过查询数据库中的数据来提供更准确的答案。&lt;/p>
+&lt;h3 id="灵活的工作流设计">灵活的工作流设计&lt;/h3>
+&lt;p>扣子的工作流功能可以用来处理逻辑复杂，且有较高稳定性要求的任务流。扣子提供了大量灵活可组合的节点包括大语言模型 LLM、自定义代码、判断逻辑等，无论你是否有编程基础，都可以通过拖拉拽的方式快速搭建一个工作流，例如：&lt;/p>
+&lt;ul>
+&lt;li>创建一个搜集电影评论的工作流，快速查看一部最新电影的评论与评分。&lt;/li>
+&lt;li>创建一个撰写行业研究报告的工作流，让 Bot 写一份 20 页的报告。&lt;/li>
+&lt;/ul></description></item><item><title>可灵 AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/klingai/</link><pubDate>Wed, 28 Aug 2024 15:15:12 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/klingai/</guid><description>&lt;p>可灵大模型（Kling）是由快手大模型团队自研打造的视频生成大模型，具备强大的视频生成能力，让用户可以轻松高效地完成艺术视频创作&lt;/p>
 &lt;ul>
 &lt;li>大幅度的合理运动：可灵采用3D时空联合注意力机制，能够更好地建模复杂时空运动，生成较大幅度运动的视频内容，同时能够符合运动规律。&lt;/li>
 &lt;li>长达2分钟的视频生成：得益于高效的训练基础设施、极致的推理优化和可扩展的基础架构，可灵大模型能够生成长达2分钟的视频，且帧率达到30fps。&lt;/li>
