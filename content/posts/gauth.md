@@ -3,7 +3,7 @@ title: "Gauth 学习助手"
 date: "2024-09-27T20:36:35+08:00"
 modality: ["文本","图像"]
 availability: ["海外"]
-scenario: ["办公"]
+scenario: ["学习"]
 featured_image: "icons/gauth.jpeg"
 description: "由 AI 驱动的 Gauth 是一个方便的作业助手，无论您的作业需求是什么，都可以试试 Gauth！"
 rating: 5
