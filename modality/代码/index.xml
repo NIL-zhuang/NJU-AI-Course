@@ -5,7 +5,51 @@
 &lt;h3 id="智能问答">智能问答​&lt;/h3>
 &lt;p>基于丰富的研发知识，豆包 MarsCode 编程助手可以快速且准确地回答研发相关问题。&lt;/p></description></item><item><title>Amazon Q</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/amazon_q/</link><pubDate>Fri, 27 Sep 2024 20:31:02 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/amazon_q/</guid><description>&lt;p>Amazon Q Developer是一款生成式人工智能（AI）驱动的对话助手，可以帮助您理解、构建、扩展和操作AWS应用程序。您可以提出有关AWS架构、您的AWS资源、最佳实践、留档、支持等方面的问题。Amazon Q 不断更新其功能，以便您的问题获得最上下文相关和可操作的答案。&lt;/p>
 &lt;p>当在集成开发环境（IDE）中使用时，Amazon Q 提供软件开发帮助。Amazon Q 可以聊天代码，提供内联代码完成，生成新代码，扫描您的代码以查找安全漏洞，并进行代码升级和改进，例如语言更新、调试和优化。&lt;/p>
-&lt;p>Amazon Q 由 Amazon Bedrock 提供支持，这是一项完全托管的服务，通过应用编程接口提供基础模型。为 Amazon Q 提供支持的模型已经通过高质量的AWS内容得到了增强，为您提供更完整、可操作和参考的答案，以加速您在AWS上的构建。&lt;/p></description></item><item><title>CodeGeeX</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/codegeex/</link><pubDate>Fri, 27 Sep 2024 20:29:35 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/codegeex/</guid><description>&lt;p>CodeGeeX是一款基于大模型的智能编程助手，它可以实现代码的生成与补全、自动为代码添加注释、自动解释代码、自动编写单元测试、实现代码审查Code Review、自动修复代码fixbug、自动生成commit message完成git提交，以及在不同编程语言的代码间实现互译、针对技术和代码问题的智能问答等丰富的功能。帮助开发者显著提高工作效率，CodeGeeX支持300+种编程语言，适配多种主流IDE平台，包括Visual Studio Code， JetBrains IDES，Visual Studio, HBuilderX，DeepIn-IDE等。&lt;/p></description></item><item><title>扣子/Coze</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</link><pubDate>Fri, 27 Sep 2024 20:28:10 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</guid><description>&lt;h2 id="概述">概述&lt;/h2>
+&lt;p>Amazon Q 由 Amazon Bedrock 提供支持，这是一项完全托管的服务，通过应用编程接口提供基础模型。为 Amazon Q 提供支持的模型已经通过高质量的AWS内容得到了增强，为您提供更完整、可操作和参考的答案，以加速您在AWS上的构建。&lt;/p></description></item><item><title>CodeGeeX</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/codegeex/</link><pubDate>Fri, 27 Sep 2024 20:29:35 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/codegeex/</guid><description>&lt;p>CodeGeeX是一款基于大模型的智能编程助手，它可以实现代码的生成与补全、自动为代码添加注释、自动解释代码、自动编写单元测试、实现代码审查Code Review、自动修复代码fixbug、自动生成commit message完成git提交，以及在不同编程语言的代码间实现互译、针对技术和代码问题的智能问答等丰富的功能。帮助开发者显著提高工作效率，CodeGeeX支持300+种编程语言，适配多种主流IDE平台，包括Visual Studio Code， JetBrains IDES，Visual Studio, HBuilderX，DeepIn-IDE等。&lt;/p></description></item><item><title>通义灵码</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/tongyi_lingma/</link><pubDate>Fri, 27 Sep 2024 20:29:19 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/tongyi_lingma/</guid><description>&lt;p>通义灵码，是基于通义大模型的智能编程辅助工具，提供行级/函数级实时续写、自然语言生成代码、单元测试生成、代码优化、注释生成、代码解释、研发智能问答、异常报错排查等能力，并针对阿里云的云服务使用场景调优，助力开发者高效、流畅地编码。&lt;/p>
+&lt;h2 id="核心场景">核心场景&lt;/h2>
+&lt;h3 id="代码智能生成">代码智能生成&lt;/h3>
+&lt;p>经过海量优秀开源代码数据训练，可根据当前代码文件及跨文件的上下文，为你生成行级/函数级代码、单元测试、代码优化建议等。沉浸式编码心流，秒级生成速度，让你更专注在技术设计，高质高效地完成编码工作。&lt;/p>
+&lt;h3 id="研发智能问答">研发智能问答&lt;/h3>
+&lt;p>基于海量研发文档、产品文档、通用研发知识、阿里云的云服务文档和 SDK/OpenAPI 文档等进行问答训练，为你答疑解惑，助你轻松解决研发问题。&lt;/p>
+&lt;h2 id="产品优势">产品优势&lt;/h2>
+&lt;ul>
+&lt;li>跨文件感知让代码生成更贴合业务场景：客户端和模型层同步优化针对代码跨文件上下文感知能力，生成代码更加贴合当前代码库的业务场景。&lt;/li>
+&lt;li>适配多 IDE 的原生设计，符合开发者使用习惯：适配 IDE 原生主题、交互模式，让开发者感受到 IDE 的原生视觉和交互体验，更符合开发者使用习惯。&lt;/li>
+&lt;li>研发问答、文档/代码搜索能力，打造沉浸式编码：无需切换工具，IDE 客户端内即可满足开发者编码场景中的技术资料检索、技术难题解答的诉求，打造开发者沉浸式编码体验。&lt;/li>
+&lt;li>多种企业版方案，灵活选择：提供企业标准版、企业专属版等多种面向企业客户的方案，并提供企业个性化方案，可灵活选择，加速企业内智能研发的规模化落地。&lt;/li>
+&lt;/ul>
+&lt;h2 id="功能介绍">功能介绍&lt;/h2>
+&lt;h3 id="行间代码生成">行间代码生成&lt;/h3>
+&lt;ul>
+&lt;li>行级/函数级实时续写：根据当前语法和跨文件的代码上下文，实时生成行、函数建议代码；&lt;/li>
+&lt;li>注释生成代码：通过注释描述你想要的功能，可直接在编辑器区生成代码，编码心流不间断。&lt;/li>
+&lt;/ul>
+&lt;h3 id="研发智能问答-1">研发智能问答&lt;/h3>
+&lt;ul>
+&lt;li>研发问题自由问答：遇到编码疑问、技术难题时，一键唤起通义灵码，无需离开 IDE 客户端，即可快速获得答案和解决思路；&lt;/li>
+&lt;li>本地工程问答：通过问答即可快速结合当前仓库进行工程理解、代码查询等，同时可以通过自然语言描述需求，结合当前工程生成简单需求或缺陷的整体修复建议和建议代码；&lt;/li>
+&lt;li>企业知识库问答：借助企业知识和数据进行问答，快速构建企业研发知识问答助手，提升团队的工作效率和协作能力。&lt;/li>
+&lt;/ul>
+&lt;h3 id="智能生成">智能生成&lt;/h3>
+&lt;ul>
+&lt;li>单元测试生成：支持根据 JUnit、Mockito、Spring Test、unit test、pytest 等框架生成单元测试；&lt;/li>
+&lt;li>代码注释生成：一键生成方法注释及行内注释，节省你写代码注释的时间，并能够有效提升代码可读性；&lt;/li>
+&lt;li>代码解释：覆盖各种编程语言，选中代码后可自动识别编程语言并生成代码解释；&lt;/li>
+&lt;li>提交信息生成：支持一键生成代码 Git 提交信息，并支持设置生成的语言。&lt;/li>
+&lt;/ul>
+&lt;h3 id="编码问题解决">编码问题解决&lt;/h3>
+&lt;ul>
+&lt;li>代码优化：深度分析代码及其上下文，迅速识别潜在的编码问题，从简单的语法错误到复杂的性能瓶颈，均能够指出问题所在，并提供具体的优化建议代码；&lt;/li>
+&lt;li>代码问题修复：针对编码过程中出现的代码问题（Problem），可以一键给出修复建议，助力开发者快速解决代码问题；&lt;/li>
+&lt;li>异常报错智能排查（Java）：当运行出现异常报错时，一键启动报错排查的智能答疑，可结合运行代码、异常堆栈等报错上下文，快速给出排查思路或修复建议代码。&lt;/li>
+&lt;/ul>
+&lt;h3 id="企业级管理">企业级管理&lt;/h3>
+&lt;ul>
+&lt;li>统一授权管理：支持统一为企业内开发者的添加使用权限，统一管理企业成员权限；&lt;/li>
+&lt;li>统计报表：提供开发者活跃、AI 代码生成占比、问答使用占比等统计数据，帮助企业快速了解使用效果；&lt;/li>
+&lt;li>知识管理：高效管理企业私域数据，结合企业数据提供企业知识库问答、企业代码生成增强功能，让编码助手更贴合企业业务场景；&lt;/li>
+&lt;li>专属 VPC 部署：企业专属版提供专属 VPC 部署，并支持企业内网连接，全链路保障企业数据安全，满足企业安全合规要求。&lt;/li>
+&lt;/ul></description></item><item><title>扣子/Coze</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</link><pubDate>Fri, 27 Sep 2024 20:28:10 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</guid><description>&lt;h2 id="概述">概述&lt;/h2>
 &lt;p>海外版 coze.com，可以用 GPT-4&lt;/p>
 &lt;p>扣子是新一代 AI 应用开发平台。无论你是否有编程基础，都可以在扣子上快速搭建基于大模型的各类 Bot，并将 Bot 发布到各个社交平台、通讯软件或部署到网站等其他渠道。&lt;/p>
 &lt;h2 id="功能与优势">功能与优势&lt;/h2>

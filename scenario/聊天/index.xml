@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>聊天 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/scenario/%E8%81%8A%E5%A4%A9/</link><description>Recent content in 聊天 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 20:36:17 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/scenario/%E8%81%8A%E5%A4%A9/index.xml" rel="self" type="application/rss+xml"/><item><title>Grok</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</link><pubDate>Fri, 27 Sep 2024 20:36:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</guid><description>&lt;p>Grok是 xAI 基于大型语言模型开发的生成式人工智能聊天机器人，类似于 ChatGPT。它能够实时回答用户的问题，并利用 X 社交媒体平台的数据进行回应。&lt;/p></description></item><item><title>BibiGPT</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/bibigpt/</link><pubDate>Fri, 27 Sep 2024 20:30:22 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/bibigpt/</guid><description>&lt;p>欢迎使用BibiGPT AI音视频一键总结工具，您的全能AI学习助手。无论您是想高效学习还是简化信息摘要过程，BibiGPT提供了一站式解决方案，让您轻松总结和学习来自各种平台和格式的内容，包括哔哩哔哩、YouTube、本地视频、本地音频、播客、小红书、抖音、会议、讲座，以及网页等。我们的目标是通过先进的AI技术，帮助您更快地获取和整理知识，无论何时何地，都能提升您的学习效率。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>聊天 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/scenario/%E8%81%8A%E5%A4%A9/</link><description>Recent content in 聊天 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 20:36:17 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/scenario/%E8%81%8A%E5%A4%A9/index.xml" rel="self" type="application/rss+xml"/><item><title>Grok</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</link><pubDate>Fri, 27 Sep 2024 20:36:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</guid><description>&lt;p>Grok是 xAI 基于大型语言模型开发的生成式人工智能聊天机器人，类似于 ChatGPT。它能够实时回答用户的问题，并利用 X 社交媒体平台的数据进行回应。&lt;/p></description></item><item><title>Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
+&lt;ul>
+&lt;li>它可以帮助用户释放创造力短提示，在Word中生成文档的初稿，或在PowerPoint中创建漂亮的幻灯片，并根据用户在微软图形中的数据添加相关内容。&lt;/li>
+&lt;li>它可以在Microsoft Excel中帮助用户分析数据，生成图表和报告，并提供有用的见解和建议。&lt;/li>
+&lt;li>它可以在Microsoft Outlook中帮助用户管理日程安排，回复邮件，编写摘要和提纲，并提供适当的语气和礼貌。&lt;/li>
+&lt;li>它可以在Microsoft Teams中帮助用户协作沟通，分享信息，创建任务和计划，并提供相关的反馈和建议。&lt;/li>
+&lt;li>它可以在商务聊天中帮助用户根据自然语言提示生成文本内容，例如状态更新、项目提案、市场分析等，并根据用户在微软图形（Microsoft Graph）中的数据进行调整和优化。&lt;/li>
+&lt;li>它始终尊重用户的控制权，让用户决定保留、修改或丢弃它生成的内容。&lt;/li>
+&lt;li>它遵循微软对数据安全和隐私的承诺，在企业环境中保护用户的数据不被滥用或泄露。&lt;/li>
+&lt;/ul></description></item><item><title>腾讯元宝</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/yuanbao/</link><pubDate>Fri, 27 Sep 2024 20:35:14 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/yuanbao/</guid><description>&lt;h3 id="1产品介绍">1、产品介绍&lt;/h3>
+&lt;p>腾讯元宝是依托于腾讯混元大模型的AI产品。我们期望通过AI能力帮助用户在办公、学习、创作、生活等领域提供效率和生活辅助。&lt;/p>
+&lt;h3 id="2产品功能">2、产品功能&lt;/h3>
+&lt;p>腾讯元宝为用户提供多元化的 AI 能力：&lt;/p>
+&lt;h4 id="ai搜索一问即达">【AI搜索，一问即达】&lt;/h4>
+&lt;p>您可以随时与元宝发起对话，元宝强大的模型和搜索能力会给您精准的答案，支持深度搜索模式，更专业更全面，一问即达，信息搜索更轻松。&lt;/p>
+&lt;h4 id="ai解析要点直达">【AI解析，要点直达】&lt;/h4>
+&lt;p>元宝支持上传多类型文档、链接、图片等，总结解析识图，效率翻倍，信息总结更轻松。&lt;/p>
+&lt;h4 id="ai写作灵感速达">【AI写作，灵感速达】&lt;/h4>
+&lt;p>元宝具有强大的语言理解和输出能力，您可以用元宝写报告、写方案、写代码等，元宝都可以准确理解，给您更多灵感，内容创作更轻松。&lt;/p>
+&lt;h4 id="ai应用更多好玩">【AI应用，更多好玩】&lt;/h4>
+&lt;p>除了效率工具外，元宝联合创作者们，为用户提供了更多有趣实用的AI应用：&lt;/p>
+&lt;ul>
+&lt;li>图像创作：AI头像、创意贴纸等&lt;/li>
+&lt;li>学习工具：口语陪练、超能翻译等&lt;/li>
+&lt;li>生活娱乐：旅游、美食、健身等&lt;/li>
+&lt;li>AI角色：情感陪伴、角色扮演等&lt;/li>
+&lt;/ul>
+&lt;p>还有更多好玩应用，发挥你的创意，随意创作。&lt;/p></description></item><item><title>商量智能助手</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/sense_chat/</link><pubDate>Fri, 27 Sep 2024 20:33:51 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/sense_chat/</guid><description>&lt;p>Sensechat，基于商汤科技多模态大模型技术。无论是在学习、工作还是日常生活中遇到问题，只需打开 Sensechat ，「什么都搞定」。&lt;/p>
+&lt;h2 id="功能亮点">功能亮点：&lt;/h2>
+&lt;ul>
+&lt;li>多模态问答：上传文件、网页链接或图片，Sensechat 可以深入分析内容，生成精确摘要并解答你的问题。&lt;/li>
+&lt;li>即时搜索：快速获取最新资讯，并整合多个信息来源，方便进一步阅读和探索。&lt;/li>
+&lt;li>图像生成：只需简单描述，Sensechat 即可生成各种风格的图像，满足多元创作需求。&lt;/li>
+&lt;li>文案撰写：无论是广告文案、商业计划还是学术写作，Sensechat 能提供专业且高质量的文案。&lt;/li>
+&lt;/ul></description></item><item><title>BibiGPT</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/bibigpt/</link><pubDate>Fri, 27 Sep 2024 20:30:22 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/bibigpt/</guid><description>&lt;p>欢迎使用BibiGPT AI音视频一键总结工具，您的全能AI学习助手。无论您是想高效学习还是简化信息摘要过程，BibiGPT提供了一站式解决方案，让您轻松总结和学习来自各种平台和格式的内容，包括哔哩哔哩、YouTube、本地视频、本地音频、播客、小红书、抖音、会议、讲座，以及网页等。我们的目标是通过先进的AI技术，帮助您更快地获取和整理知识，无论何时何地，都能提升您的学习效率。&lt;/p>
 &lt;h2 id="主要特点">主要特点：&lt;/h2>
 &lt;ul>
 &lt;li>全平台支持：覆盖视频、音频、播客等多种内容形式，支持主流平台和本地文件。&lt;/li>
@@ -22,7 +56,7 @@
 &lt;li>工作支持：在会议、讲座或项目管理中，BibiGPT能够提供实时总结和语音转文字服务，提升工作效率。&lt;/li>
 &lt;li>内容创作：为自媒体创作者、博主和视频制作者提供快速总结工具，简化内容创作流程。&lt;/li>
 &lt;/ul>
-&lt;p>BibiGPT旨在成为您的最佳AI学习伙伴，无论是准备考试、工作学习还是个人兴趣拓展，都能提供强有力的支持。立即开始使用，开启您的高效学习之旅吧！&lt;/p></description></item><item><title>豆包</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao/</link><pubDate>Fri, 27 Sep 2024 20:26:25 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao/</guid><description>&lt;p>豆包是你的多功能 AI 助手，为你的生活、学习、工作提供帮助。豆包可以为你搜索信息，答疑解惑，分析总结，提供灵感，辅助创作。豆包的知识渊博，专业可靠，同时也善解人意，需要的时候能够深入浅出。豆包也会倾听你的烦恼和心事，和你畅聊任何你感兴趣的话题。&lt;/p>
+&lt;p>BibiGPT旨在成为您的最佳AI学习伙伴，无论是准备考试、工作学习还是个人兴趣拓展，都能提供强有力的支持。立即开始使用，开启您的高效学习之旅吧！&lt;/p></description></item><item><title>星火语伴</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/xinghuo/</link><pubDate>Fri, 27 Sep 2024 20:27:11 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/xinghuo/</guid><description>&lt;p>突破语言障碍，学习口语！语伴Sparkle是英语口语学习APP。支持多语种翻译，多话题对话，文字、图片、语音输入，自动评测，语法纠错，查词。全方位支持口语学习，体验功能丰富的英语口语学习神器！&lt;/p></description></item><item><title>豆包</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao/</link><pubDate>Fri, 27 Sep 2024 20:26:25 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao/</guid><description>&lt;p>豆包是你的多功能 AI 助手，为你的生活、学习、工作提供帮助。豆包可以为你搜索信息，答疑解惑，分析总结，提供灵感，辅助创作。豆包的知识渊博，专业可靠，同时也善解人意，需要的时候能够深入浅出。豆包也会倾听你的烦恼和心事，和你畅聊任何你感兴趣的话题。&lt;/p>
 &lt;p>豆包有着简单清爽的界面设计，无需学习，让你一打开就可以使用。语音输入功能让你可以轻松输入，而且识别准确，还支持不同的方言，让沟通更简单、更高效。豆包还提供了多种音色，能用自然、亲切的声音回答你。&lt;/p>
 &lt;p>除了豆包自己，还有各种各样不同的 AI 智能体，能满足你在学习、生活、创作、职业、情感等方面的需求，你也可以定制属于自己的 AI 智能体，选择你喜欢的说话风格、技能和背景。快来探索吧！&lt;/p>
 &lt;h1 id="豆包的特色-">豆包的特色 →&lt;/h1>
@@ -44,7 +78,18 @@
 &lt;li>“就像请的家教一样，什么都可以服务”&lt;/li>
 &lt;li>“效率高、质量好、特别智能”&lt;/li>
 &lt;/ul>
-&lt;p>请注意，豆包作为一款 AI，虽然我们已经尽力提高其准确性和可靠性，但仍有可能出现误解或误导的情况。我们建议用户在使用豆包获取信息时，结合其他来源进行参考。我们非常欢迎用户提供反馈和建议，以帮助我们不断改进。&lt;/p></description></item><item><title>Kimi.ai</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/kimi_ai/</link><pubDate>Wed, 28 Aug 2024 15:16:39 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/kimi_ai/</guid><description>&lt;h4 id="kimi-功能">Kimi 功能：&lt;/h4>
+&lt;p>请注意，豆包作为一款 AI，虽然我们已经尽力提高其准确性和可靠性，但仍有可能出现误解或误导的情况。我们建议用户在使用豆包获取信息时，结合其他来源进行参考。我们非常欢迎用户提供反馈和建议，以帮助我们不断改进。&lt;/p></description></item><item><title>文心一言</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/wenxinyiyan/</link><pubDate>Fri, 27 Sep 2024 20:26:15 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/wenxinyiyan/</guid><description>&lt;p>文心一言（英文名：ERNIE Bot）是百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动、回答问题、协助创作，高效便捷地帮助人们获取信息、知识和灵感。文心一言从数万亿数据和数千亿知识中融合学习，得到预训练大模型，在此基础上采用有监督精调、人类反馈强化学习、提示等技术，具备知识增强、检索增强和对话增强的技术优势。&lt;/p>
+&lt;p>2023年3月16日文心一言新闻发布会上，百度创始人、董事长兼首席执行官李彦宏及百度首席技术官、深度学习技术及应用国家工程研究中心主任王海峰展示了文心一言在文学创作、商业文案创作、数理推算、中文理解、多模态生成五个使用场景中的综合能力。&lt;/p>
+&lt;h3 id="文学创作">文学创作&lt;/h3>
+&lt;p>文心一言根据对话问题将知名科幻小说《三体》的核心内容进行了总结，并提出了五个续写《三体》的建议角度，体现出对话问答、总结分析、内容创作生成的综合能力。此外，文心一言准确回答了《三体》作者、电视剧角色扮演者等事实性问题。生成式AI在回答事实性问题时常常“胡编乱造”，而文心一言延续了百度知识增强的大模型理念，大幅度提升了事实性问题的准确率。面对“于和伟和张鲁一有哪些共同点”、“于和伟和张鲁一谁更高”这类问题，文心一言也基于推理能力得出了正确答案。&lt;/p>
+&lt;h3 id="商业文案创作">商业文案创作&lt;/h3>
+&lt;p>文心一言顺利完成了给公司起名、写Slogan、写新闻稿的创作任务。连续三次内容创作生成中，文心一言既能准确理解人类意图，又能清晰地表达，这是基于庞大数据规模而发生的“智能涌现”。&lt;/p>
+&lt;h3 id="数理逻辑推算">数理逻辑推算&lt;/h3>
+&lt;p>文心一言还具备了一定的思维能力，能够学会数学推演及逻辑推理等相对复杂任务。面对“鸡兔同笼”这类锻炼人类逻辑思维的经典题，文心一言能理解题意，并有正确的解题思路，进而像学生做题一样，按正确的步骤，一步步算出正确答案。&lt;/p>
+&lt;h3 id="中文理解">中文理解&lt;/h3>
+&lt;p>作为扎根于中国市场的大语言模型，文心一言具备中文领域最先进的自然语言处理能力，在中文语言和中国文化上有更好的表现。在现场展示中，文心一言正确解释了成语“洛阳纸贵”的含义、“洛阳纸贵”对应的经济学理论，还用“洛阳纸贵”四个字创作了一首藏头诗。&lt;/p>
+&lt;h3 id="多模态生成">多模态生成&lt;/h3>
+&lt;p>百度创始人、董事长兼首席执行官李彦宏现场展示了文心一言生成文本、图片、音频和视频的能力。文心一言甚至能够生成四川话等方言语音。&lt;/p></description></item><item><title>Kimi.ai</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/kimi_ai/</link><pubDate>Wed, 28 Aug 2024 15:16:39 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/kimi_ai/</guid><description>&lt;h4 id="kimi-功能">Kimi 功能：&lt;/h4>
 &lt;p>&lt;img src="https://picx.zhimg.com/v2-93823535f337e397c8251039f5c0458d.webp" alt="img">&lt;/p>
 &lt;ol>
 &lt;li>长文总结和生成功能：能够高效地提炼大量信息，支持最多50个文件，接受pdf、doc、xlsx、PPT、txt、图片等多种格式；&lt;/li>

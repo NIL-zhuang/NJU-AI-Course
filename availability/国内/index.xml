@@ -1,10 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>国内 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/availability/%E5%9B%BD%E5%86%85/</link><description>Recent content in 国内 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 20:33:27 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/availability/%E5%9B%BD%E5%86%85/index.xml" rel="self" type="application/rss+xml"/><item><title>飞书妙记</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/feishu_minutes/</link><pubDate>Fri, 27 Sep 2024 20:33:27 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/feishu_minutes/</guid><description>&lt;p>飞书妙记是一款音视频转文字的效率工具，可在会议、培训、访谈、课堂等不同场景，将你的音视频内容转录为搜索便捷、重点高亮、互动多样的智能文字笔记，帮助你高效整理会议纪要、完整沉淀培训内容、一键收录访谈全程、清晰记录课堂重点，提升工作与学习效率。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>国内 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/availability/%E5%9B%BD%E5%86%85/</link><description>Recent content in 国内 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 20:35:34 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/availability/%E5%9B%BD%E5%86%85/index.xml" rel="self" type="application/rss+xml"/><item><title>Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
+&lt;ul>
+&lt;li>它可以帮助用户释放创造力短提示，在Word中生成文档的初稿，或在PowerPoint中创建漂亮的幻灯片，并根据用户在微软图形中的数据添加相关内容。&lt;/li>
+&lt;li>它可以在Microsoft Excel中帮助用户分析数据，生成图表和报告，并提供有用的见解和建议。&lt;/li>
+&lt;li>它可以在Microsoft Outlook中帮助用户管理日程安排，回复邮件，编写摘要和提纲，并提供适当的语气和礼貌。&lt;/li>
+&lt;li>它可以在Microsoft Teams中帮助用户协作沟通，分享信息，创建任务和计划，并提供相关的反馈和建议。&lt;/li>
+&lt;li>它可以在商务聊天中帮助用户根据自然语言提示生成文本内容，例如状态更新、项目提案、市场分析等，并根据用户在微软图形（Microsoft Graph）中的数据进行调整和优化。&lt;/li>
+&lt;li>它始终尊重用户的控制权，让用户决定保留、修改或丢弃它生成的内容。&lt;/li>
+&lt;li>它遵循微软对数据安全和隐私的承诺，在企业环境中保护用户的数据不被滥用或泄露。&lt;/li>
+&lt;/ul></description></item><item><title>腾讯元宝</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/yuanbao/</link><pubDate>Fri, 27 Sep 2024 20:35:14 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/yuanbao/</guid><description>&lt;h3 id="1产品介绍">1、产品介绍&lt;/h3>
+&lt;p>腾讯元宝是依托于腾讯混元大模型的AI产品。我们期望通过AI能力帮助用户在办公、学习、创作、生活等领域提供效率和生活辅助。&lt;/p>
+&lt;h3 id="2产品功能">2、产品功能&lt;/h3>
+&lt;p>腾讯元宝为用户提供多元化的 AI 能力：&lt;/p>
+&lt;h4 id="ai搜索一问即达">【AI搜索，一问即达】&lt;/h4>
+&lt;p>您可以随时与元宝发起对话，元宝强大的模型和搜索能力会给您精准的答案，支持深度搜索模式，更专业更全面，一问即达，信息搜索更轻松。&lt;/p>
+&lt;h4 id="ai解析要点直达">【AI解析，要点直达】&lt;/h4>
+&lt;p>元宝支持上传多类型文档、链接、图片等，总结解析识图，效率翻倍，信息总结更轻松。&lt;/p>
+&lt;h4 id="ai写作灵感速达">【AI写作，灵感速达】&lt;/h4>
+&lt;p>元宝具有强大的语言理解和输出能力，您可以用元宝写报告、写方案、写代码等，元宝都可以准确理解，给您更多灵感，内容创作更轻松。&lt;/p>
+&lt;h4 id="ai应用更多好玩">【AI应用，更多好玩】&lt;/h4>
+&lt;p>除了效率工具外，元宝联合创作者们，为用户提供了更多有趣实用的AI应用：&lt;/p>
+&lt;ul>
+&lt;li>图像创作：AI头像、创意贴纸等&lt;/li>
+&lt;li>学习工具：口语陪练、超能翻译等&lt;/li>
+&lt;li>生活娱乐：旅游、美食、健身等&lt;/li>
+&lt;li>AI角色：情感陪伴、角色扮演等&lt;/li>
+&lt;/ul>
+&lt;p>还有更多好玩应用，发挥你的创意，随意创作。&lt;/p></description></item><item><title>讯飞公文写作助手</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/xunfei_gongwen/</link><pubDate>Fri, 27 Sep 2024 20:34:50 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/xunfei_gongwen/</guid><description>&lt;p>讯飞公文依托于科大讯飞先进的星火大模型技术，对公文领域进行了深入的专业化定制。无论是起草报告、撰写通知及心得体会，讯飞公文都能提供高效的帮助。&lt;/p>
+&lt;h3 id="1素材筹备">1.素材筹备：&lt;/h3>
+&lt;p>在公文写作中，素材的搜集与整理往往耗费大量时间。讯飞公文为您提供海量的素材库，让您轻松在历史文件中寻找所需内容，再也不用担心素材不足的问题。无论是经典案例、数据支撑还是专业术语，都能在这里找到。&lt;/p>
+&lt;h3 id="2内容生成">2.内容生成：&lt;/h3>
+&lt;p>讯飞公文基于定制化大模型技术，能够根据您的需求，自动生成工作报告、心得体会、通知公告等多种专业文体。无需再为公文格式和内容而烦恼，轻松应对各种写作场景，提升写作效率。&lt;/p>
+&lt;h3 id="3内容加工">3.内容加工：&lt;/h3>
+&lt;p>您可以选中需要加工的内容，进行润色、扩写或续写。无论是让语言更加流畅、增加细节描写，还是调整表达逻辑，我们的产品都能为您提供专业的建议和指导，让您的公文更加出色。&lt;/p></description></item><item><title>通义听悟</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/tongyi_tingwu/</link><pubDate>Fri, 27 Sep 2024 20:34:20 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/tongyi_tingwu/</guid><description>&lt;p>实时记录：实时语音识别，AI字幕翻译，智能总结。网课、追剧追番、线上会议必备。阅读助手：总结网页PDF内容、划选解读翻译问答，AI帮你一键速读网页文档。&lt;/p></description></item><item><title>深言达意</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/shenyandayi/</link><pubDate>Fri, 27 Sep 2024 20:34:07 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/shenyandayi/</guid><description>&lt;p>【深言达意】是一款可根据模糊描述，找词找句的智能写作工具。产品基于强大的语言理解和算法能力，助你在深邃词海中快速找到更恰切的表达，妙笔生花，灵感迸发。&lt;/p>
+&lt;p>产品核心功能“据意查词查句”，可以实现高效准确找到与输入意思相关的好词好句；支持筛选词语、成语、惯用语和古汉语等多类别；覆盖名言、古诗文、小说散文等多场景；支持中英文输入和双语搜索结果。&lt;/p></description></item><item><title>商量智能助手</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/sense_chat/</link><pubDate>Fri, 27 Sep 2024 20:33:51 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/sense_chat/</guid><description>&lt;p>Sensechat，基于商汤科技多模态大模型技术。无论是在学习、工作还是日常生活中遇到问题，只需打开 Sensechat ，「什么都搞定」。&lt;/p>
+&lt;h2 id="功能亮点">功能亮点：&lt;/h2>
+&lt;ul>
+&lt;li>多模态问答：上传文件、网页链接或图片，Sensechat 可以深入分析内容，生成精确摘要并解答你的问题。&lt;/li>
+&lt;li>即时搜索：快速获取最新资讯，并整合多个信息来源，方便进一步阅读和探索。&lt;/li>
+&lt;li>图像生成：只需简单描述，Sensechat 即可生成各种风格的图像，满足多元创作需求。&lt;/li>
+&lt;li>文案撰写：无论是广告文案、商业计划还是学术写作，Sensechat 能提供专业且高质量的文案。&lt;/li>
+&lt;/ul></description></item><item><title>飞书妙记</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/feishu_minutes/</link><pubDate>Fri, 27 Sep 2024 20:33:27 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/feishu_minutes/</guid><description>&lt;p>飞书妙记是一款音视频转文字的效率工具，可在会议、培训、访谈、课堂等不同场景，将你的音视频内容转录为搜索便捷、重点高亮、互动多样的智能文字笔记，帮助你高效整理会议纪要、完整沉淀培训内容、一键收录访谈全程、清晰记录课堂重点，提升工作与学习效率。&lt;/p>
 &lt;p>参考文档：&lt;a href="https://www.feishu.cn/hc/zh-CN/articles/022111234449-%E4%BD%BF%E7%94%A8%E9%A3%9E%E4%B9%A6%E5%A6%99%E8%AE%B0">使用飞书妙记&lt;/a>&lt;/p></description></item><item><title>豆包 MarsCode</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao_marscode/</link><pubDate>Fri, 27 Sep 2024 20:32:55 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao_marscode/</guid><description>&lt;p>豆包 MarsCode 编程助手是豆包旗下的 AI 编程助手，提供以智能代码补全为代表的 AI 功能，支持主流编程语言及 IDE，能在开发过程中提供单行或整个函数的编写建议，同时支持在用户开发过程中提供代码解释、代码审查、问题修复等辅助功能，提升开发效率与质量。​&lt;/p>
 &lt;h2 id="使用场景">使用场景​&lt;/h2>
 &lt;h3 id="智能代码操作">智能代码操作​&lt;/h3>
 &lt;p>豆包 MarsCode 编程助手提供代码自动补全与生成、问题修复、代码优化等能力，帮助你更高效地完成开发任务。​&lt;/p>
 &lt;h3 id="智能问答">智能问答​&lt;/h3>
-&lt;p>基于丰富的研发知识，豆包 MarsCode 编程助手可以快速且准确地回答研发相关问题。&lt;/p></description></item><item><title>彩云小译</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/caiyun_xiaoyi/</link><pubDate>Fri, 27 Sep 2024 20:32:16 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/caiyun_xiaoyi/</guid><description>&lt;h2 id="简介">简介&lt;/h2>
+&lt;p>基于丰富的研发知识，豆包 MarsCode 编程助手可以快速且准确地回答研发相关问题。&lt;/p></description></item><item><title>沉浸式翻译</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/immersive_translate/</link><pubDate>Fri, 27 Sep 2024 20:32:41 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/immersive_translate/</guid><description>&lt;p>一款免费的，好用的，没有废话的，革命性的，饱受赞誉的，AI 驱动的双语网页翻译扩展，帮助你有效地打破信息差，在手机上也可以用！&lt;/p>
+&lt;h2 id="主要特性">主要特性&lt;/h2>
+&lt;p>沉浸式阅读外文网站 通过智能识别网页主内容区域并进行双语对照翻译，沉浸式翻译提供了全新的外文阅读体验，因此得名“沉浸式翻译”。&lt;/p>
+&lt;p>视频双语字幕 沉浸式支持多达 50+ 个国外主流视频网站的双语字幕翻译，包括 YouTube, Netflix, TED, Coursera, Khan Academy 等等。&lt;/p>
+&lt;p>强大的输入框翻译，将任何网页上的输入框化身为多语言翻译器，立刻解锁谷歌搜索，ChatGPT 等工具的双语实时对话体验。&lt;/p>
+&lt;p>高效的文件翻译 一键导出双语电子书，同时支持 PDF、字幕、TXT 等文件的实时双语翻译。
+创新的鼠标悬停翻译 仅需将鼠标停留在任意网页的任意段落上，相应的译文就会立即出现在段落下方。段落在在沉浸式翻译的设计理念中被视为最小单位，保留其上下文，这样我们才能真正理解并学习外语。&lt;/p>
+&lt;p>深度定制优化主流网站 针对 Google、Twitter、Reddit、YouTube、彭博社、华尔街日报等主流网站进行优化，无论是搜索、社交还是获取资讯，都更加流畅高效。&lt;/p>
+&lt;p>全平台支持 除了各大桌面端浏览器，移动设备也可享受同样的沉浸式翻译体验。在 iOS Safari、安卓 Kiwi 浏览器等移动端浏览器上轻松实现双语浏览 Twitter,Reddit 等社交媒体。&lt;/p>
+&lt;p>支持 10+种翻译服务 在沉浸式翻译中，你可以选择超过 10 种翻译服务，如 Deepl、OpenAI、微软翻译、谷歌翻译、腾讯翻译等等，这份名单还在不断增加中。&lt;/p></description></item><item><title>彩云小译</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/caiyun_xiaoyi/</link><pubDate>Fri, 27 Sep 2024 20:32:16 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/caiyun_xiaoyi/</guid><description>&lt;h2 id="简介">简介&lt;/h2>
 &lt;p>彩云小译，文档网页语音图片全能翻译，支持18种语言互译，兼具“你边说，我边译”的同声传译，满足学习翻译、工作翻译、出国翻译、旅游翻译等各种场景需求。&lt;/p>
 &lt;p>支持文档翻译、网页翻译、语音翻译、拍照翻译、在线翻译，同时文档和网页具有对照翻译阅读模式，支持应用千人千面的个人术语库和公共领域术语库，翻译更加准确、专业。&lt;/p>
 &lt;p>小译是上过微博热搜的网红，更是多次获得应用商店首页推荐的实力派！让小译帮你推倒巴别塔，打开新世界的大门。和「彩云小译」一起，探索更广阔的世界！&lt;/p>
@@ -96,7 +146,73 @@ AI 时代永远不要忘了你有智能助手 4.告别传统的 PPT 制作方式
 &lt;li>工作支持：在会议、讲座或项目管理中，BibiGPT能够提供实时总结和语音转文字服务，提升工作效率。&lt;/li>
 &lt;li>内容创作：为自媒体创作者、博主和视频制作者提供快速总结工具，简化内容创作流程。&lt;/li>
 &lt;/ul>
-&lt;p>BibiGPT旨在成为您的最佳AI学习伙伴，无论是准备考试、工作学习还是个人兴趣拓展，都能提供强有力的支持。立即开始使用，开启您的高效学习之旅吧！&lt;/p></description></item><item><title>CodeGeeX</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/codegeex/</link><pubDate>Fri, 27 Sep 2024 20:29:35 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/codegeex/</guid><description>&lt;p>CodeGeeX是一款基于大模型的智能编程助手，它可以实现代码的生成与补全、自动为代码添加注释、自动解释代码、自动编写单元测试、实现代码审查Code Review、自动修复代码fixbug、自动生成commit message完成git提交，以及在不同编程语言的代码间实现互译、针对技术和代码问题的智能问答等丰富的功能。帮助开发者显著提高工作效率，CodeGeeX支持300+种编程语言，适配多种主流IDE平台，包括Visual Studio Code， JetBrains IDES，Visual Studio, HBuilderX，DeepIn-IDE等。&lt;/p></description></item><item><title>扣子/Coze</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</link><pubDate>Fri, 27 Sep 2024 20:28:10 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</guid><description>&lt;h2 id="概述">概述&lt;/h2>
+&lt;p>BibiGPT旨在成为您的最佳AI学习伙伴，无论是准备考试、工作学习还是个人兴趣拓展，都能提供强有力的支持。立即开始使用，开启您的高效学习之旅吧！&lt;/p></description></item><item><title>即梦 AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/jimeng_ai/</link><pubDate>Fri, 27 Sep 2024 20:29:45 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/jimeng_ai/</guid><description>&lt;p>想象，是一切创造的源泉。&lt;/p>
+&lt;p>即梦AI 是一个专为创意爱好者打造的AI表达平台，让你的想象力成为现实。无论是日常娱乐还是技术探索，这里都能满足你的需求。&lt;/p>
+&lt;h2 id="特点亮点">[特点亮点]&lt;/h2>
+&lt;ol>
+&lt;li>AI图片创作 - 用自然语言描述你的想法，即梦AI将为你生成独一无二的图片。不满意？我们支持编辑功能，让你的创意更加完美。&lt;/li>
+&lt;li>视频创作 - 想要动态的表达？输入你的想法，即梦AI将生成视频，多轮尝试，得到满意的效果。&lt;/li>
+&lt;li>分享你的作品 - 将你的创作以链接形式分享给朋友，或保存至本地，让更多人欣赏你的创意。&lt;/li>
+&lt;li>探索创意世界 - 在探索页面，浏览其他用户的作品，感受他们的创意火花，留下你的赞美。&lt;/li>
+&lt;li>做同款 - 喜欢别人的作品？尝试使用他们的提示词，创作出属于你的同款效果。&lt;/li>
+&lt;/ol>
+&lt;p>加入即梦AI！创作的元素愈多，便愈美。&lt;/p></description></item><item><title>CodeGeeX</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/codegeex/</link><pubDate>Fri, 27 Sep 2024 20:29:35 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/codegeex/</guid><description>&lt;p>CodeGeeX是一款基于大模型的智能编程助手，它可以实现代码的生成与补全、自动为代码添加注释、自动解释代码、自动编写单元测试、实现代码审查Code Review、自动修复代码fixbug、自动生成commit message完成git提交，以及在不同编程语言的代码间实现互译、针对技术和代码问题的智能问答等丰富的功能。帮助开发者显著提高工作效率，CodeGeeX支持300+种编程语言，适配多种主流IDE平台，包括Visual Studio Code， JetBrains IDES，Visual Studio, HBuilderX，DeepIn-IDE等。&lt;/p></description></item><item><title>通义灵码</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/tongyi_lingma/</link><pubDate>Fri, 27 Sep 2024 20:29:19 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/tongyi_lingma/</guid><description>&lt;p>通义灵码，是基于通义大模型的智能编程辅助工具，提供行级/函数级实时续写、自然语言生成代码、单元测试生成、代码优化、注释生成、代码解释、研发智能问答、异常报错排查等能力，并针对阿里云的云服务使用场景调优，助力开发者高效、流畅地编码。&lt;/p>
+&lt;h2 id="核心场景">核心场景&lt;/h2>
+&lt;h3 id="代码智能生成">代码智能生成&lt;/h3>
+&lt;p>经过海量优秀开源代码数据训练，可根据当前代码文件及跨文件的上下文，为你生成行级/函数级代码、单元测试、代码优化建议等。沉浸式编码心流，秒级生成速度，让你更专注在技术设计，高质高效地完成编码工作。&lt;/p>
+&lt;h3 id="研发智能问答">研发智能问答&lt;/h3>
+&lt;p>基于海量研发文档、产品文档、通用研发知识、阿里云的云服务文档和 SDK/OpenAPI 文档等进行问答训练，为你答疑解惑，助你轻松解决研发问题。&lt;/p>
+&lt;h2 id="产品优势">产品优势&lt;/h2>
+&lt;ul>
+&lt;li>跨文件感知让代码生成更贴合业务场景：客户端和模型层同步优化针对代码跨文件上下文感知能力，生成代码更加贴合当前代码库的业务场景。&lt;/li>
+&lt;li>适配多 IDE 的原生设计，符合开发者使用习惯：适配 IDE 原生主题、交互模式，让开发者感受到 IDE 的原生视觉和交互体验，更符合开发者使用习惯。&lt;/li>
+&lt;li>研发问答、文档/代码搜索能力，打造沉浸式编码：无需切换工具，IDE 客户端内即可满足开发者编码场景中的技术资料检索、技术难题解答的诉求，打造开发者沉浸式编码体验。&lt;/li>
+&lt;li>多种企业版方案，灵活选择：提供企业标准版、企业专属版等多种面向企业客户的方案，并提供企业个性化方案，可灵活选择，加速企业内智能研发的规模化落地。&lt;/li>
+&lt;/ul>
+&lt;h2 id="功能介绍">功能介绍&lt;/h2>
+&lt;h3 id="行间代码生成">行间代码生成&lt;/h3>
+&lt;ul>
+&lt;li>行级/函数级实时续写：根据当前语法和跨文件的代码上下文，实时生成行、函数建议代码；&lt;/li>
+&lt;li>注释生成代码：通过注释描述你想要的功能，可直接在编辑器区生成代码，编码心流不间断。&lt;/li>
+&lt;/ul>
+&lt;h3 id="研发智能问答-1">研发智能问答&lt;/h3>
+&lt;ul>
+&lt;li>研发问题自由问答：遇到编码疑问、技术难题时，一键唤起通义灵码，无需离开 IDE 客户端，即可快速获得答案和解决思路；&lt;/li>
+&lt;li>本地工程问答：通过问答即可快速结合当前仓库进行工程理解、代码查询等，同时可以通过自然语言描述需求，结合当前工程生成简单需求或缺陷的整体修复建议和建议代码；&lt;/li>
+&lt;li>企业知识库问答：借助企业知识和数据进行问答，快速构建企业研发知识问答助手，提升团队的工作效率和协作能力。&lt;/li>
+&lt;/ul>
+&lt;h3 id="智能生成">智能生成&lt;/h3>
+&lt;ul>
+&lt;li>单元测试生成：支持根据 JUnit、Mockito、Spring Test、unit test、pytest 等框架生成单元测试；&lt;/li>
+&lt;li>代码注释生成：一键生成方法注释及行内注释，节省你写代码注释的时间，并能够有效提升代码可读性；&lt;/li>
+&lt;li>代码解释：覆盖各种编程语言，选中代码后可自动识别编程语言并生成代码解释；&lt;/li>
+&lt;li>提交信息生成：支持一键生成代码 Git 提交信息，并支持设置生成的语言。&lt;/li>
+&lt;/ul>
+&lt;h3 id="编码问题解决">编码问题解决&lt;/h3>
+&lt;ul>
+&lt;li>代码优化：深度分析代码及其上下文，迅速识别潜在的编码问题，从简单的语法错误到复杂的性能瓶颈，均能够指出问题所在，并提供具体的优化建议代码；&lt;/li>
+&lt;li>代码问题修复：针对编码过程中出现的代码问题（Problem），可以一键给出修复建议，助力开发者快速解决代码问题；&lt;/li>
+&lt;li>异常报错智能排查（Java）：当运行出现异常报错时，一键启动报错排查的智能答疑，可结合运行代码、异常堆栈等报错上下文，快速给出排查思路或修复建议代码。&lt;/li>
+&lt;/ul>
+&lt;h3 id="企业级管理">企业级管理&lt;/h3>
+&lt;ul>
+&lt;li>统一授权管理：支持统一为企业内开发者的添加使用权限，统一管理企业成员权限；&lt;/li>
+&lt;li>统计报表：提供开发者活跃、AI 代码生成占比、问答使用占比等统计数据，帮助企业快速了解使用效果；&lt;/li>
+&lt;li>知识管理：高效管理企业私域数据，结合企业数据提供企业知识库问答、企业代码生成增强功能，让编码助手更贴合企业业务场景；&lt;/li>
+&lt;li>专属 VPC 部署：企业专属版提供专属 VPC 部署，并支持企业内网连接，全链路保障企业数据安全，满足企业安全合规要求。&lt;/li>
+&lt;/ul></description></item><item><title>秘塔写作猫</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/mita_xiezuocat/</link><pubDate>Fri, 27 Sep 2024 20:28:58 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/mita_xiezuocat/</guid><description>&lt;p>写作猫是秘塔科技为16亿汉语使用者打造的写作辅助软件。支持文本纠错（错别字、语病、成语使用等）、句子改写、中英翻译、文章续写。不管你是创作者、编辑还是校对人员，不论内容为新闻、论文、公众号文章或法律文件，写作猫都能帮到你。&lt;/p></description></item><item><title>文心一格</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/wenxinyige/</link><pubDate>Fri, 27 Sep 2024 20:28:41 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/wenxinyige/</guid><description>&lt;h3 id="1一语成画智能生成">1.一语成画，智能生成&lt;/h3>
+&lt;p>用户在体验文心一格时只需要输入一句话，AI 就能够自动生成创意画作。用户输入简单的描述，模型就能自动从视觉、质感、风格、构图等角度智能补充，从而生成更加精美图片。&lt;/p>
+&lt;h3 id="2东方元素中文原生">2.东方元素，中文原生&lt;/h3>
+&lt;p>文心一格是全自研的原生中文文生图系统，凭借在中文、中国文化理解和生成上的优势，文心一格及其背后的文心大模型在数据采集、输入理解、风格设计等多个层面持续探索，形成了具备中文能力的技术优势，对中文用户的语义理解深入到位，适合中文环境下的使用和落地。&lt;/p>
+&lt;h3 id="3多种功能满足体验">3.多种功能，满足体验&lt;/h3>
+&lt;p>如果生成一张图片之后不那么满意，文心一格有很多功能可以帮助用户进行二次编辑。一是涂抹功能，用户可以涂抹不满意的部分，让模型重新调整生成。二是图片叠加功能，用户给两张图片，模型会自动生成一张叠加后的创意图。文心一格还支持用户输入图片的可控生成，根据图片的动作或者线稿等生成新图片，让图片生成的结果更可控。文心一格还在持续进行模型升级，不断丰富产品功能，已推出了海报创作、图片扩展和提升图片清晰度等功能，提供多种生图服务满足用户需求。&lt;/p></description></item><item><title>网易天音</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/tianyin/</link><pubDate>Fri, 27 Sep 2024 20:28:28 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/tianyin/</guid><description>&lt;h2 id="ai-写歌">AI 写歌&lt;/h2>
+&lt;p>特色：人工智能音乐创作，超真实虚拟歌声。&lt;/p>
+&lt;p>功能：输入灵感，AI辅助完成词、曲、编、唱，生成AI初稿后，支持词曲协同调整。&lt;/p>
+&lt;p>门槛：无需乐理知识，一键上手。&lt;/p>
+&lt;h2 id="ai-编曲">AI 编曲&lt;/h2>
+&lt;p>特色：海量编曲模版风格随心换，千万曲谱任你挑，高自由度创作流程。&lt;/p>
+&lt;p>功能：为流行音乐专业伴奏编曲，提供快速模版化工作。&lt;/p>
+&lt;p>门槛：需要一定的乐理基础，可根据和弦谱，进行编曲微调的自定义编辑，支持导出成品伴奏音频。&lt;/p></description></item><item><title>扣子/Coze</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</link><pubDate>Fri, 27 Sep 2024 20:28:10 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</guid><description>&lt;h2 id="概述">概述&lt;/h2>
 &lt;p>海外版 coze.com，可以用 GPT-4&lt;/p>
 &lt;p>扣子是新一代 AI 应用开发平台。无论你是否有编程基础，都可以在扣子上快速搭建基于大模型的各类 Bot，并将 Bot 发布到各个社交平台、通讯软件或部署到网站等其他渠道。&lt;/p>
 &lt;h2 id="功能与优势">功能与优势&lt;/h2>
@@ -120,7 +236,57 @@ AI 时代永远不要忘了你有智能助手 4.告别传统的 PPT 制作方式
 &lt;ul>
 &lt;li>创建一个搜集电影评论的工作流，快速查看一部最新电影的评论与评分。&lt;/li>
 &lt;li>创建一个撰写行业研究报告的工作流，让 Bot 写一份 20 页的报告。&lt;/li>
-&lt;/ul></description></item><item><title>豆包</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao/</link><pubDate>Fri, 27 Sep 2024 20:26:25 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao/</guid><description>&lt;p>豆包是你的多功能 AI 助手，为你的生活、学习、工作提供帮助。豆包可以为你搜索信息，答疑解惑，分析总结，提供灵感，辅助创作。豆包的知识渊博，专业可靠，同时也善解人意，需要的时候能够深入浅出。豆包也会倾听你的烦恼和心事，和你畅聊任何你感兴趣的话题。&lt;/p>
+&lt;/ul></description></item><item><title>秘塔AI搜索</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/mita/</link><pubDate>Fri, 27 Sep 2024 20:27:44 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/mita/</guid><description>&lt;p>秘塔AI搜索是由秘塔科技推出的一款AI搜索引擎，秘塔科技致力于用算力换人力，为你的工作、学习赋能。&lt;/p>
+&lt;h2 id="功能亮点">【功能亮点】&lt;/h2>
+&lt;p>1.纯净搜索&lt;/p>
+&lt;p>界面清爽简洁，没有广告，直达结果，让搜索回归本质；&lt;/p>
+&lt;p>2.全网搜索&lt;/p>
+&lt;p>①为你的提问提供直接、精准、结构化的答案，并包含引用源&lt;/p>
+&lt;p>秘塔AI搜索基于自研大语言模型MetaLLM，具备强大的语义理解能力，能够精准匹配你的搜索需求，提供高质量结果&lt;/p>
+&lt;p>②自动生成大纲，脑图，相关事件/组织/人物表格&lt;/p>
+&lt;p>用多种形式将关键信息筛选整合，助你更快get搜索结果，获取信息快人一步&lt;/p>
+&lt;p>③支持一键复制、导出搜索结果&lt;/p>
+&lt;p>支持导出Word、PDF格式的文档，或使用秘塔AI写作工具——秘塔写作猫继续编辑，满足你的各种使用需求&lt;/p>
+&lt;p>3.文库搜索&lt;/p>
+&lt;p>通过深度语义精准搜索全网文档（行研报告、学术论文、学习课件等），资源丰富，并支持查看、下载，为你的工作、学习提供高质量参考资料&lt;/p>
+&lt;p>4.学术搜索&lt;/p>
+&lt;p>①在数亿篇文献中筛选有用信息，并结构化展示&lt;/p>
+&lt;p>信息来源聚焦专业期刊和学术数据库，权威性高，可参考性强，助力你的学术研究&lt;/p>
+&lt;p>②直接提供论文摘要等关键信息，速览论文概要&lt;/p>
+&lt;p>③你可以自行配置中英数据库&lt;/p></description></item><item><title>天工 AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/tiangong/</link><pubDate>Fri, 27 Sep 2024 20:27:24 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/tiangong/</guid><description>&lt;p>搜索对话写作画画编程的AI助手&lt;/p>
+&lt;p>天工app是一款支持搜索、写作、文档分析、多模态生成的全能型AI助手。它能随时为你提供全网搜索、AI PPT、文件解读、文本创作、代码编程、AI画画等智能服务。&lt;/p>
+&lt;p>你可以与天工畅聊任何你喜欢的话题，让天工帮你解决各种工作、生活、学习和情感问题。&lt;/p>
+&lt;p>天工，让AI走进生活！&lt;/p>
+&lt;h2 id="功能亮点">【功能亮点】&lt;/h2>
+&lt;ol>
+&lt;li>强化版的学术文档搜索&lt;/li>
+&lt;/ol>
+&lt;p>天工AI搜索，能够实时地从全网搜寻信息。针对你的问题，天工可以跨领域整合信息和知识，提供事实性的、详尽的回答，并且附上搜集的信息来源。&lt;/p>
+&lt;p>在搜索功能里，你可选择传统、增强、研究三种模式。在更强大的“研究模式”下，天工可以将答案自动梳理成大纲、生成图表和思维导图，答案准确，表达形式丰富。&lt;/p>
+&lt;p>AI搜索还支持“文档垂直搜索”和“文档速读”功能，将搜索到的文档信息进行解读、重点提炼，提高文档阅读效率。&lt;/p>
+&lt;ol start="2">
+&lt;li>文件&amp;amp;音视频智能解析&lt;/li>
+&lt;/ol>
+&lt;p>天工APP的“ AI文档-音视频分析”智能体，支持对文档文件、音视频、网页进行快速解析，生成摘要，突出重点。&lt;/p>
+&lt;p>无论是金融、法律、医学等专业领域的书籍文献，小说、散文、新闻、自媒体文章，还是音视频文件，天工都能为你快速解读和系统整理。天工支持上传100万字的长文档，支持解析pdf、word、excel、csv、txt等多种文档格式，以及音频文件、视频文件和网页链接。&lt;/p>
+&lt;p>文档、数据文件解读内容包括原文、简介、脑图、重点，音视频文件解读内容包括简介、脑图、重点、字幕。解析结果全面，呈现方式清晰完整，满足各种办公、学习、娱乐需求。&lt;/p>
+&lt;ol start="3">
+&lt;li>AI PPT&lt;/li>
+&lt;/ol>
+&lt;p>天工AI具备成熟的PPT制作能力。输入具体需求，即可生成一份完整、可在线编辑的PPT大纲，或上传相关文档，通过AI解析提炼大纲内容；通过大纲文字内容和主题，天工AI可以迅速检索到符合PPT需求的图片，同时也可自动生成与演示主题相匹配的图片素材，最终匹配适合的PPT模板；&lt;/p>
+&lt;p>AI PPT支持个性化定制功能，根据需求选择页数、受众群体、演讲场景等，生成更符合要求的PPT作品，并支持下载功能，下载格式可选择PDF/PPT。&lt;/p>
+&lt;ol start="4">
+&lt;li>智能写作&lt;/li>
+&lt;/ol>
+&lt;p>天工能够撰写各种类型的文案，日报周报、小说、脚本、策划方案、爆款文案等都不在话下。AI写作提供丰富模板，满足各种写作类需求，成为你的灵感库。还可以通过更细节的要求，对已经生成的文案进行改写、续写、扩写、缩写、生成摘要等，文案需求一键搞定。&lt;/p>
+&lt;h2 id="天工的适用人群">天工的适用人群&lt;/h2>
+&lt;p>【职场人士】营销策划、数据分析、文案撰写、周报月报，满足办公的各种需求，提升工作效率！&lt;/p>
+&lt;p>【自媒体创作者】画画、爆款标题、各种攻略，各种模板。智能搜索掌握全网实时信息，提供源源不断的创作灵感。&lt;/p>
+&lt;p>【学术科研人员】支持文档垂搜，搜集海量文献资料，并对复杂学术概念进行AI解读，生成详细专业的摘要解答，助力科研。&lt;/p>
+&lt;p>【互联网从业者】搜集行业各种数据和竞品实时动态，提供SWOT分析和营销方案撰写，做你的AI小助手。&lt;/p>
+&lt;p>【学生群体】疑难问题拍照解答、学科重点知识整合，不懂就问，提高学习效率。&lt;/p>
+&lt;p>【程序员】代码续写、代码编写、注释编写、代码理解，支持Python、Java、C++等十余种主流语言，解决技术问题。&lt;/p>
+&lt;p>【旅游爱好者】快速输出旅行攻略，行程规划合理省时，并附带景点信息详细介绍，做你说走就走的旅游小帮手。&lt;/p></description></item><item><title>星火语伴</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/xinghuo/</link><pubDate>Fri, 27 Sep 2024 20:27:11 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/xinghuo/</guid><description>&lt;p>突破语言障碍，学习口语！语伴Sparkle是英语口语学习APP。支持多语种翻译，多话题对话，文字、图片、语音输入，自动评测，语法纠错，查词。全方位支持口语学习，体验功能丰富的英语口语学习神器！&lt;/p></description></item><item><title>豆包</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao/</link><pubDate>Fri, 27 Sep 2024 20:26:25 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao/</guid><description>&lt;p>豆包是你的多功能 AI 助手，为你的生活、学习、工作提供帮助。豆包可以为你搜索信息，答疑解惑，分析总结，提供灵感，辅助创作。豆包的知识渊博，专业可靠，同时也善解人意，需要的时候能够深入浅出。豆包也会倾听你的烦恼和心事，和你畅聊任何你感兴趣的话题。&lt;/p>
 &lt;p>豆包有着简单清爽的界面设计，无需学习，让你一打开就可以使用。语音输入功能让你可以轻松输入，而且识别准确，还支持不同的方言，让沟通更简单、更高效。豆包还提供了多种音色，能用自然、亲切的声音回答你。&lt;/p>
 &lt;p>除了豆包自己，还有各种各样不同的 AI 智能体，能满足你在学习、生活、创作、职业、情感等方面的需求，你也可以定制属于自己的 AI 智能体，选择你喜欢的说话风格、技能和背景。快来探索吧！&lt;/p>
 &lt;h1 id="豆包的特色-">豆包的特色 →&lt;/h1>
@@ -142,7 +308,18 @@ AI 时代永远不要忘了你有智能助手 4.告别传统的 PPT 制作方式
 &lt;li>“就像请的家教一样，什么都可以服务”&lt;/li>
 &lt;li>“效率高、质量好、特别智能”&lt;/li>
 &lt;/ul>
-&lt;p>请注意，豆包作为一款 AI，虽然我们已经尽力提高其准确性和可靠性，但仍有可能出现误解或误导的情况。我们建议用户在使用豆包获取信息时，结合其他来源进行参考。我们非常欢迎用户提供反馈和建议，以帮助我们不断改进。&lt;/p></description></item><item><title>Kimi.ai</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/kimi_ai/</link><pubDate>Wed, 28 Aug 2024 15:16:39 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/kimi_ai/</guid><description>&lt;h4 id="kimi-功能">Kimi 功能：&lt;/h4>
+&lt;p>请注意，豆包作为一款 AI，虽然我们已经尽力提高其准确性和可靠性，但仍有可能出现误解或误导的情况。我们建议用户在使用豆包获取信息时，结合其他来源进行参考。我们非常欢迎用户提供反馈和建议，以帮助我们不断改进。&lt;/p></description></item><item><title>文心一言</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/wenxinyiyan/</link><pubDate>Fri, 27 Sep 2024 20:26:15 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/wenxinyiyan/</guid><description>&lt;p>文心一言（英文名：ERNIE Bot）是百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动、回答问题、协助创作，高效便捷地帮助人们获取信息、知识和灵感。文心一言从数万亿数据和数千亿知识中融合学习，得到预训练大模型，在此基础上采用有监督精调、人类反馈强化学习、提示等技术，具备知识增强、检索增强和对话增强的技术优势。&lt;/p>
+&lt;p>2023年3月16日文心一言新闻发布会上，百度创始人、董事长兼首席执行官李彦宏及百度首席技术官、深度学习技术及应用国家工程研究中心主任王海峰展示了文心一言在文学创作、商业文案创作、数理推算、中文理解、多模态生成五个使用场景中的综合能力。&lt;/p>
+&lt;h3 id="文学创作">文学创作&lt;/h3>
+&lt;p>文心一言根据对话问题将知名科幻小说《三体》的核心内容进行了总结，并提出了五个续写《三体》的建议角度，体现出对话问答、总结分析、内容创作生成的综合能力。此外，文心一言准确回答了《三体》作者、电视剧角色扮演者等事实性问题。生成式AI在回答事实性问题时常常“胡编乱造”，而文心一言延续了百度知识增强的大模型理念，大幅度提升了事实性问题的准确率。面对“于和伟和张鲁一有哪些共同点”、“于和伟和张鲁一谁更高”这类问题，文心一言也基于推理能力得出了正确答案。&lt;/p>
+&lt;h3 id="商业文案创作">商业文案创作&lt;/h3>
+&lt;p>文心一言顺利完成了给公司起名、写Slogan、写新闻稿的创作任务。连续三次内容创作生成中，文心一言既能准确理解人类意图，又能清晰地表达，这是基于庞大数据规模而发生的“智能涌现”。&lt;/p>
+&lt;h3 id="数理逻辑推算">数理逻辑推算&lt;/h3>
+&lt;p>文心一言还具备了一定的思维能力，能够学会数学推演及逻辑推理等相对复杂任务。面对“鸡兔同笼”这类锻炼人类逻辑思维的经典题，文心一言能理解题意，并有正确的解题思路，进而像学生做题一样，按正确的步骤，一步步算出正确答案。&lt;/p>
+&lt;h3 id="中文理解">中文理解&lt;/h3>
+&lt;p>作为扎根于中国市场的大语言模型，文心一言具备中文领域最先进的自然语言处理能力，在中文语言和中国文化上有更好的表现。在现场展示中，文心一言正确解释了成语“洛阳纸贵”的含义、“洛阳纸贵”对应的经济学理论，还用“洛阳纸贵”四个字创作了一首藏头诗。&lt;/p>
+&lt;h3 id="多模态生成">多模态生成&lt;/h3>
+&lt;p>百度创始人、董事长兼首席执行官李彦宏现场展示了文心一言生成文本、图片、音频和视频的能力。文心一言甚至能够生成四川话等方言语音。&lt;/p></description></item><item><title>Kimi.ai</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/kimi_ai/</link><pubDate>Wed, 28 Aug 2024 15:16:39 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/kimi_ai/</guid><description>&lt;h4 id="kimi-功能">Kimi 功能：&lt;/h4>
 &lt;p>&lt;img src="https://picx.zhimg.com/v2-93823535f337e397c8251039f5c0458d.webp" alt="img">&lt;/p>
 &lt;ol>
 &lt;li>长文总结和生成功能：能够高效地提炼大量信息，支持最多50个文件，接受pdf、doc、xlsx、PPT、txt、图片等多种格式；&lt;/li>

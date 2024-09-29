@@ -29,9 +29,25 @@
 &lt;li>统计与数据分析（概率；数据表示；泊松/正态分布）&lt;/li>
 &lt;li>矩阵（矩阵代数；线性方程组与矩阵）&lt;/li>
 &lt;li>逻辑（推理与证明）&lt;/li>
-&lt;/ul></description></item><item><title>Grok</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</link><pubDate>Fri, 27 Sep 2024 20:36:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</guid><description>&lt;p>Grok是 xAI 基于大型语言模型开发的生成式人工智能聊天机器人，类似于 ChatGPT。它能够实时回答用户的问题，并利用 X 社交媒体平台的数据进行回应。&lt;/p></description></item><item><title>Amazon Q</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/amazon_q/</link><pubDate>Fri, 27 Sep 2024 20:31:02 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/amazon_q/</guid><description>&lt;p>Amazon Q Developer是一款生成式人工智能（AI）驱动的对话助手，可以帮助您理解、构建、扩展和操作AWS应用程序。您可以提出有关AWS架构、您的AWS资源、最佳实践、留档、支持等方面的问题。Amazon Q 不断更新其功能，以便您的问题获得最上下文相关和可操作的答案。&lt;/p>
+&lt;/ul></description></item><item><title>Grok</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</link><pubDate>Fri, 27 Sep 2024 20:36:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</guid><description>&lt;p>Grok是 xAI 基于大型语言模型开发的生成式人工智能聊天机器人，类似于 ChatGPT。它能够实时回答用户的问题，并利用 X 社交媒体平台的数据进行回应。&lt;/p></description></item><item><title>Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
+&lt;ul>
+&lt;li>它可以帮助用户释放创造力短提示，在Word中生成文档的初稿，或在PowerPoint中创建漂亮的幻灯片，并根据用户在微软图形中的数据添加相关内容。&lt;/li>
+&lt;li>它可以在Microsoft Excel中帮助用户分析数据，生成图表和报告，并提供有用的见解和建议。&lt;/li>
+&lt;li>它可以在Microsoft Outlook中帮助用户管理日程安排，回复邮件，编写摘要和提纲，并提供适当的语气和礼貌。&lt;/li>
+&lt;li>它可以在Microsoft Teams中帮助用户协作沟通，分享信息，创建任务和计划，并提供相关的反馈和建议。&lt;/li>
+&lt;li>它可以在商务聊天中帮助用户根据自然语言提示生成文本内容，例如状态更新、项目提案、市场分析等，并根据用户在微软图形（Microsoft Graph）中的数据进行调整和优化。&lt;/li>
+&lt;li>它始终尊重用户的控制权，让用户决定保留、修改或丢弃它生成的内容。&lt;/li>
+&lt;li>它遵循微软对数据安全和隐私的承诺，在企业环境中保护用户的数据不被滥用或泄露。&lt;/li>
+&lt;/ul></description></item><item><title>Noisee AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/noisee_ai/</link><pubDate>Fri, 27 Sep 2024 20:31:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/noisee_ai/</guid><description>&lt;p>Noisee AI是由月之暗面Moonshot AI旗下的公司Tranquillitatis, Inc.推出的一个AI音乐视频MV生成工具。通过文字描述，提供音视频，下载视频生成30秒音视频。&lt;/p></description></item><item><title>Amazon Q</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/amazon_q/</link><pubDate>Fri, 27 Sep 2024 20:31:02 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/amazon_q/</guid><description>&lt;p>Amazon Q Developer是一款生成式人工智能（AI）驱动的对话助手，可以帮助您理解、构建、扩展和操作AWS应用程序。您可以提出有关AWS架构、您的AWS资源、最佳实践、留档、支持等方面的问题。Amazon Q 不断更新其功能，以便您的问题获得最上下文相关和可操作的答案。&lt;/p>
 &lt;p>当在集成开发环境（IDE）中使用时，Amazon Q 提供软件开发帮助。Amazon Q 可以聊天代码，提供内联代码完成，生成新代码，扫描您的代码以查找安全漏洞，并进行代码升级和改进，例如语言更新、调试和优化。&lt;/p>
-&lt;p>Amazon Q 由 Amazon Bedrock 提供支持，这是一项完全托管的服务，通过应用编程接口提供基础模型。为 Amazon Q 提供支持的模型已经通过高质量的AWS内容得到了增强，为您提供更完整、可操作和参考的答案，以加速您在AWS上的构建。&lt;/p></description></item><item><title>扣子/Coze</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</link><pubDate>Fri, 27 Sep 2024 20:28:10 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</guid><description>&lt;h2 id="概述">概述&lt;/h2>
+&lt;p>Amazon Q 由 Amazon Bedrock 提供支持，这是一项完全托管的服务，通过应用编程接口提供基础模型。为 Amazon Q 提供支持的模型已经通过高质量的AWS内容得到了增强，为您提供更完整、可操作和参考的答案，以加速您在AWS上的构建。&lt;/p></description></item><item><title>Runway</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/runway/</link><pubDate>Fri, 27 Sep 2024 20:29:50 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/runway/</guid><description>&lt;p>Runway是一款基于人工智能的创意工具和平台，它提供了一系列强大的功能，旨在帮助用户在视觉内容创作、设计和开发过程中提高效率和创新能力。&lt;/p>
+&lt;h2 id="主要功能">主要功能：&lt;/h2>
+&lt;p>AI视频生成与编辑： Runway能够使用AI技术自动生成视频内容，包括动画、过渡效果和视觉特效，并提供一系列视频编辑工具。&lt;/p>
+&lt;p>图像生成与处理： 用户可以利用Runway的AI算法创建新的图像、修改现有图像或进行风格转换。&lt;/p>
+&lt;p>3D内容创作： Runway支持3D模型的生成、编辑和渲染，以及实时3D场景的构建和交互。&lt;/p>
+&lt;p>音频处理： 该平台还提供了音频处理工具，如语音合成、音乐生成和音效设计。&lt;/p>
+&lt;p>Workflow自动化： Runway允许用户创建和定制工作流程，自动化复杂的创意任务和流程。&lt;/p>
+&lt;p>API与集成： Runway提供了API，使得开发者能够将其AI功能集成到自己的应用程序和服务中。&lt;/p></description></item><item><title>扣子/Coze</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</link><pubDate>Fri, 27 Sep 2024 20:28:10 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</guid><description>&lt;h2 id="概述">概述&lt;/h2>
 &lt;p>海外版 coze.com，可以用 GPT-4&lt;/p>
 &lt;p>扣子是新一代 AI 应用开发平台。无论你是否有编程基础，都可以在扣子上快速搭建基于大模型的各类 Bot，并将 Bot 发布到各个社交平台、通讯软件或部署到网站等其他渠道。&lt;/p>
 &lt;h2 id="功能与优势">功能与优势&lt;/h2>
@@ -55,13 +71,37 @@
 &lt;ul>
 &lt;li>创建一个搜集电影评论的工作流，快速查看一部最新电影的评论与评分。&lt;/li>
 &lt;li>创建一个撰写行业研究报告的工作流，让 Bot 写一份 20 页的报告。&lt;/li>
-&lt;/ul></description></item><item><title>Devv AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/devv_ai/</link><pubDate>Fri, 27 Sep 2024 20:27:37 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/devv_ai/</guid><description>&lt;h2 id="devv的主要功能">Devv的主要功能&lt;/h2>
+&lt;/ul></description></item><item><title>Midjourney</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/midjourney/</link><pubDate>Fri, 27 Sep 2024 20:28:03 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/midjourney/</guid><description>&lt;p>Midjourney是一个由位于美国加州旧金山的同名研究实验室开发之人工智能程序，可根据文本生成图像，于2022年7月12日进入公开测试阶段，用户可透过Discord的机器人指令进行操作。该研究实验室由Leap Motion的创办人大卫·霍尔兹（David Holz）负责领导。&lt;/p>
+&lt;h2 id="midjourney是什么">Midjourney是什么？&lt;/h2>
+&lt;p>Midjourney是一款基于人工智能技术的绘画软件，它利用深度学习算法来辅助用户进行绘画创作。通过对大量的绘画作品进行学习，Midjourney能够理解各种绘画风格和技巧，从而帮助用户轻松地创作出具有个性化风格的作品。这款软件适用于各种绘画领域，如插画、漫画、油画等，无论是专业画家还是绘画爱好者，都可以在Midjourney中找到适合自己的创作方式。&lt;/p>
+&lt;p>Midjourney 生成图片的方式有 3 种：&lt;/p>
+&lt;p>总结起来，Midjourney 是 AI 绘画界中最受欢迎的工具之一。它提供了简单易用的功能，包括通过文本描述、图片输入和混合图片等方式生成创意图片。使用 Midjourney，你可以轻松地创作出大量灵感图片，为你的创作提供源源不断的灵感：&lt;/p>
+&lt;ul>
+&lt;li>文字生成图片：通过在输入框中描述图片场景的关键词，AI 会根据描述生成相应的画作。&lt;/li>
+&lt;li>图片生成图片：上传一张特定风格的图片，并描述该图片的关键词，AI 将生成相同风格的新图片。&lt;/li>
+&lt;li>混合图片生成图片：将多张图片输入给 AI 进行混合，生成一张融合了多个图片的新作品。&lt;/li>
+&lt;/ul></description></item><item><title>Stable_diffusion</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/stable_diffusion/</link><pubDate>Fri, 27 Sep 2024 20:27:54 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/stable_diffusion/</guid><description>&lt;p>Stable Diffusion 3 是我们最新和最先进的文本到图像人工智能模型，包含20亿个参数。它在照片真实感方面表现出色，处理复杂的提示，并生成明文。权重在社区许可下可用。如需商业用途，请联系我们了解许可详情。&lt;/p></description></item><item><title>Devv AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/devv_ai/</link><pubDate>Fri, 27 Sep 2024 20:27:37 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/devv_ai/</guid><description>&lt;h2 id="devv的主要功能">Devv的主要功能&lt;/h2>
 &lt;ul>
 &lt;li>编程和技术问题搜索解答：Devv.ai可以提供关于编程、软件开发和人工智能等方面的建议和指导，回答关于编程语言、算法、代码调试、软件开发最佳实践等方面的问题&lt;/li>
 &lt;li>预设多种编程语言：Devv.ai搜索引擎预设了Python、Go、JavaScript、Java、SQL、Rust、PHP、C、Swift等10多种编程语言可供选择进行提问&lt;/li>
 &lt;li>支持连续对话：Devv.ai允许用户在当前内容上继续提问和进行连续对话，并且回答的内容会在右侧标注参考来源和出处&lt;/li>
 &lt;li>多平台使用：Devv.ai支持通过在线网页版、Windows和macOS桌面客户端使用&lt;/li>
-&lt;/ul></description></item><item><title>SUNO AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/suno_ai/</link><pubDate>Wed, 28 Aug 2024 15:15:47 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/suno_ai/</guid><description>&lt;h1 id="suno-ai">SUNO AI&lt;/h1>
+&lt;/ul></description></item><item><title>Perplexity</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/perplexity/</link><pubDate>Fri, 27 Sep 2024 20:27:29 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/perplexity/</guid><description>&lt;p>Perplexity A!是一款功能强大的人工智能搜索引擎。它是由一支来自纽约大学和加州大学校友联合创办的公司团队，历时数年研发出来的。它与其它搜索引擎不同的是，Perplexity AI同时融合了人工智能技术和深度搜索技术，可以根据用户的自然语言进行搜索，并以摘要和引用的形式为用户提供最相关的答案，这使得用户的搜索效率得到了显著的提高。&lt;/p>
+&lt;h2 id="perplexity-ai的界面与功能">Perplexity AI的界面与功能&lt;/h2>
+&lt;p>Perplexity AI是一款基于openai接口，调用了gpt35和gpt4的模型的AI工具。它支持联网功能和准确的答案，并能识别和回应模糊或抽象语言。用户可以通过它的界面进行搜索，从而获取包含准确答案和相关链接的搜索结果。&lt;/p>
+&lt;h2 id="perplexity-ai有以下特点">Perplexity AI有以下特点：&lt;/h2>
+&lt;p>支持多种语言：Perplexity AI不仅支持英文，而且也支持中文，用户可以根据需要选择使用哪种语言。&lt;/p>
+&lt;p>多轮对话：Perplexity AI可以通过多轮对话反复盘问，获取更深入、更全面的信息，帮助用户解决问题。&lt;/p>
+&lt;p>支持免费使用GPT-4模型：Perplexity AI采用GPT-4模型，为人力资源的AI解决方案提供了强大的支持，增强了员工的能力。&lt;/p>
+&lt;p>无广告的搜索结果：Perplexity AI提供的搜索结果纯净无广告，用户可以得到更清晰的搜索结果。&lt;/p>
+&lt;p>网页和其他方式的下载安装：用户可以直接访问网页或参考其他方法下载安装Perplexity AI。&lt;/p>
+&lt;p>总之，Perplexity AI具有强大的搜索引擎功能，不仅可以提供准确的答案，还可以帮助用户获得更多信息和知识。它是一个创新的AI工具，能够帮助用户更好地解决问题和获得信息。&lt;/p>
+&lt;h2 id="perplexity-ai有哪些优点">Perplexity AI有哪些优点？&lt;/h2>
+&lt;p>专业的解决方案：Perplexity AI提供类似聊天机器人的搜索界面，平台基于GenAI模型，提供专业计划，这是一种解决特定问题的有效方案。&lt;/p>
+&lt;p>模型优化：Perplexity AI成功地切换模型并解锁图像生成、Copilot等功能，这些功能有助于提高模型的性能和准确性，提供更准确的搜索结果。&lt;/p>
+&lt;p>投资者的支持：Perplexity AI完成了由IVP领投的7000万美元融资，虽然版权问题和模型运行成本较高，但投资者仍然对其前景持有乐观态度。&lt;/p>
+&lt;p>富有挑战性的工作环境：Perplexity AI所面对的版权问题和模型运行成本较高等挑战，这种环境对员工是一个很好的激励，促进他们的创新和专业精神。&lt;/p>
+&lt;p>未来潜力：尽管Perplexity AI面临这些问题，投资者仍然对其前景持乐观态度，显示了对其未来的潜力的预期。&lt;/p></description></item><item><title>SUNO AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/suno_ai/</link><pubDate>Wed, 28 Aug 2024 15:15:47 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/suno_ai/</guid><description>&lt;h1 id="suno-ai">SUNO AI&lt;/h1>
 &lt;p>Suno正在建设一个任何人都可以创作伟大音乐的未来。无论你是淋浴歌手还是图表艺术家，我们都会打破你和你梦想创作的歌曲之间的障碍。不需要乐器，只要想象。从你的头脑到音乐。&lt;/p></description></item><item><title>Cursor</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/cursor/</link><pubDate>Wed, 28 Aug 2024 15:15:40 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/cursor/</guid><description>&lt;p>Cursor 是一个基于 Visual Studio Code（VS Code）技术构建的高级代码编辑器，专为提高编程效率并更深度地整合 AI 功能而设计。它不仅继承了 VS Code 的强大功能和用户界面，还增加了专门针对 AI 支持的特色功能。&lt;/p>
 &lt;p>Cursor通过这些独特的功能，极大地提升了编程的便捷和效率，使开发者能够更有效地利用AI技术进行软件开发。下面是Cursor的三个核心功能&lt;/p>
 &lt;ol>
