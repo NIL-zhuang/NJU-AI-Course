@@ -9,3 +9,7 @@ theme = "njuai"
   modality = "modality"
   availability = "availability"
   scenario = "scenario"
+
+[pagination]
+  disableAliases = false
+  pagerSize = 12

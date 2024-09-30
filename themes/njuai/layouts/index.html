@@ -31,7 +31,8 @@
     </div>
 
     {{- $postPages := where .Site.RegularPages "File.Dir" "posts/" }}
-{{- $paginator := .Paginate $postPages }}
+{{- $paginator := .Paginate $postPages}}
+<!-- {{- $paginator := .Paginate $postPages 12}} You can fix here to temporarily change Paginate setting.-->
     <div class="columns is-centered">
       <div class="column">
         {{ range $index, $page := $paginator.Pages }}
