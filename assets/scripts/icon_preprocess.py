@@ -2,8 +2,6 @@ import os
 
 from PIL import Image
 
-PATH = "/Users/nil/Documents/code/Practice/njuai"
-
 
 def compress_and_crop_image(input_image_path, output_image_path, size=(224, 224)):
     """
