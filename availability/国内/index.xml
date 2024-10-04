@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>国内 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/availability/%E5%9B%BD%E5%86%85/</link><description>Recent content in 国内 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 20:35:34 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/availability/%E5%9B%BD%E5%86%85/index.xml" rel="self" type="application/rss+xml"/><item><title>Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>国内 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/availability/%E5%9B%BD%E5%86%85/</link><description>Recent content in 国内 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 11:46:44 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/availability/%E5%9B%BD%E5%86%85/index.xml" rel="self" type="application/rss+xml"/><item><title>ACE Studio</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/acestudio/</link><pubDate>Fri, 04 Oct 2024 11:46:44 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/acestudio/</guid><description>&lt;p>时域科技的AI虚拟歌手软件。根据Midi信号和歌词进行AI虚拟歌手的演唱、音色定制、混合声线、多语种演唱、可调整参数多（张力、力度、共振峰、假声、气声、共振峰）、可调整字头呼吸和音高曲线、可调整颤音和平滑、人声转Midi、音频拆分轨、音乐测速等。&lt;/p></description></item><item><title>绘蛙</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/huiwa/</link><pubDate>Fri, 04 Oct 2024 11:24:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/huiwa/</guid><description>&lt;h2 id="绘蛙是什么">绘蛙是什么？&lt;/h2>
+&lt;p>面向电商卖家和达人的AI创作平台，可以低成本创作丰富的商拍图、种草文案&lt;/p>
+&lt;h2 id="能为商家带来什么">能为商家带来什么？&lt;/h2>
+&lt;ul>
+&lt;li>多：用AI创作丰富的图片，满足下游进货商对图片的差异化诉求，提升店铺竞争力&lt;/li>
+&lt;li>快：无需协调模特档期，无需高薪聘请商拍和写手团队，使用绘蛙AI一键生成商品图和文案，让商品第一时间被消费者种草&lt;/li>
+&lt;li>好：能够生成姿态丰富、背景丰富、效果自然的模特上身图&lt;/li>
+&lt;li>省：减少外拍、请模特、寄样的成本&lt;/li>
+&lt;/ul></description></item><item><title>代码小浣熊</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/raccoon_code/</link><pubDate>Fri, 04 Oct 2024 11:18:56 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/raccoon_code/</guid><description>&lt;p>「代码小浣熊」是基于商汤大语言模型的软件智能研发助手，覆盖软件需求分析、架构设计、代码编写、软件测试等环节，满足用户代码编写、编程学习等各类需求。代码小浣熊支持 Python、Java、JavaScript、C++、Go、SQL 等90+主流编程语言和 VS Code、IntelliJ IDEA 等主流 IDE。在实际应用中，代码小浣熊可帮助开发者提升编程效率超50%。&lt;/p></description></item><item><title>办公小浣熊</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/raccoon_work/</link><pubDate>Fri, 04 Oct 2024 11:18:56 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/raccoon_work/</guid><description>&lt;p>「办公小浣熊」是基于商汤大语言模型的大模型原生数据分析产品，可通过用户的自然语言输入，自动将数据转化为有意义的分析和可视化结果。办公小浣熊支持复杂表格、多表格、多文件的理解，可以完成数据清洗、数据运算、比较分析、趋势分析，预测性分析、可视化等常见数据分析任务，赋能财务分析、商业分析、销售预测、市场分析、宏观分析等多个应用场景。&lt;/p></description></item><item><title>和弦派</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/deepmusic/</link><pubDate>Fri, 04 Oct 2024 11:15:01 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/deepmusic/</guid><description>&lt;p>和弦派由国内人工智能音乐服务商DeepMusic自主研发，从歌词构思、旋律构建、编曲设计、虚拟演唱到后期混音，AI赋能音乐创作全流程，显著提升创作效能。和弦派同时具备AI生成能力和编辑功能，助力音乐人和音乐爱好者突破创作边界，孕育出丰富多样且充满个性特色的音乐作品。&lt;/p>
+&lt;p>产品核心亮点：&lt;/p>
+&lt;p>【多元化AI生成及创作方式】&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>智能创作模式：包含歌词生成歌曲、歌曲Remix、即兴旋律与和弦生成，只需轻点一下，即可快速获得符合各类风格的高质量商业级别伴奏，并搭载虚拟歌手实现即时歌声合成。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>模板创作工具：内含丰富的和弦模板、多元曲风模板以及海量作品曲库资源，轻松切换不同编曲风格，用户可自由搭配超过百种音色与千余种乐器演奏技法，实现无限创意可能。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>工程自由新建：全新创建工程项目时，能够自由预设初始拍号、工程速度、和弦进程、乐器搭配以及小节数量等细节要素，并在编辑过程中随时调整，全方位把控作品架构。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>【深度定制化编辑体验】&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>灵活操控AI输出：提供深度介入的可控AI生成体验，允许用户对生成结果进行精细化修饰和自由编辑，包括选择特定乐器进行编曲创作及旋律solo的生成和美化。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>完备工程结构管理：集成词、曲、伴奏乃至人声演唱的完整乐谱体系，支持乐谱播放与旋律跟随功能，让创作更具互动性和直观性。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>高度灵活乐谱编辑：涵盖旋律与歌词匹配、和声布局设计、段落与小节调整等多个维度，精准至音符级别的细致编辑功能确保每一处音乐细节都能被精心雕琢。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>流畅的成果保存与分享：提供云端同步存储、回收站功能保障数据安全，支持作品便捷分享，并可并轨渲染MP3、WAV格式音频文件，分轨导出WAV音频文件。同时可以一键导出词曲或工程MIDI文件，进行宿主级别精调，且支持多种乐谱导出。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>【独特个性作品铸就】&lt;/p>
+&lt;p>和弦派严格遵循音乐理论基础，按照专业音乐制作逻辑有序完成作品构建。在每一次与用户的交互过程中，和弦派都致力于启发并捕捉创作者的独特灵感火花，共同打造出极具差异化和个性化的音乐作品。&lt;/p>
+&lt;p>把创作的重复性交给和弦派，把创作的可控性还给创作者。&lt;/p></description></item><item><title>Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
 &lt;ul>
 &lt;li>它可以帮助用户释放创造力短提示，在Word中生成文档的初稿，或在PowerPoint中创建漂亮的幻灯片，并根据用户在微软图形中的数据添加相关内容。&lt;/li>
 &lt;li>它可以在Microsoft Excel中帮助用户分析数据，生成图表和报告，并提供有用的见解和建议。&lt;/li>
