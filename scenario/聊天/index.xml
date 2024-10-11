@@ -98,7 +98,9 @@
 &lt;li>编写代码功能：使得Kimi能够辅助开发者进行编程工作，提高了开发效率&lt;/li>
 &lt;li>用户交互功能：使得Kimi能够与用户进行自然流畅的对话，提升了用户体验；&lt;/li>
 &lt;li>翻译功能：帮助用户跨越语言障碍，实现全球范围内的信息交流。&lt;/li>
-&lt;/ol></description></item><item><title>ChatGPT</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/chatgpt/</link><pubDate>Sun, 25 Aug 2024 12:08:58 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/chatgpt/</guid><description>&lt;p>我们已经训练了一个名为ChatGPT的模型，它以对话的方式进行交互。对话格式使ChatGPT有可能回答后续问题，承认其错误，挑战不正确的前提，并拒绝不适当的请求。ChatGPT是InstructGPT的兄弟模型，它被训练为遵循提示中的指令并提供详细的响应。我们很高兴地介绍ChatGPT以获得用户的反馈并了解其优缺点。在研究预览期间，ChatGPT的使用是免费的。立即在 &lt;a href="https://chatgpt.com/">https://chatgpt.com/&lt;/a> 尝试。&lt;/p>
+&lt;/ol>
+&lt;p>2024年10月11日，通用人工智能创业公司——月之暗面正式发布可自主海量搜索解决复杂问题的 Kimi 探索版。Kimi 探索版具备AI自主搜索能力，可以模拟人类的推理思考过程，多级分解复杂问题，执行深度搜索，并即时反思改进结果，提供更全面和准确的答案，帮助用户更高效地完成分析调研等复杂任务。&lt;/p>
+&lt;p>Kimi 探索版能够做到 自主规划策略，步步为营；自动化大规模信息检索，穷尽海量权威信源；即时反思搜索结果，补充信息。&lt;/p></description></item><item><title>ChatGPT</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/chatgpt/</link><pubDate>Sun, 25 Aug 2024 12:08:58 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/chatgpt/</guid><description>&lt;p>我们已经训练了一个名为ChatGPT的模型，它以对话的方式进行交互。对话格式使ChatGPT有可能回答后续问题，承认其错误，挑战不正确的前提，并拒绝不适当的请求。ChatGPT是InstructGPT的兄弟模型，它被训练为遵循提示中的指令并提供详细的响应。我们很高兴地介绍ChatGPT以获得用户的反馈并了解其优缺点。在研究预览期间，ChatGPT的使用是免费的。立即在 &lt;a href="https://chatgpt.com/">https://chatgpt.com/&lt;/a> 尝试。&lt;/p>
 &lt;h2 id="methods">Methods&lt;/h2>
 &lt;p>我们使用来自人类反馈的强化学习（RLHF）训练这个模型，使用与InstructGPT相同的方法，但数据采集设置略有不同。我们使用监督微调训练了一个初始模型：人类人工智能培训师提供对话，他们在对话中扮演双方——用户和人工智能助手。我们让培训师访问模型编写的建议，以帮助他们编写响应。我们将这个新的对话数据集与InstructGPT数据集混合在一起，并将其转换为对话格式。为了创建强化学习的奖励模型，我们需要收集比较数据，其中包括两个或多个按质量排序的模型响应。&lt;/p>
 &lt;p>为了收集这些数据，我们采用了人工智能培训师与聊天机器人的对话。我们随机选择一条模型编写的消息，采样几个替代完成，并让人工智能培训师对它们进行排名。使用这些奖励模型，我们可以使用邻近策略优化来微调模型。&lt;/p>

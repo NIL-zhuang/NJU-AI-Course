@@ -437,7 +437,9 @@ AI 时代永远不要忘了你有智能助手 4.告别传统的 PPT 制作方式
 &lt;li>编写代码功能：使得Kimi能够辅助开发者进行编程工作，提高了开发效率&lt;/li>
 &lt;li>用户交互功能：使得Kimi能够与用户进行自然流畅的对话，提升了用户体验；&lt;/li>
 &lt;li>翻译功能：帮助用户跨越语言障碍，实现全球范围内的信息交流。&lt;/li>
-&lt;/ol></description></item><item><title>SUNO AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/suno_ai/</link><pubDate>Wed, 28 Aug 2024 15:15:47 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/suno_ai/</guid><description>&lt;h1 id="suno-ai">SUNO AI&lt;/h1>
+&lt;/ol>
+&lt;p>2024年10月11日，通用人工智能创业公司——月之暗面正式发布可自主海量搜索解决复杂问题的 Kimi 探索版。Kimi 探索版具备AI自主搜索能力，可以模拟人类的推理思考过程，多级分解复杂问题，执行深度搜索，并即时反思改进结果，提供更全面和准确的答案，帮助用户更高效地完成分析调研等复杂任务。&lt;/p>
+&lt;p>Kimi 探索版能够做到 自主规划策略，步步为营；自动化大规模信息检索，穷尽海量权威信源；即时反思搜索结果，补充信息。&lt;/p></description></item><item><title>SUNO AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/suno_ai/</link><pubDate>Wed, 28 Aug 2024 15:15:47 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/suno_ai/</guid><description>&lt;h1 id="suno-ai">SUNO AI&lt;/h1>
 &lt;p>Suno正在建设一个任何人都可以创作伟大音乐的未来。无论你是淋浴歌手还是图表艺术家，我们都会打破你和你梦想创作的歌曲之间的障碍。不需要乐器，只要想象。从你的头脑到音乐。&lt;/p></description></item><item><title>Cursor</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/cursor/</link><pubDate>Wed, 28 Aug 2024 15:15:40 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/cursor/</guid><description>&lt;p>Cursor 是一个基于 Visual Studio Code（VS Code）技术构建的高级代码编辑器，专为提高编程效率并更深度地整合 AI 功能而设计。它不仅继承了 VS Code 的强大功能和用户界面，还增加了专门针对 AI 支持的特色功能。&lt;/p>
 &lt;p>Cursor通过这些独特的功能，极大地提升了编程的便捷和效率，使开发者能够更有效地利用AI技术进行软件开发。下面是Cursor的三个核心功能&lt;/p>
 &lt;ol>
