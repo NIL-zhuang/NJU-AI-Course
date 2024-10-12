@@ -3,8 +3,10 @@ body {
   // use this if navbar is fixed
   min-height: calc(100vh - 52px);
   flex-direction: column;
-  background-image: url("background.jpg");
-  // background-color: hsl(222.2 84% 4.9%;
+  background: radial-gradient(circle at 30% 50%, #2C2E4F, transparent 25%),
+  radial-gradient(circle at 70% 50%, #614467, transparent 25%), /* 更暗的深红色 */
+  radial-gradient(circle at 50% 80%, #2c3e50, transparent 30%),
+  linear-gradient(135deg, #000000 20%, #2c3e50 40%, #614467 60%, #1b2631 80%, #000000 100%); /* 更暗的深红色 */
   background-position: center center;
   background-repeat: repeat-y;
   background-size: cover;
