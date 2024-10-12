@@ -31,7 +31,7 @@ jobs:
             ${{ runner.os }}-hugomod-
 
       - name: Build Web
-        run: hugo --minify
+        run: hugo --minify --config hugo_gh_pages.toml
 
       - name: Deploy Web
         uses: peaceiris/actions-gh-pages@v4
