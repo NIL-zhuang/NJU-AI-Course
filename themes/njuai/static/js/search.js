@@ -28,23 +28,25 @@ if (searchQuery) {
 
 
 function executeSearch(searchQuery) {
-    $.getJSON("/NJU-AI-Course/index.json", function (data) {
-        var pages = data;
-        //console.log({ "pages": pages });
-        var fuse = new Fuse(pages, fuseOptions);
-        var result = fuse.search(searchQuery);
-        //console.log({ "matches": result });
-        if (result.length > 0) {
-            populateResults(result);
-        } else {
-            $('#search-results').css({
-                'display': 'flex',
-                'justify-content': 'center',
-                'align-items': 'center',
-                'flex-wrap': 'wrap'
-            });
-            $('#search-results').append("<div class='notification is-warning'>未找到搜索结果，请更换关键词后重试。</div>");
-        }
+    $.getJSON("/index.json", function (data) {
+      var pages = data;
+      //console.log({ "pages": pages });
+      var fuse = new Fuse(pages, fuseOptions);
+      var result = fuse.search(searchQuery);
+      //console.log({ "matches": result });
+      if (result.length > 0) {
+        populateResults(result);
+      } else {
+        $("#search-results").css({
+          display: "flex",
+          "justify-content": "center",
+          "align-items": "center",
+          "flex-wrap": "wrap",
+        });
+        $("#search-results").append(
+          "<div class='notification is-warning'>未找到搜索结果，请更换关键词后重试。</div>"
+        );
+      }
     });
 }
 
