@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>办公 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/scenario/%E5%8A%9E%E5%85%AC/</link><description>Recent content in 办公 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 11:18:56 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/scenario/%E5%8A%9E%E5%85%AC/index.xml" rel="self" type="application/rss+xml"/><item><title>办公小浣熊</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/raccoon_work/</link><pubDate>Fri, 04 Oct 2024 11:18:56 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/raccoon_work/</guid><description>&lt;p>「办公小浣熊」是基于商汤大语言模型的大模型原生数据分析产品，可通过用户的自然语言输入，自动将数据转化为有意义的分析和可视化结果。办公小浣熊支持复杂表格、多表格、多文件的理解，可以完成数据清洗、数据运算、比较分析、趋势分析，预测性分析、可视化等常见数据分析任务，赋能财务分析、商业分析、销售预测、市场分析、宏观分析等多个应用场景。&lt;/p></description></item><item><title>Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>办公 on NJU AI 通识课</title><link>http://175.27.130.124/scenario/%E5%8A%9E%E5%85%AC/</link><description>Recent content in 办公 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 11:18:56 +0800</lastBuildDate><atom:link href="http://175.27.130.124/scenario/%E5%8A%9E%E5%85%AC/index.xml" rel="self" type="application/rss+xml"/><item><title>办公小浣熊</title><link>http://175.27.130.124/posts/raccoon_work/</link><pubDate>Fri, 04 Oct 2024 11:18:56 +0800</pubDate><guid>http://175.27.130.124/posts/raccoon_work/</guid><description>&lt;p>「办公小浣熊」是基于商汤大语言模型的大模型原生数据分析产品，可通过用户的自然语言输入，自动将数据转化为有意义的分析和可视化结果。办公小浣熊支持复杂表格、多表格、多文件的理解，可以完成数据清洗、数据运算、比较分析、趋势分析，预测性分析、可视化等常见数据分析任务，赋能财务分析、商业分析、销售预测、市场分析、宏观分析等多个应用场景。&lt;/p></description></item><item><title>Copilot</title><link>http://175.27.130.124/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>http://175.27.130.124/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
 &lt;ul>
 &lt;li>它可以帮助用户释放创造力短提示，在Word中生成文档的初稿，或在PowerPoint中创建漂亮的幻灯片，并根据用户在微软图形中的数据添加相关内容。&lt;/li>
 &lt;li>它可以在Microsoft Excel中帮助用户分析数据，生成图表和报告，并提供有用的见解和建议。&lt;/li>
@@ -7,14 +7,14 @@
 &lt;li>它可以在商务聊天中帮助用户根据自然语言提示生成文本内容，例如状态更新、项目提案、市场分析等，并根据用户在微软图形（Microsoft Graph）中的数据进行调整和优化。&lt;/li>
 &lt;li>它始终尊重用户的控制权，让用户决定保留、修改或丢弃它生成的内容。&lt;/li>
 &lt;li>它遵循微软对数据安全和隐私的承诺，在企业环境中保护用户的数据不被滥用或泄露。&lt;/li>
-&lt;/ul></description></item><item><title>讯飞公文写作助手</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/xunfei_gongwen/</link><pubDate>Fri, 27 Sep 2024 20:34:50 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/xunfei_gongwen/</guid><description>&lt;p>讯飞公文依托于科大讯飞先进的星火大模型技术，对公文领域进行了深入的专业化定制。无论是起草报告、撰写通知及心得体会，讯飞公文都能提供高效的帮助。&lt;/p>
+&lt;/ul></description></item><item><title>讯飞公文写作助手</title><link>http://175.27.130.124/posts/xunfei_gongwen/</link><pubDate>Fri, 27 Sep 2024 20:34:50 +0800</pubDate><guid>http://175.27.130.124/posts/xunfei_gongwen/</guid><description>&lt;p>讯飞公文依托于科大讯飞先进的星火大模型技术，对公文领域进行了深入的专业化定制。无论是起草报告、撰写通知及心得体会，讯飞公文都能提供高效的帮助。&lt;/p>
 &lt;h3 id="1素材筹备">1.素材筹备：&lt;/h3>
 &lt;p>在公文写作中，素材的搜集与整理往往耗费大量时间。讯飞公文为您提供海量的素材库，让您轻松在历史文件中寻找所需内容，再也不用担心素材不足的问题。无论是经典案例、数据支撑还是专业术语，都能在这里找到。&lt;/p>
 &lt;h3 id="2内容生成">2.内容生成：&lt;/h3>
 &lt;p>讯飞公文基于定制化大模型技术，能够根据您的需求，自动生成工作报告、心得体会、通知公告等多种专业文体。无需再为公文格式和内容而烦恼，轻松应对各种写作场景，提升写作效率。&lt;/p>
 &lt;h3 id="3内容加工">3.内容加工：&lt;/h3>
-&lt;p>您可以选中需要加工的内容，进行润色、扩写或续写。无论是让语言更加流畅、增加细节描写，还是调整表达逻辑，我们的产品都能为您提供专业的建议和指导，让您的公文更加出色。&lt;/p></description></item><item><title>通义听悟</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/tongyi_tingwu/</link><pubDate>Fri, 27 Sep 2024 20:34:20 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/tongyi_tingwu/</guid><description>&lt;p>实时记录：实时语音识别，AI字幕翻译，智能总结。网课、追剧追番、线上会议必备。阅读助手：总结网页PDF内容、划选解读翻译问答，AI帮你一键速读网页文档。&lt;/p></description></item><item><title>飞书妙记</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/feishu_minutes/</link><pubDate>Fri, 27 Sep 2024 20:33:27 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/feishu_minutes/</guid><description>&lt;p>飞书妙记是一款音视频转文字的效率工具，可在会议、培训、访谈、课堂等不同场景，将你的音视频内容转录为搜索便捷、重点高亮、互动多样的智能文字笔记，帮助你高效整理会议纪要、完整沉淀培训内容、一键收录访谈全程、清晰记录课堂重点，提升工作与学习效率。&lt;/p>
-&lt;p>参考文档：&lt;a href="https://www.feishu.cn/hc/zh-CN/articles/022111234449-%E4%BD%BF%E7%94%A8%E9%A3%9E%E4%B9%A6%E5%A6%99%E8%AE%B0">使用飞书妙记&lt;/a>&lt;/p></description></item><item><title>AiPPT</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/aippt/</link><pubDate>Fri, 27 Sep 2024 20:31:39 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/aippt/</guid><description>&lt;h1 id="aippt">AiPPT&lt;/h1>
+&lt;p>您可以选中需要加工的内容，进行润色、扩写或续写。无论是让语言更加流畅、增加细节描写，还是调整表达逻辑，我们的产品都能为您提供专业的建议和指导，让您的公文更加出色。&lt;/p></description></item><item><title>通义听悟</title><link>http://175.27.130.124/posts/tongyi_tingwu/</link><pubDate>Fri, 27 Sep 2024 20:34:20 +0800</pubDate><guid>http://175.27.130.124/posts/tongyi_tingwu/</guid><description>&lt;p>实时记录：实时语音识别，AI字幕翻译，智能总结。网课、追剧追番、线上会议必备。阅读助手：总结网页PDF内容、划选解读翻译问答，AI帮你一键速读网页文档。&lt;/p></description></item><item><title>飞书妙记</title><link>http://175.27.130.124/posts/feishu_minutes/</link><pubDate>Fri, 27 Sep 2024 20:33:27 +0800</pubDate><guid>http://175.27.130.124/posts/feishu_minutes/</guid><description>&lt;p>飞书妙记是一款音视频转文字的效率工具，可在会议、培训、访谈、课堂等不同场景，将你的音视频内容转录为搜索便捷、重点高亮、互动多样的智能文字笔记，帮助你高效整理会议纪要、完整沉淀培训内容、一键收录访谈全程、清晰记录课堂重点，提升工作与学习效率。&lt;/p>
+&lt;p>参考文档：&lt;a href="https://www.feishu.cn/hc/zh-CN/articles/022111234449-%E4%BD%BF%E7%94%A8%E9%A3%9E%E4%B9%A6%E5%A6%99%E8%AE%B0">使用飞书妙记&lt;/a>&lt;/p></description></item><item><title>AiPPT</title><link>http://175.27.130.124/posts/aippt/</link><pubDate>Fri, 27 Sep 2024 20:31:39 +0800</pubDate><guid>http://175.27.130.124/posts/aippt/</guid><description>&lt;h1 id="aippt">AiPPT&lt;/h1>
 &lt;p>AiPPT 是一个全智能 AI 一键生成 PPT 的平台，提供了海量精品模板、兼容 .pptx 格式、AI 时代永远不要忘了你有智能助手，是时候告别传统的 PPT 制作方式了。&lt;/p>
 &lt;h2 id="aippt-的主要特点">AiPPT 的主要特点&lt;/h2>
 &lt;p>全智能 AI 一键生成 PPT
@@ -27,7 +27,7 @@ AI 时代永远不要忘了你有智能助手 4.告别传统的 PPT 制作方式
 &lt;h2 id="aippt-的使用技巧">AiPPT 的使用技巧&lt;/h2>
 &lt;p>输入标题，PPT 一键自动生成
 使用 GPT-4o 文档阅读和 Dalle 的图像生成功能
-探索 AiPPT 的海量精品模板&lt;/p></description></item><item><title>ChatPPT</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/chatppt/</link><pubDate>Fri, 27 Sep 2024 20:31:25 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/chatppt/</guid><description>&lt;p>ChatPPT 是由珠海必优科技有限公司开发的基于AI指令式内容生成与创作的自动生成幻灯片演示文稿软件，一款基于语言模型驱动智能生成与辅助创作PPT演示文稿的产品（AI生成PPT），其基于必优科技“自研Wernicke+LLM”双模型驱动，打造国内首个基于AI大模型进行Office全文档级生成的服务，旨在面向职场办公朋友提供一键生成PPT的智能体验，可以帮助用户快速生成高质量的演示文稿，从而节省时间和精力。&lt;/p>
+探索 AiPPT 的海量精品模板&lt;/p></description></item><item><title>ChatPPT</title><link>http://175.27.130.124/posts/chatppt/</link><pubDate>Fri, 27 Sep 2024 20:31:25 +0800</pubDate><guid>http://175.27.130.124/posts/chatppt/</guid><description>&lt;p>ChatPPT 是由珠海必优科技有限公司开发的基于AI指令式内容生成与创作的自动生成幻灯片演示文稿软件，一款基于语言模型驱动智能生成与辅助创作PPT演示文稿的产品（AI生成PPT），其基于必优科技“自研Wernicke+LLM”双模型驱动，打造国内首个基于AI大模型进行Office全文档级生成的服务，旨在面向职场办公朋友提供一键生成PPT的智能体验，可以帮助用户快速生成高质量的演示文稿，从而节省时间和精力。&lt;/p>
 &lt;p>2023年3月启动ChatPPT内测版，比微软宣布Copilot还要早半个月时间，3月15日进行全网公测，注册用户超500000+，5月26日上线Plus版本并全面开放体验，7月28日上线全新独立插件版本，预计今年11月份将上线Online协作版本。&lt;/p>
 &lt;p>目前已经无需申请公测即可体验使用，版本分为：在线体验版和Office插件版 两大版本。&lt;/p>
 &lt;p>ChatPPT的主要功能包括：&lt;/p>
@@ -37,7 +37,7 @@ AI 时代永远不要忘了你有智能助手 4.告别传统的 PPT 制作方式
 4.支持对生成的演示文稿进行微调和修改，以满足用户的个性化需求。
 5.提供实时协作功能，允许多个用户同时编辑和修改演示文稿，提高团队协作效率。
 6.支持多种文件格式的导入和导出，方便用户在不同的场景下使用。
-7.提供丰富的插件和扩展功能，方便用户进行高级的定制和扩展。&lt;/p></description></item><item><title>BibiGPT</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/bibigpt/</link><pubDate>Fri, 27 Sep 2024 20:30:22 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/bibigpt/</guid><description>&lt;p>欢迎使用BibiGPT AI音视频一键总结工具，您的全能AI学习助手。无论您是想高效学习还是简化信息摘要过程，BibiGPT提供了一站式解决方案，让您轻松总结和学习来自各种平台和格式的内容，包括哔哩哔哩、YouTube、本地视频、本地音频、播客、小红书、抖音、会议、讲座，以及网页等。我们的目标是通过先进的AI技术，帮助您更快地获取和整理知识，无论何时何地，都能提升您的学习效率。&lt;/p>
+7.提供丰富的插件和扩展功能，方便用户进行高级的定制和扩展。&lt;/p></description></item><item><title>BibiGPT</title><link>http://175.27.130.124/posts/bibigpt/</link><pubDate>Fri, 27 Sep 2024 20:30:22 +0800</pubDate><guid>http://175.27.130.124/posts/bibigpt/</guid><description>&lt;p>欢迎使用BibiGPT AI音视频一键总结工具，您的全能AI学习助手。无论您是想高效学习还是简化信息摘要过程，BibiGPT提供了一站式解决方案，让您轻松总结和学习来自各种平台和格式的内容，包括哔哩哔哩、YouTube、本地视频、本地音频、播客、小红书、抖音、会议、讲座，以及网页等。我们的目标是通过先进的AI技术，帮助您更快地获取和整理知识，无论何时何地，都能提升您的学习效率。&lt;/p>
 &lt;h2 id="主要特点">主要特点：&lt;/h2>
 &lt;ul>
 &lt;li>全平台支持：覆盖视频、音频、播客等多种内容形式，支持主流平台和本地文件。&lt;/li>
@@ -61,7 +61,7 @@ AI 时代永远不要忘了你有智能助手 4.告别传统的 PPT 制作方式
 &lt;li>工作支持：在会议、讲座或项目管理中，BibiGPT能够提供实时总结和语音转文字服务，提升工作效率。&lt;/li>
 &lt;li>内容创作：为自媒体创作者、博主和视频制作者提供快速总结工具，简化内容创作流程。&lt;/li>
 &lt;/ul>
-&lt;p>BibiGPT旨在成为您的最佳AI学习伙伴，无论是准备考试、工作学习还是个人兴趣拓展，都能提供强有力的支持。立即开始使用，开启您的高效学习之旅吧！&lt;/p></description></item><item><title>扣子/Coze</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</link><pubDate>Fri, 27 Sep 2024 20:28:10 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/coze/</guid><description>&lt;h2 id="概述">概述&lt;/h2>
+&lt;p>BibiGPT旨在成为您的最佳AI学习伙伴，无论是准备考试、工作学习还是个人兴趣拓展，都能提供强有力的支持。立即开始使用，开启您的高效学习之旅吧！&lt;/p></description></item><item><title>扣子/Coze</title><link>http://175.27.130.124/posts/coze/</link><pubDate>Fri, 27 Sep 2024 20:28:10 +0800</pubDate><guid>http://175.27.130.124/posts/coze/</guid><description>&lt;h2 id="概述">概述&lt;/h2>
 &lt;p>海外版 coze.com，可以用 GPT-4&lt;/p>
 &lt;p>扣子是新一代 AI 应用开发平台。无论你是否有编程基础，都可以在扣子上快速搭建基于大模型的各类 Bot，并将 Bot 发布到各个社交平台、通讯软件或部署到网站等其他渠道。&lt;/p>
 &lt;h2 id="功能与优势">功能与优势&lt;/h2>
@@ -85,7 +85,7 @@ AI 时代永远不要忘了你有智能助手 4.告别传统的 PPT 制作方式
 &lt;ul>
 &lt;li>创建一个搜集电影评论的工作流，快速查看一部最新电影的评论与评分。&lt;/li>
 &lt;li>创建一个撰写行业研究报告的工作流，让 Bot 写一份 20 页的报告。&lt;/li>
-&lt;/ul></description></item><item><title>秘塔AI搜索</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/mita/</link><pubDate>Fri, 27 Sep 2024 20:27:44 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/mita/</guid><description>&lt;p>秘塔AI搜索是由秘塔科技推出的一款AI搜索引擎，秘塔科技致力于用算力换人力，为你的工作、学习赋能。&lt;/p>
+&lt;/ul></description></item><item><title>秘塔AI搜索</title><link>http://175.27.130.124/posts/mita/</link><pubDate>Fri, 27 Sep 2024 20:27:44 +0800</pubDate><guid>http://175.27.130.124/posts/mita/</guid><description>&lt;p>秘塔AI搜索是由秘塔科技推出的一款AI搜索引擎，秘塔科技致力于用算力换人力，为你的工作、学习赋能。&lt;/p>
 &lt;h2 id="功能亮点">【功能亮点】&lt;/h2>
 &lt;p>1.纯净搜索&lt;/p>
 &lt;p>界面清爽简洁，没有广告，直达结果，让搜索回归本质；&lt;/p>
@@ -102,7 +102,7 @@ AI 时代永远不要忘了你有智能助手 4.告别传统的 PPT 制作方式
 &lt;p>①在数亿篇文献中筛选有用信息，并结构化展示&lt;/p>
 &lt;p>信息来源聚焦专业期刊和学术数据库，权威性高，可参考性强，助力你的学术研究&lt;/p>
 &lt;p>②直接提供论文摘要等关键信息，速览论文概要&lt;/p>
-&lt;p>③你可以自行配置中英数据库&lt;/p></description></item><item><title>Perplexity</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/perplexity/</link><pubDate>Fri, 27 Sep 2024 20:27:29 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/perplexity/</guid><description>&lt;p>Perplexity A!是一款功能强大的人工智能搜索引擎。它是由一支来自纽约大学和加州大学校友联合创办的公司团队，历时数年研发出来的。它与其它搜索引擎不同的是，Perplexity AI同时融合了人工智能技术和深度搜索技术，可以根据用户的自然语言进行搜索，并以摘要和引用的形式为用户提供最相关的答案，这使得用户的搜索效率得到了显著的提高。&lt;/p>
+&lt;p>③你可以自行配置中英数据库&lt;/p></description></item><item><title>Perplexity</title><link>http://175.27.130.124/posts/perplexity/</link><pubDate>Fri, 27 Sep 2024 20:27:29 +0800</pubDate><guid>http://175.27.130.124/posts/perplexity/</guid><description>&lt;p>Perplexity A!是一款功能强大的人工智能搜索引擎。它是由一支来自纽约大学和加州大学校友联合创办的公司团队，历时数年研发出来的。它与其它搜索引擎不同的是，Perplexity AI同时融合了人工智能技术和深度搜索技术，可以根据用户的自然语言进行搜索，并以摘要和引用的形式为用户提供最相关的答案，这使得用户的搜索效率得到了显著的提高。&lt;/p>
 &lt;h2 id="perplexity-ai的界面与功能">Perplexity AI的界面与功能&lt;/h2>
 &lt;p>Perplexity AI是一款基于openai接口，调用了gpt35和gpt4的模型的AI工具。它支持联网功能和准确的答案，并能识别和回应模糊或抽象语言。用户可以通过它的界面进行搜索，从而获取包含准确答案和相关链接的搜索结果。&lt;/p>
 &lt;h2 id="perplexity-ai有以下特点">Perplexity AI有以下特点：&lt;/h2>
@@ -117,7 +117,7 @@ AI 时代永远不要忘了你有智能助手 4.告别传统的 PPT 制作方式
 &lt;p>模型优化：Perplexity AI成功地切换模型并解锁图像生成、Copilot等功能，这些功能有助于提高模型的性能和准确性，提供更准确的搜索结果。&lt;/p>
 &lt;p>投资者的支持：Perplexity AI完成了由IVP领投的7000万美元融资，虽然版权问题和模型运行成本较高，但投资者仍然对其前景持有乐观态度。&lt;/p>
 &lt;p>富有挑战性的工作环境：Perplexity AI所面对的版权问题和模型运行成本较高等挑战，这种环境对员工是一个很好的激励，促进他们的创新和专业精神。&lt;/p>
-&lt;p>未来潜力：尽管Perplexity AI面临这些问题，投资者仍然对其前景持乐观态度，显示了对其未来的潜力的预期。&lt;/p></description></item><item><title>天工 AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/tiangong/</link><pubDate>Fri, 27 Sep 2024 20:27:24 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/tiangong/</guid><description>&lt;p>搜索对话写作画画编程的AI助手&lt;/p>
+&lt;p>未来潜力：尽管Perplexity AI面临这些问题，投资者仍然对其前景持乐观态度，显示了对其未来的潜力的预期。&lt;/p></description></item><item><title>天工 AI</title><link>http://175.27.130.124/posts/tiangong/</link><pubDate>Fri, 27 Sep 2024 20:27:24 +0800</pubDate><guid>http://175.27.130.124/posts/tiangong/</guid><description>&lt;p>搜索对话写作画画编程的AI助手&lt;/p>
 &lt;p>天工app是一款支持搜索、写作、文档分析、多模态生成的全能型AI助手。它能随时为你提供全网搜索、AI PPT、文件解读、文本创作、代码编程、AI画画等智能服务。&lt;/p>
 &lt;p>你可以与天工畅聊任何你喜欢的话题，让天工帮你解决各种工作、生活、学习和情感问题。&lt;/p>
 &lt;p>天工，让AI走进生活！&lt;/p>

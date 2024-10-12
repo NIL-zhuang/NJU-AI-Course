@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PPT on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/modality/ppt/</link><description>Recent content in PPT on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 20:35:34 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/modality/ppt/index.xml" rel="self" type="application/rss+xml"/><item><title>Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PPT on NJU AI 通识课</title><link>http://175.27.130.124/modality/ppt/</link><description>Recent content in PPT on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 20:35:34 +0800</lastBuildDate><atom:link href="http://175.27.130.124/modality/ppt/index.xml" rel="self" type="application/rss+xml"/><item><title>Copilot</title><link>http://175.27.130.124/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>http://175.27.130.124/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
 &lt;ul>
 &lt;li>它可以帮助用户释放创造力短提示，在Word中生成文档的初稿，或在PowerPoint中创建漂亮的幻灯片，并根据用户在微软图形中的数据添加相关内容。&lt;/li>
 &lt;li>它可以在Microsoft Excel中帮助用户分析数据，生成图表和报告，并提供有用的见解和建议。&lt;/li>
@@ -7,7 +7,7 @@
 &lt;li>它可以在商务聊天中帮助用户根据自然语言提示生成文本内容，例如状态更新、项目提案、市场分析等，并根据用户在微软图形（Microsoft Graph）中的数据进行调整和优化。&lt;/li>
 &lt;li>它始终尊重用户的控制权，让用户决定保留、修改或丢弃它生成的内容。&lt;/li>
 &lt;li>它遵循微软对数据安全和隐私的承诺，在企业环境中保护用户的数据不被滥用或泄露。&lt;/li>
-&lt;/ul></description></item><item><title>AiPPT</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/aippt/</link><pubDate>Fri, 27 Sep 2024 20:31:39 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/aippt/</guid><description>&lt;h1 id="aippt">AiPPT&lt;/h1>
+&lt;/ul></description></item><item><title>AiPPT</title><link>http://175.27.130.124/posts/aippt/</link><pubDate>Fri, 27 Sep 2024 20:31:39 +0800</pubDate><guid>http://175.27.130.124/posts/aippt/</guid><description>&lt;h1 id="aippt">AiPPT&lt;/h1>
 &lt;p>AiPPT 是一个全智能 AI 一键生成 PPT 的平台，提供了海量精品模板、兼容 .pptx 格式、AI 时代永远不要忘了你有智能助手，是时候告别传统的 PPT 制作方式了。&lt;/p>
 &lt;h2 id="aippt-的主要特点">AiPPT 的主要特点&lt;/h2>
 &lt;p>全智能 AI 一键生成 PPT
@@ -20,7 +20,7 @@ AI 时代永远不要忘了你有智能助手 4.告别传统的 PPT 制作方式
 &lt;h2 id="aippt-的使用技巧">AiPPT 的使用技巧&lt;/h2>
 &lt;p>输入标题，PPT 一键自动生成
 使用 GPT-4o 文档阅读和 Dalle 的图像生成功能
-探索 AiPPT 的海量精品模板&lt;/p></description></item><item><title>ChatPPT</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/chatppt/</link><pubDate>Fri, 27 Sep 2024 20:31:25 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/chatppt/</guid><description>&lt;p>ChatPPT 是由珠海必优科技有限公司开发的基于AI指令式内容生成与创作的自动生成幻灯片演示文稿软件，一款基于语言模型驱动智能生成与辅助创作PPT演示文稿的产品（AI生成PPT），其基于必优科技“自研Wernicke+LLM”双模型驱动，打造国内首个基于AI大模型进行Office全文档级生成的服务，旨在面向职场办公朋友提供一键生成PPT的智能体验，可以帮助用户快速生成高质量的演示文稿，从而节省时间和精力。&lt;/p>
+探索 AiPPT 的海量精品模板&lt;/p></description></item><item><title>ChatPPT</title><link>http://175.27.130.124/posts/chatppt/</link><pubDate>Fri, 27 Sep 2024 20:31:25 +0800</pubDate><guid>http://175.27.130.124/posts/chatppt/</guid><description>&lt;p>ChatPPT 是由珠海必优科技有限公司开发的基于AI指令式内容生成与创作的自动生成幻灯片演示文稿软件，一款基于语言模型驱动智能生成与辅助创作PPT演示文稿的产品（AI生成PPT），其基于必优科技“自研Wernicke+LLM”双模型驱动，打造国内首个基于AI大模型进行Office全文档级生成的服务，旨在面向职场办公朋友提供一键生成PPT的智能体验，可以帮助用户快速生成高质量的演示文稿，从而节省时间和精力。&lt;/p>
 &lt;p>2023年3月启动ChatPPT内测版，比微软宣布Copilot还要早半个月时间，3月15日进行全网公测，注册用户超500000+，5月26日上线Plus版本并全面开放体验，7月28日上线全新独立插件版本，预计今年11月份将上线Online协作版本。&lt;/p>
 &lt;p>目前已经无需申请公测即可体验使用，版本分为：在线体验版和Office插件版 两大版本。&lt;/p>
 &lt;p>ChatPPT的主要功能包括：&lt;/p>

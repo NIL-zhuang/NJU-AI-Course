@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文生图 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/scenario/%E6%96%87%E7%94%9F%E5%9B%BE/</link><description>Recent content in 文生图 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 11:24:17 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/scenario/%E6%96%87%E7%94%9F%E5%9B%BE/index.xml" rel="self" type="application/rss+xml"/><item><title>绘蛙</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/huiwa/</link><pubDate>Fri, 04 Oct 2024 11:24:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/huiwa/</guid><description>&lt;h2 id="绘蛙是什么">绘蛙是什么？&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文生图 on NJU AI 通识课</title><link>http://175.27.130.124/scenario/%E6%96%87%E7%94%9F%E5%9B%BE/</link><description>Recent content in 文生图 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 11:24:17 +0800</lastBuildDate><atom:link href="http://175.27.130.124/scenario/%E6%96%87%E7%94%9F%E5%9B%BE/index.xml" rel="self" type="application/rss+xml"/><item><title>绘蛙</title><link>http://175.27.130.124/posts/huiwa/</link><pubDate>Fri, 04 Oct 2024 11:24:17 +0800</pubDate><guid>http://175.27.130.124/posts/huiwa/</guid><description>&lt;h2 id="绘蛙是什么">绘蛙是什么？&lt;/h2>
 &lt;p>面向电商卖家和达人的AI创作平台，可以低成本创作丰富的商拍图、种草文案&lt;/p>
 &lt;h2 id="能为商家带来什么">能为商家带来什么？&lt;/h2>
 &lt;ul>
@@ -6,7 +6,7 @@
 &lt;li>快：无需协调模特档期，无需高薪聘请商拍和写手团队，使用绘蛙AI一键生成商品图和文案，让商品第一时间被消费者种草&lt;/li>
 &lt;li>好：能够生成姿态丰富、背景丰富、效果自然的模特上身图&lt;/li>
 &lt;li>省：减少外拍、请模特、寄样的成本&lt;/li>
-&lt;/ul></description></item><item><title>Grok</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</link><pubDate>Fri, 27 Sep 2024 20:36:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</guid><description>&lt;p>Grok是 xAI 基于大型语言模型开发的生成式人工智能聊天机器人，类似于 ChatGPT。它能够实时回答用户的问题，并利用 X 社交媒体平台的数据进行回应。&lt;/p></description></item><item><title>Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
+&lt;/ul></description></item><item><title>Grok</title><link>http://175.27.130.124/posts/grok/</link><pubDate>Fri, 27 Sep 2024 20:36:17 +0800</pubDate><guid>http://175.27.130.124/posts/grok/</guid><description>&lt;p>Grok是 xAI 基于大型语言模型开发的生成式人工智能聊天机器人，类似于 ChatGPT。它能够实时回答用户的问题，并利用 X 社交媒体平台的数据进行回应。&lt;/p></description></item><item><title>Copilot</title><link>http://175.27.130.124/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>http://175.27.130.124/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
 &lt;ul>
 &lt;li>它可以帮助用户释放创造力短提示，在Word中生成文档的初稿，或在PowerPoint中创建漂亮的幻灯片，并根据用户在微软图形中的数据添加相关内容。&lt;/li>
 &lt;li>它可以在Microsoft Excel中帮助用户分析数据，生成图表和报告，并提供有用的见解和建议。&lt;/li>
@@ -15,14 +15,14 @@
 &lt;li>它可以在商务聊天中帮助用户根据自然语言提示生成文本内容，例如状态更新、项目提案、市场分析等，并根据用户在微软图形（Microsoft Graph）中的数据进行调整和优化。&lt;/li>
 &lt;li>它始终尊重用户的控制权，让用户决定保留、修改或丢弃它生成的内容。&lt;/li>
 &lt;li>它遵循微软对数据安全和隐私的承诺，在企业环境中保护用户的数据不被滥用或泄露。&lt;/li>
-&lt;/ul></description></item><item><title>Runway</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/runway/</link><pubDate>Fri, 27 Sep 2024 20:29:50 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/runway/</guid><description>&lt;p>Runway是一款基于人工智能的创意工具和平台，它提供了一系列强大的功能，旨在帮助用户在视觉内容创作、设计和开发过程中提高效率和创新能力。&lt;/p>
+&lt;/ul></description></item><item><title>Runway</title><link>http://175.27.130.124/posts/runway/</link><pubDate>Fri, 27 Sep 2024 20:29:50 +0800</pubDate><guid>http://175.27.130.124/posts/runway/</guid><description>&lt;p>Runway是一款基于人工智能的创意工具和平台，它提供了一系列强大的功能，旨在帮助用户在视觉内容创作、设计和开发过程中提高效率和创新能力。&lt;/p>
 &lt;h2 id="主要功能">主要功能：&lt;/h2>
 &lt;p>AI视频生成与编辑： Runway能够使用AI技术自动生成视频内容，包括动画、过渡效果和视觉特效，并提供一系列视频编辑工具。&lt;/p>
 &lt;p>图像生成与处理： 用户可以利用Runway的AI算法创建新的图像、修改现有图像或进行风格转换。&lt;/p>
 &lt;p>3D内容创作： Runway支持3D模型的生成、编辑和渲染，以及实时3D场景的构建和交互。&lt;/p>
 &lt;p>音频处理： 该平台还提供了音频处理工具，如语音合成、音乐生成和音效设计。&lt;/p>
 &lt;p>Workflow自动化： Runway允许用户创建和定制工作流程，自动化复杂的创意任务和流程。&lt;/p>
-&lt;p>API与集成： Runway提供了API，使得开发者能够将其AI功能集成到自己的应用程序和服务中。&lt;/p></description></item><item><title>即梦 AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/jimeng_ai/</link><pubDate>Fri, 27 Sep 2024 20:29:45 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/jimeng_ai/</guid><description>&lt;p>想象，是一切创造的源泉。&lt;/p>
+&lt;p>API与集成： Runway提供了API，使得开发者能够将其AI功能集成到自己的应用程序和服务中。&lt;/p></description></item><item><title>即梦 AI</title><link>http://175.27.130.124/posts/jimeng_ai/</link><pubDate>Fri, 27 Sep 2024 20:29:45 +0800</pubDate><guid>http://175.27.130.124/posts/jimeng_ai/</guid><description>&lt;p>想象，是一切创造的源泉。&lt;/p>
 &lt;p>即梦AI 是一个专为创意爱好者打造的AI表达平台，让你的想象力成为现实。无论是日常娱乐还是技术探索，这里都能满足你的需求。&lt;/p>
 &lt;h2 id="特点亮点">[特点亮点]&lt;/h2>
 &lt;ol>
@@ -32,12 +32,12 @@
 &lt;li>探索创意世界 - 在探索页面，浏览其他用户的作品，感受他们的创意火花，留下你的赞美。&lt;/li>
 &lt;li>做同款 - 喜欢别人的作品？尝试使用他们的提示词，创作出属于你的同款效果。&lt;/li>
 &lt;/ol>
-&lt;p>加入即梦AI！创作的元素愈多，便愈美。&lt;/p></description></item><item><title>文心一格</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/wenxinyige/</link><pubDate>Fri, 27 Sep 2024 20:28:41 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/wenxinyige/</guid><description>&lt;h3 id="1一语成画智能生成">1.一语成画，智能生成&lt;/h3>
+&lt;p>加入即梦AI！创作的元素愈多，便愈美。&lt;/p></description></item><item><title>文心一格</title><link>http://175.27.130.124/posts/wenxinyige/</link><pubDate>Fri, 27 Sep 2024 20:28:41 +0800</pubDate><guid>http://175.27.130.124/posts/wenxinyige/</guid><description>&lt;h3 id="1一语成画智能生成">1.一语成画，智能生成&lt;/h3>
 &lt;p>用户在体验文心一格时只需要输入一句话，AI 就能够自动生成创意画作。用户输入简单的描述，模型就能自动从视觉、质感、风格、构图等角度智能补充，从而生成更加精美图片。&lt;/p>
 &lt;h3 id="2东方元素中文原生">2.东方元素，中文原生&lt;/h3>
 &lt;p>文心一格是全自研的原生中文文生图系统，凭借在中文、中国文化理解和生成上的优势，文心一格及其背后的文心大模型在数据采集、输入理解、风格设计等多个层面持续探索，形成了具备中文能力的技术优势，对中文用户的语义理解深入到位，适合中文环境下的使用和落地。&lt;/p>
 &lt;h3 id="3多种功能满足体验">3.多种功能，满足体验&lt;/h3>
-&lt;p>如果生成一张图片之后不那么满意，文心一格有很多功能可以帮助用户进行二次编辑。一是涂抹功能，用户可以涂抹不满意的部分，让模型重新调整生成。二是图片叠加功能，用户给两张图片，模型会自动生成一张叠加后的创意图。文心一格还支持用户输入图片的可控生成，根据图片的动作或者线稿等生成新图片，让图片生成的结果更可控。文心一格还在持续进行模型升级，不断丰富产品功能，已推出了海报创作、图片扩展和提升图片清晰度等功能，提供多种生图服务满足用户需求。&lt;/p></description></item><item><title>Midjourney</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/midjourney/</link><pubDate>Fri, 27 Sep 2024 20:28:03 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/midjourney/</guid><description>&lt;p>Midjourney是一个由位于美国加州旧金山的同名研究实验室开发之人工智能程序，可根据文本生成图像，于2022年7月12日进入公开测试阶段，用户可透过Discord的机器人指令进行操作。该研究实验室由Leap Motion的创办人大卫·霍尔兹（David Holz）负责领导。&lt;/p>
+&lt;p>如果生成一张图片之后不那么满意，文心一格有很多功能可以帮助用户进行二次编辑。一是涂抹功能，用户可以涂抹不满意的部分，让模型重新调整生成。二是图片叠加功能，用户给两张图片，模型会自动生成一张叠加后的创意图。文心一格还支持用户输入图片的可控生成，根据图片的动作或者线稿等生成新图片，让图片生成的结果更可控。文心一格还在持续进行模型升级，不断丰富产品功能，已推出了海报创作、图片扩展和提升图片清晰度等功能，提供多种生图服务满足用户需求。&lt;/p></description></item><item><title>Midjourney</title><link>http://175.27.130.124/posts/midjourney/</link><pubDate>Fri, 27 Sep 2024 20:28:03 +0800</pubDate><guid>http://175.27.130.124/posts/midjourney/</guid><description>&lt;p>Midjourney是一个由位于美国加州旧金山的同名研究实验室开发之人工智能程序，可根据文本生成图像，于2022年7月12日进入公开测试阶段，用户可透过Discord的机器人指令进行操作。该研究实验室由Leap Motion的创办人大卫·霍尔兹（David Holz）负责领导。&lt;/p>
 &lt;h2 id="midjourney是什么">Midjourney是什么？&lt;/h2>
 &lt;p>Midjourney是一款基于人工智能技术的绘画软件，它利用深度学习算法来辅助用户进行绘画创作。通过对大量的绘画作品进行学习，Midjourney能够理解各种绘画风格和技巧，从而帮助用户轻松地创作出具有个性化风格的作品。这款软件适用于各种绘画领域，如插画、漫画、油画等，无论是专业画家还是绘画爱好者，都可以在Midjourney中找到适合自己的创作方式。&lt;/p>
 &lt;p>Midjourney 生成图片的方式有 3 种：&lt;/p>
@@ -46,4 +46,4 @@
 &lt;li>文字生成图片：通过在输入框中描述图片场景的关键词，AI 会根据描述生成相应的画作。&lt;/li>
 &lt;li>图片生成图片：上传一张特定风格的图片，并描述该图片的关键词，AI 将生成相同风格的新图片。&lt;/li>
 &lt;li>混合图片生成图片：将多张图片输入给 AI 进行混合，生成一张融合了多个图片的新作品。&lt;/li>
-&lt;/ul></description></item><item><title>Stable_diffusion</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/stable_diffusion/</link><pubDate>Fri, 27 Sep 2024 20:27:54 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/stable_diffusion/</guid><description>&lt;p>Stable Diffusion 3 是我们最新和最先进的文本到图像人工智能模型，包含20亿个参数。它在照片真实感方面表现出色，处理复杂的提示，并生成明文。权重在社区许可下可用。如需商业用途，请联系我们了解许可详情。&lt;/p></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Stable_diffusion</title><link>http://175.27.130.124/posts/stable_diffusion/</link><pubDate>Fri, 27 Sep 2024 20:27:54 +0800</pubDate><guid>http://175.27.130.124/posts/stable_diffusion/</guid><description>&lt;p>Stable Diffusion 3 是我们最新和最先进的文本到图像人工智能模型，包含20亿个参数。它在照片真实感方面表现出色，处理复杂的提示，并生成明文。权重在社区许可下可用。如需商业用途，请联系我们了解许可详情。&lt;/p></description></item></channel></rss>
