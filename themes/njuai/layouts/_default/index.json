@@ -2,12 +2,13 @@
 {{- $postPages := where .Site.RegularPages "File.Dir" "posts/" }}
 {{- range $postPages -}}
     {{- $featured_image := .Params.featured_image -}}
-    {{- if not (strings.HasPrefix $featured_image "/") -}}
+    {{- if not (strings.HasPrefix $featured_image "/icons") -}}
         {{- $featured_image = (printf "/%s" $featured_image) -}}
     {{- end -}}
     {{- $.Scratch.Add "index" (dict 
     "title" .Title 
     "tags" .Params.tags 
+    "version" "v1"
     "contents" .Plain 
     "permalink" .Permalink
     "params" .Params
