@@ -34,22 +34,22 @@
 {{- $paginator := .Paginate $postPages}}
 <!-- {{- $paginator := .Paginate $postPages 12}} You can fix here to temporarily change Paginate setting.-->
     <div class="columns is-centered">
-      <div class="column">
+      <div class="column is-one-quarter">
         {{ range $index, $page := $paginator.Pages }}
           {{ if eq (mod $index 4) 0 }}{{ partial "box.html" $page }}{{ end }}
         {{ end }}
       </div>
-      <div class="column">
+      <div class="column is-one-quarter">
         {{ range $index, $page := $paginator.Pages }}
           {{ if eq (mod $index 4) 1 }}{{ partial "box.html" $page }}{{ end }}
         {{ end }}
       </div>
-      <div class="column">
+      <div class="column is-one-quarter">
         {{ range $index, $page := $paginator.Pages }}
           {{ if eq (mod $index 4) 2 }}{{ partial "box.html" $page }}{{ end }}
         {{ end }}
       </div>
-      <div class="column">
+      <div class="column is-one-quarter">
         {{ range $index, $page := $paginator.Pages }}
           {{ if eq (mod $index 4) 3 }}{{ partial "box.html" $page }}{{ end }}
         {{ end }}

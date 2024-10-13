@@ -50,7 +50,7 @@
     </div>
   </div>
   <div class="columns is-flex">
-    <div class="column" id="tag-container">
+    <div class="column" id="tags-container">
       {{ range .Params.Modality }}
       <span class="tag is-info is-light">{{ . }}</span>
       {{ end }}
@@ -60,40 +60,69 @@
       {{ range .Params.Scenario }}
       <span class="tag is-warning is-light">{{ . }}</span>
       {{ end }}
-      <span id="expand-tag" class="tag is-primary is-light is-hoverable" style="display: none;">...</span>
+      <span id="expand-tag" class="tag is-primary is-light is-hoverable" >...</span>
     </div>
   </div>
 </a>
 
 <style>
-  .tags-container {
-    display: flex;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+ #tags-container {
+  display: block;
+    max-width: 100%;  /* 设置为父级元素的宽度 */
+    white-space: nowrap; /* 禁止换行 */
+    overflow: scroll; /* 隐藏溢出部分 */
+    position: relative;
+  }
+
+  .tag-item {
+    display: inline-block;
+    margin-bottom: 0.25em; /* 保持标签之间的间隔 */
+  }
+
+  #expand-tag {
+    cursor: pointer;
+    display: none; /* 初始状态下不显示 */
+  }
+
+  #tags-container.expanded {
+    white-space: normal; /* 展开时允许换行 */
+    overflow: visible;
   }
 </style>
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-  const container = document.getElementById("tag-container");
-  const expandTag = document.getElementById("expand-tag");
-  const tags = container.getElementsByClassName("tag");
-  
-  let totalWidth = 0;
-  for (let tag of tags) {
-    totalWidth += tag.offsetWidth;
+document.addEventListener('DOMContentLoaded', () => {
+  const tagsContainer = document.getElementById('tags-container');
+  const expandTag = document.getElementById('expand-tag');
+
+  function isOverflowing(element) {
+    return element.scrollHeight > element.clientHeight || element.scrollWidth > element.clientWidth;
   }
 
-  if (totalWidth > container.offsetWidth) {
-    expandTag.style.display = "inline-block"; // 显示展开标签
+  function checkOverflow() {
+    if (isOverflowing(tagsContainer)) {
+      expandTag.style.display = 'inline-block';
+    } else {
+      expandTag.style.display = 'none';
+    }
   }
 
-  expandTag.addEventListener("click", function() {
-    // 展开所有标签
-    container.style.whiteSpace = "normal"; // 改变样式以显示所有标签
-    expandTag.style.display = "none"; // 隐藏展开标签
+  // 初次渲染后检查是否溢出
+  checkOverflow();
+
+  // 点击省略号，展开或收起标签
+  expandTag.addEventListener('click', () => {
+    tagsContainer.classList.toggle('expanded');
+    if (tagsContainer.classList.contains('expanded')) {
+      expandTag.textContent = '收起';
+    } else {
+      expandTag.textContent = '...';
+      checkOverflow(); // 收起后重新检查溢出
+    }
   });
+
+  // 在窗口大小变化时重新检查是否溢出
+  window.addEventListener('resize', checkOverflow);
 });
 
 </script>
