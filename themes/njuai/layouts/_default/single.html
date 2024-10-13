@@ -3,7 +3,7 @@
   <article class="container box">
     <header>
       <div class="columns is-flex is-vcentered">
-        <div class="column is-2 p-5">
+        <div class="column is-3 p-5">
           {{ if .Params.featured_image }}
           <figure class="image is-1by1">
             {{ with .Resources.GetMatch .Params.featured_image }}
@@ -19,18 +19,19 @@
           {{ end }}
         </div>
         <div class="column">
-          <h1 class="title is-1">{{ .Title }}</h1>
+          <h1 class="title is-1" style="margin-top: 1.5rem; margin-bottom: 0px;">{{ .Title }}</h1>
           {{ if .GitInfo }} {{ with .GitInfo.AuthorName }}
-          <h5 class="is-5 has-text-info">{{ . }}</h5>
+          <h5 class="is-5 has-text-info" >{{ . }}</h5>
           {{ end }} {{ end }} {{ with .Params.website }}
-          <h5 class="is-5 has-text-link">
-            <a href="{{ . }}">{{ . }}</a>
-          </h5>
+          <a class="is-5 button is-dark" style="margin-top: 1.5rem;" href="{{ . }}">
+            访问网站 
+            <svg xmlns="http://www.w3.org/2000/svg" width="auto" height="80%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-left: 2px;" class="lucide lucide-circle-arrow-right size-[14px]"><circle cx="12" cy="12" r="10"></circle><path d="M8 12h8"></path><path d="m12 16 4-4-4-4"></path></svg>
+          </a>
           {{ end }} {{ if .Params.description }}
-          <h5 class="is-5">{{ .Params.description }}</h5>
+          <h5 class="is-5" style="margin-top: 1.5rem;" >{{ .Params.description }}</h5>
           {{ end }}
-          <span>
-            <b>Rating:</b>
+          <div style="margin-top: 1.5rem;">
+            <b>评分:</b>
             {{ $rating := 0 }} {{ if and (isset .Params "rating") (le
             .Params.rating 5) }} {{ $rating = .Params.rating }} {{ end }} {{
             range $i := (seq $rating) }}
@@ -38,21 +39,21 @@
             {{ end }} {{ range $i := (seq (sub 5 $rating)) }}
             <i class="fas fa-star"></i>
             {{ end }}
-          </span>
-          <div class="tags is-flex is-justify-content-start" style="gap: 1rem;">
-            <div class="tags has-addons mb-0">
+          </div>
+          <div class="tags is-flex is-justify-content-start" style="margin-top: 1.5rem;" style="gap: 1rem;">
+            <div class="tags has-addons mb-0 mr-5">
               <span class="tag is-dark">模态</span>
               {{ range .Params.Modality }}
               <a class="tag is-info is-light" href="{{ $baseUrl | relURL }}/modality/{{ . }}">{{ . }}</a>
               {{ end }}
             </div>
-            <div class="tags has-addons mb-0">
+            <div class="tags has-addons mb-0  mr-5">
               <span class="tag is-dark">地区</span>
               {{ range .Params.Availability }}
               <a class="tag is-success is-light" href="{{ $baseUrl | relURL }}/availability/{{ . }}">{{ . }}</a>
               {{ end }}
             </div>
-            <div class="tags has-addons mb-0">
+            <div class="tags has-addons mb-0  mr-5">
               <span class="tag is-dark">场景</span>
               {{ range .Params.Scenario }}
               <a class="tag is-warning is-light" href="{{ $baseUrl | relURL }}/scenario/{{ . }}">{{ . }}</a>
@@ -65,9 +66,11 @@
 
 
     </header>
-    <div class="content" style="margin-top: 1em">{{ .Content }}</div>
+
+    <h1 class="title is-1 mt-6">介绍</h1>
+    <div class="content is-1" style="margin-top: 1em">{{ .Content }}</div>
 {{ if and .Site.Params.repo .Site.Params.newpath }}
-    <div class="columns">
+    <div class="columns is-1">
       <div class="column"></div>
       <div class="column is-narrow">
         <a href="{{ .Site.Params.repo }}/{{ .Site.Params.editpath }}/{{ .Site.Params.contentDir | default "content" }}/{{ replace .File.Path "\\" "/" }}">
