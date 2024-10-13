@@ -50,7 +50,7 @@
     </div>
   </div>
   <div class="columns is-flex">
-    <div class="column">
+    <div class="column" id="tag-container">
       {{ range .Params.Modality }}
       <span class="tag is-info is-light">{{ . }}</span>
       {{ end }}
@@ -60,6 +60,40 @@
       {{ range .Params.Scenario }}
       <span class="tag is-warning is-light">{{ . }}</span>
       {{ end }}
+      <span id="expand-tag" class="tag is-primary is-light is-hoverable" style="display: none;">...</span>
     </div>
   </div>
 </a>
+
+<style>
+  .tags-container {
+    display: flex;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const container = document.getElementById("tag-container");
+  const expandTag = document.getElementById("expand-tag");
+  const tags = container.getElementsByClassName("tag");
+  
+  let totalWidth = 0;
+  for (let tag of tags) {
+    totalWidth += tag.offsetWidth;
+  }
+
+  if (totalWidth > container.offsetWidth) {
+    expandTag.style.display = "inline-block"; // 显示展开标签
+  }
+
+  expandTag.addEventListener("click", function() {
+    // 展开所有标签
+    container.style.whiteSpace = "normal"; // 改变样式以显示所有标签
+    expandTag.style.display = "none"; // 隐藏展开标签
+  });
+});
+
+</script>

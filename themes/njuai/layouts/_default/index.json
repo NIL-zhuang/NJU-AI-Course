@@ -1,12 +1,16 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- range .Site.RegularPages -}}
+    {{- $featured_image := .Params.featured_image -}}
+    {{- if not (strings.HasPrefix $featured_image "/") -}}
+        {{- $featured_image = (printf "/%s" $featured_image) -}}
+    {{- end -}}
     {{- $.Scratch.Add "index" (dict 
     "title" .Title 
     "tags" .Params.tags 
     "contents" .Plain 
     "permalink" .Permalink
     "params" .Params
-    "featured_image" .Params.featured_image
+    "featured_image" $featured_image
     "rating" .Params.rating
     "description" .Description
     ) -}}

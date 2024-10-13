@@ -10,7 +10,7 @@ resources/_gen
 # Folders
 _obj
 _test
-
+hugo.toml
 # Architecture specific extensions/prefixes
 *.[568vq]
 [568vq].out
