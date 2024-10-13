@@ -1,5 +1,6 @@
 {{- $.Scratch.Add "index" slice -}}
-{{- range .Site.RegularPages -}}
+{{- $postPages := where .Site.RegularPages "File.Dir" "posts/" }}
+{{- range $postPages -}}
     {{- $featured_image := .Params.featured_image -}}
     {{- if not (strings.HasPrefix $featured_image "/") -}}
         {{- $featured_image = (printf "/%s" $featured_image) -}}
