@@ -2,6 +2,7 @@
 title: "ChatGPT"
 date: 2024-08-25T12:08:58+08:00
 modality: ["文本"]
+weight : 100
 availability: ["海外"]
 scenario: ["聊天"]
 featured_image: "icons/openai.svg"
@@ -11,7 +12,7 @@ comment: true
 website: "https://chat.openai.com/"
 ---
 
-我们已经训练了一个名为ChatGPT的模型，它以对话的方式进行交互。对话格式使ChatGPT有可能回答后续问题，承认其错误，挑战不正确的前提，并拒绝不适当的请求。ChatGPT是InstructGPT的兄弟模型，它被训练为遵循提示中的指令并提供详细的响应。我们很高兴地介绍ChatGPT以获得用户的反馈并了解其优缺点。在研究预览期间，ChatGPT的使用是免费的。立即在 https://chatgpt.com/ 尝试。
+我们已经训练了一个名为ChatGPT的模型，它以对话的方式进行交互。对话格式使ChatGPT有可能回答后续问题，承认其错误，挑战不正确的前提，并拒绝不适当的请求。ChatGPT是InstructGPT的兄弟模型，它被训练为遵循提示中的指令并提供详细的响应。我们很高兴地介绍ChatGPT以获得用户的反馈并了解其优缺点。在研究预览期间，ChatGPT的使用是免费的。立即在 <https://chatgpt.com/> 尝试。
 
 ## Methods
 
