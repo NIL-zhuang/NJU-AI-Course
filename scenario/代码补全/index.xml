@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>代码补全 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/scenario/%E4%BB%A3%E7%A0%81%E8%A1%A5%E5%85%A8/</link><description>Recent content in 代码补全 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 11:18:56 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/scenario/%E4%BB%A3%E7%A0%81%E8%A1%A5%E5%85%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>代码小浣熊</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/raccoon_code/</link><pubDate>Fri, 04 Oct 2024 11:18:56 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/raccoon_code/</guid><description>&lt;p>「代码小浣熊」是基于商汤大语言模型的软件智能研发助手，覆盖软件需求分析、架构设计、代码编写、软件测试等环节，满足用户代码编写、编程学习等各类需求。代码小浣熊支持 Python、Java、JavaScript、C++、Go、SQL 等90+主流编程语言和 VS Code、IntelliJ IDEA 等主流 IDE。在实际应用中，代码小浣熊可帮助开发者提升编程效率超50%。&lt;/p></description></item><item><title>豆包 MarsCode</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao_marscode/</link><pubDate>Fri, 27 Sep 2024 20:32:55 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao_marscode/</guid><description>&lt;p>豆包 MarsCode 编程助手是豆包旗下的 AI 编程助手，提供以智能代码补全为代表的 AI 功能，支持主流编程语言及 IDE，能在开发过程中提供单行或整个函数的编写建议，同时支持在用户开发过程中提供代码解释、代码审查、问题修复等辅助功能，提升开发效率与质量。​&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>代码补全 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/scenario/%E4%BB%A3%E7%A0%81%E8%A1%A5%E5%85%A8/</link><description>Recent content in 代码补全 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 11:18:56 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/scenario/%E4%BB%A3%E7%A0%81%E8%A1%A5%E5%85%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>Github Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/github_copilot/</link><pubDate>Wed, 28 Aug 2024 15:15:32 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/github_copilot/</guid><description>&lt;h1 id="github-copilot">Github Copilot&lt;/h1>
+&lt;p>GitHub Copilot 是一款 AI 编码助手，可帮助你更快、更省力地编写代码，从而将更多精力集中在问题解决和协作上。&lt;/p>
+&lt;p>GitHub Copilot 已被证明可以提高开发人员的工作效率并加快软件开发的步伐。 有关更多信息，请参阅 GitHub 博客上的“&lt;a href="https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/">研究：量化 GitHub Copilot 对开发人员生产力和幸福感的影响&lt;/a>”。&lt;/p>
+&lt;p>有学生教育优惠，可冲&lt;/p>
+&lt;p>GitHub Copilot 包括一套功能。 可以使用 Copilot 来完成以下事宜：&lt;/p>
+&lt;ul>
+&lt;li>在 IDE 中编码时获取代码建议&lt;/li>
+&lt;li>与 Copilot 聊天，寻求代码方面的帮助&lt;/li>
+&lt;li>使用命令行来寻求 Copilot 的帮助&lt;/li>
+&lt;li>针对拉取请求中的更改生成描述（仅限 Copilot Enterprise）&lt;/li>
+&lt;li>创建和管理文档集合，即知识库，以用作与 Copilot 聊天的上下文（仅限 Copilot Enterprise）&lt;/li>
+&lt;/ul>
+&lt;p>Copilot 可用于：&lt;/p>
+&lt;ul>
+&lt;li>IDE 中&lt;/li>
+&lt;li>在 GitHub Mobile 中，作为一个聊天界面&lt;/li>
+&lt;li>在命令行中通过 GitHub CLI 使用&lt;/li>
+&lt;li>在 GitHub.com 上，具有 Copilot Enterprise 订阅时&lt;/li>
+&lt;/ul></description></item><item><title>代码小浣熊</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/raccoon_code/</link><pubDate>Fri, 04 Oct 2024 11:18:56 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/raccoon_code/</guid><description>&lt;p>「代码小浣熊」是基于商汤大语言模型的软件智能研发助手，覆盖软件需求分析、架构设计、代码编写、软件测试等环节，满足用户代码编写、编程学习等各类需求。代码小浣熊支持 Python、Java、JavaScript、C++、Go、SQL 等90+主流编程语言和 VS Code、IntelliJ IDEA 等主流 IDE。在实际应用中，代码小浣熊可帮助开发者提升编程效率超50%。&lt;/p></description></item><item><title>豆包 MarsCode</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao_marscode/</link><pubDate>Fri, 27 Sep 2024 20:32:55 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao_marscode/</guid><description>&lt;p>豆包 MarsCode 编程助手是豆包旗下的 AI 编程助手，提供以智能代码补全为代表的 AI 功能，支持主流编程语言及 IDE，能在开发过程中提供单行或整个函数的编写建议，同时支持在用户开发过程中提供代码解释、代码审查、问题修复等辅助功能，提升开发效率与质量。​&lt;/p>
 &lt;h2 id="使用场景">使用场景​&lt;/h2>
 &lt;h3 id="智能代码操作">智能代码操作​&lt;/h3>
 &lt;p>豆包 MarsCode 编程助手提供代码自动补全与生成、问题修复、代码优化等能力，帮助你更高效地完成开发任务。​&lt;/p>
@@ -49,22 +67,4 @@
 &lt;li>统计报表：提供开发者活跃、AI 代码生成占比、问答使用占比等统计数据，帮助企业快速了解使用效果；&lt;/li>
 &lt;li>知识管理：高效管理企业私域数据，结合企业数据提供企业知识库问答、企业代码生成增强功能，让编码助手更贴合企业业务场景；&lt;/li>
 &lt;li>专属 VPC 部署：企业专属版提供专属 VPC 部署，并支持企业内网连接，全链路保障企业数据安全，满足企业安全合规要求。&lt;/li>
-&lt;/ul></description></item><item><title>Github Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/github_copilot/</link><pubDate>Wed, 28 Aug 2024 15:15:32 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/github_copilot/</guid><description>&lt;h1 id="github-copilot">Github Copilot&lt;/h1>
-&lt;p>GitHub Copilot 是一款 AI 编码助手，可帮助你更快、更省力地编写代码，从而将更多精力集中在问题解决和协作上。&lt;/p>
-&lt;p>GitHub Copilot 已被证明可以提高开发人员的工作效率并加快软件开发的步伐。 有关更多信息，请参阅 GitHub 博客上的“&lt;a href="https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/">研究：量化 GitHub Copilot 对开发人员生产力和幸福感的影响&lt;/a>”。&lt;/p>
-&lt;p>有学生教育优惠，可冲&lt;/p>
-&lt;p>GitHub Copilot 包括一套功能。 可以使用 Copilot 来完成以下事宜：&lt;/p>
-&lt;ul>
-&lt;li>在 IDE 中编码时获取代码建议&lt;/li>
-&lt;li>与 Copilot 聊天，寻求代码方面的帮助&lt;/li>
-&lt;li>使用命令行来寻求 Copilot 的帮助&lt;/li>
-&lt;li>针对拉取请求中的更改生成描述（仅限 Copilot Enterprise）&lt;/li>
-&lt;li>创建和管理文档集合，即知识库，以用作与 Copilot 聊天的上下文（仅限 Copilot Enterprise）&lt;/li>
-&lt;/ul>
-&lt;p>Copilot 可用于：&lt;/p>
-&lt;ul>
-&lt;li>IDE 中&lt;/li>
-&lt;li>在 GitHub Mobile 中，作为一个聊天界面&lt;/li>
-&lt;li>在命令行中通过 GitHub CLI 使用&lt;/li>
-&lt;li>在 GitHub.com 上，具有 Copilot Enterprise 订阅时&lt;/li>
 &lt;/ul></description></item></channel></rss>

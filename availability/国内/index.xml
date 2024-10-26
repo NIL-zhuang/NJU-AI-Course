@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>国内 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/availability/%E5%9B%BD%E5%86%85/</link><description>Recent content in 国内 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 11:46:44 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/availability/%E5%9B%BD%E5%86%85/index.xml" rel="self" type="application/rss+xml"/><item><title>ACE Studio</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/acestudio/</link><pubDate>Fri, 04 Oct 2024 11:46:44 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/acestudio/</guid><description>&lt;p>时域科技的AI虚拟歌手软件。根据Midi信号和歌词进行AI虚拟歌手的演唱、音色定制、混合声线、多语种演唱、可调整参数多（张力、力度、共振峰、假声、气声、共振峰）、可调整字头呼吸和音高曲线、可调整颤音和平滑、人声转Midi、音频拆分轨、音乐测速等。&lt;/p></description></item><item><title>绘蛙</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/huiwa/</link><pubDate>Fri, 04 Oct 2024 11:24:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/huiwa/</guid><description>&lt;h2 id="绘蛙是什么">绘蛙是什么？&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>国内 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/availability/%E5%9B%BD%E5%86%85/</link><description>Recent content in 国内 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 11:46:44 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/availability/%E5%9B%BD%E5%86%85/index.xml" rel="self" type="application/rss+xml"/><item><title>Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
+&lt;ul>
+&lt;li>它可以帮助用户释放创造力短提示，在Word中生成文档的初稿，或在PowerPoint中创建漂亮的幻灯片，并根据用户在微软图形中的数据添加相关内容。&lt;/li>
+&lt;li>它可以在Microsoft Excel中帮助用户分析数据，生成图表和报告，并提供有用的见解和建议。&lt;/li>
+&lt;li>它可以在Microsoft Outlook中帮助用户管理日程安排，回复邮件，编写摘要和提纲，并提供适当的语气和礼貌。&lt;/li>
+&lt;li>它可以在Microsoft Teams中帮助用户协作沟通，分享信息，创建任务和计划，并提供相关的反馈和建议。&lt;/li>
+&lt;li>它可以在商务聊天中帮助用户根据自然语言提示生成文本内容，例如状态更新、项目提案、市场分析等，并根据用户在微软图形（Microsoft Graph）中的数据进行调整和优化。&lt;/li>
+&lt;li>它始终尊重用户的控制权，让用户决定保留、修改或丢弃它生成的内容。&lt;/li>
+&lt;li>它遵循微软对数据安全和隐私的承诺，在企业环境中保护用户的数据不被滥用或泄露。&lt;/li>
+&lt;/ul></description></item><item><title>豆包</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao/</link><pubDate>Fri, 27 Sep 2024 20:26:25 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao/</guid><description>&lt;p>豆包是你的多功能 AI 助手，为你的生活、学习、工作提供帮助。豆包可以为你搜索信息，答疑解惑，分析总结，提供灵感，辅助创作。豆包的知识渊博，专业可靠，同时也善解人意，需要的时候能够深入浅出。豆包也会倾听你的烦恼和心事，和你畅聊任何你感兴趣的话题。&lt;/p>
+&lt;p>豆包有着简单清爽的界面设计，无需学习，让你一打开就可以使用。语音输入功能让你可以轻松输入，而且识别准确，还支持不同的方言，让沟通更简单、更高效。豆包还提供了多种音色，能用自然、亲切的声音回答你。&lt;/p>
+&lt;p>除了豆包自己，还有各种各样不同的 AI 智能体，能满足你在学习、生活、创作、职业、情感等方面的需求，你也可以定制属于自己的 AI 智能体，选择你喜欢的说话风格、技能和背景。快来探索吧！&lt;/p>
+&lt;h1 id="豆包的特色-">豆包的特色 →&lt;/h1>
+&lt;ul>
+&lt;li>简单清爽的界面设计&lt;/li>
+&lt;li>可以随时获取最新信息&lt;/li>
+&lt;li>便捷而且准确的语音输入&lt;/li>
+&lt;li>自然且接近人声的语音输出&lt;/li>
+&lt;li>发现和创建属于你的 AI 智能体&lt;/li>
+&lt;/ul>
+&lt;h1 id="喜欢豆包的大家怎么说-">喜欢豆包的大家怎么说 →&lt;/h1>
+&lt;ul>
+&lt;li>“界面很简洁”&lt;/li>
+&lt;li>“语音识别极其准确”&lt;/li>
+&lt;li>“在学习方面的好帮手”&lt;/li>
+&lt;li>“豆包拓宽了自己的知识边界”&lt;/li>
+&lt;li>“问东西很方便，还能语音回答”&lt;/li>
+&lt;li>“AI 的感情很丰富，不只是文字对话”&lt;/li>
+&lt;li>“就像请的家教一样，什么都可以服务”&lt;/li>
+&lt;li>“效率高、质量好、特别智能”&lt;/li>
+&lt;/ul>
+&lt;p>请注意，豆包作为一款 AI，虽然我们已经尽力提高其准确性和可靠性，但仍有可能出现误解或误导的情况。我们建议用户在使用豆包获取信息时，结合其他来源进行参考。我们非常欢迎用户提供反馈和建议，以帮助我们不断改进。&lt;/p></description></item><item><title>可灵 AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/klingai/</link><pubDate>Wed, 28 Aug 2024 15:15:12 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/klingai/</guid><description>&lt;p>可灵大模型（Kling）是由快手大模型团队自研打造的视频生成大模型，具备强大的视频生成能力，让用户可以轻松高效地完成艺术视频创作&lt;/p>
+&lt;ul>
+&lt;li>大幅度的合理运动：可灵采用3D时空联合注意力机制，能够更好地建模复杂时空运动，生成较大幅度运动的视频内容，同时能够符合运动规律。&lt;/li>
+&lt;li>长达2分钟的视频生成：得益于高效的训练基础设施、极致的推理优化和可扩展的基础架构，可灵大模型能够生成长达2分钟的视频，且帧率达到30fps。&lt;/li>
+&lt;li>模拟物理世界特性：基于自研模型架构及Scaling Law激发出的强大建模能力，可灵能够模拟真实世界的物理特性，生成符合物理规律的视频。&lt;/li>
+&lt;li>强大的概念组合能力：基于对文本-视频语义的深刻理解和 Diffusion Transformer 架构的强大能力，可灵能够将用户丰富的想象力转化为具体的画面，虚构真实世界中不会出现的的场景&lt;/li>
+&lt;li>电影级的画面生成：基于自研3D VAE，可灵能够生成1080p分辨率的电影级视频，无论是浩瀚壮阔的宏大场景，还是细腻入微的特写镜头，都能够生动呈现。&lt;/li>
+&lt;li>支持自由的输出视频宽高比：可灵采用了可变分辨率的训练策略，在推理过程中可以做到同样的内容输出多种多样的视频宽高比，满足更丰富场景中的视频素材使用需求。&lt;/li>
+&lt;/ul></description></item><item><title>火山翻译</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/volcengine_translate/</link><pubDate>Wed, 28 Aug 2024 15:13:30 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/volcengine_translate/</guid><description>&lt;h2 id="在火山让翻译更简单">在火山，让翻译更简单&lt;/h2>
+&lt;p>依托百亿级数据积累和行业前沿算法，火山翻译向企业客户提供翻译 API、火山同传等产品服务，适用于直播同传、海外内容翻译等场景。同时，我们也在浏览器插件、在线翻译器等产品上向个人用户提供丰富、便捷的翻译功能。&lt;/p>
+&lt;h2 id="丰富的产品和服务能力">丰富的产品和服务能力&lt;/h2>
+&lt;p>从个人到企业，从文本翻译到音视频翻译，从标准API到定制化服务，各类型能力可满足不同场景需要&lt;/p>
+&lt;h2 id="前沿的算法能力">前沿的算法能力&lt;/h2>
+&lt;p>由字节跳动 AI Lab（人工智能实验室）自主研发，屡次斩获机器翻译大赛重磅奖项、学术研究成果国际知名，保证了先进的翻译质量和服务优化的长期投入&lt;/p>
+&lt;h2 id="广泛的行业应用场景">广泛的行业应用场景&lt;/h2>
+&lt;p>各行各业个人用户和企业客户的共同选择，为直播、游戏、电商等行业提供完善的翻译解决方案&lt;/p></description></item><item><title>通义千问</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/qwen/</link><pubDate>Sun, 25 Aug 2024 12:08:58 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/qwen/</guid><description>&lt;p>阿里巴巴的&amp;quot;通义千问&amp;quot;是阿里云自主研发的大语言模型，于2023年4月首次问世，致力于基础模型的技术研发，并不断升级迭代。最新版本2.5在理解能力、逻辑推理、指令遵循和代码能力等方面均有显著提升，尤其在中文能力方面持续领先业界。此外，通义还发布了1100亿参数的开源模型Qwen1.5-110B，在多个基准测评中超越了Meta的Llama-3-70B模型，登顶HuggingFace开源大模型排行榜。&lt;/p>
+&lt;p>通义千问在多模态模型和专有能力模型方面也具有业界顶尖影响力，如视觉理解模型Qwen-VL-Max和代码大模型CodeQwen1.5-7B均在各自领域取得优异成绩。通义千问已广泛应用于文生图、智能编码、文档解析、音视频理解等多个领域，企业客户和开发者可以通过API调用或模型下载等方式接入通义，个人用户也可免费使用。&lt;/p>
+&lt;p>阿里云坚定地走开源路线，推动大模型开源，让更多开发者和中小企业能够使用和迭代大模型，加速了大模型的应用落地进程。通义推出了参数规模从5亿到1100亿不等的多款大语言模型，满足不同场景用户的需求。&lt;/p>
+&lt;p>2024年5月24日，通义千问2.5正式发布，相比上一版本在多个方面有显著提升。同时，通义还推出了多模态AI生成能力，并与小米、微博、众安保险等企业达成合作，将大模型应用于社交媒体、保险、游戏等领域。&lt;/p></description></item><item><title>ACE Studio</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/acestudio/</link><pubDate>Fri, 04 Oct 2024 11:46:44 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/acestudio/</guid><description>&lt;p>时域科技的AI虚拟歌手软件。根据Midi信号和歌词进行AI虚拟歌手的演唱、音色定制、混合声线、多语种演唱、可调整参数多（张力、力度、共振峰、假声、气声、共振峰）、可调整字头呼吸和音高曲线、可调整颤音和平滑、人声转Midi、音频拆分轨、音乐测速等。&lt;/p></description></item><item><title>绘蛙</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/huiwa/</link><pubDate>Fri, 04 Oct 2024 11:24:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/huiwa/</guid><description>&lt;h2 id="绘蛙是什么">绘蛙是什么？&lt;/h2>
 &lt;p>面向电商卖家和达人的AI创作平台，可以低成本创作丰富的商拍图、种草文案&lt;/p>
 &lt;h2 id="能为商家带来什么">能为商家带来什么？&lt;/h2>
 &lt;ul>
@@ -37,16 +86,7 @@
 &lt;/ol>
 &lt;p>【独特个性作品铸就】&lt;/p>
 &lt;p>和弦派严格遵循音乐理论基础，按照专业音乐制作逻辑有序完成作品构建。在每一次与用户的交互过程中，和弦派都致力于启发并捕捉创作者的独特灵感火花，共同打造出极具差异化和个性化的音乐作品。&lt;/p>
-&lt;p>把创作的重复性交给和弦派，把创作的可控性还给创作者。&lt;/p></description></item><item><title>Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
-&lt;ul>
-&lt;li>它可以帮助用户释放创造力短提示，在Word中生成文档的初稿，或在PowerPoint中创建漂亮的幻灯片，并根据用户在微软图形中的数据添加相关内容。&lt;/li>
-&lt;li>它可以在Microsoft Excel中帮助用户分析数据，生成图表和报告，并提供有用的见解和建议。&lt;/li>
-&lt;li>它可以在Microsoft Outlook中帮助用户管理日程安排，回复邮件，编写摘要和提纲，并提供适当的语气和礼貌。&lt;/li>
-&lt;li>它可以在Microsoft Teams中帮助用户协作沟通，分享信息，创建任务和计划，并提供相关的反馈和建议。&lt;/li>
-&lt;li>它可以在商务聊天中帮助用户根据自然语言提示生成文本内容，例如状态更新、项目提案、市场分析等，并根据用户在微软图形（Microsoft Graph）中的数据进行调整和优化。&lt;/li>
-&lt;li>它始终尊重用户的控制权，让用户决定保留、修改或丢弃它生成的内容。&lt;/li>
-&lt;li>它遵循微软对数据安全和隐私的承诺，在企业环境中保护用户的数据不被滥用或泄露。&lt;/li>
-&lt;/ul></description></item><item><title>腾讯元宝</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/yuanbao/</link><pubDate>Fri, 27 Sep 2024 20:35:14 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/yuanbao/</guid><description>&lt;h3 id="1产品介绍">1、产品介绍&lt;/h3>
+&lt;p>把创作的重复性交给和弦派，把创作的可控性还给创作者。&lt;/p></description></item><item><title>腾讯元宝</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/yuanbao/</link><pubDate>Fri, 27 Sep 2024 20:35:14 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/yuanbao/</guid><description>&lt;h3 id="1产品介绍">1、产品介绍&lt;/h3>
 &lt;p>腾讯元宝是依托于腾讯混元大模型的AI产品。我们期望通过AI能力帮助用户在办公、学习、创作、生活等领域提供效率和生活辅助。&lt;/p>
 &lt;h3 id="2产品功能">2、产品功能&lt;/h3>
 &lt;p>腾讯元宝为用户提供多元化的 AI 能力：&lt;/p>
@@ -325,29 +365,7 @@ AI 时代永远不要忘了你有智能助手 4.告别传统的 PPT 制作方式
 &lt;p>【互联网从业者】搜集行业各种数据和竞品实时动态，提供SWOT分析和营销方案撰写，做你的AI小助手。&lt;/p>
 &lt;p>【学生群体】疑难问题拍照解答、学科重点知识整合，不懂就问，提高学习效率。&lt;/p>
 &lt;p>【程序员】代码续写、代码编写、注释编写、代码理解，支持Python、Java、C++等十余种主流语言，解决技术问题。&lt;/p>
-&lt;p>【旅游爱好者】快速输出旅行攻略，行程规划合理省时，并附带景点信息详细介绍，做你说走就走的旅游小帮手。&lt;/p></description></item><item><title>星火语伴</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/xinghuo/</link><pubDate>Fri, 27 Sep 2024 20:27:11 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/xinghuo/</guid><description>&lt;p>突破语言障碍，学习口语！语伴Sparkle是英语口语学习APP。支持多语种翻译，多话题对话，文字、图片、语音输入，自动评测，语法纠错，查词。全方位支持口语学习，体验功能丰富的英语口语学习神器！&lt;/p></description></item><item><title>豆包</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao/</link><pubDate>Fri, 27 Sep 2024 20:26:25 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/doubao/</guid><description>&lt;p>豆包是你的多功能 AI 助手，为你的生活、学习、工作提供帮助。豆包可以为你搜索信息，答疑解惑，分析总结，提供灵感，辅助创作。豆包的知识渊博，专业可靠，同时也善解人意，需要的时候能够深入浅出。豆包也会倾听你的烦恼和心事，和你畅聊任何你感兴趣的话题。&lt;/p>
-&lt;p>豆包有着简单清爽的界面设计，无需学习，让你一打开就可以使用。语音输入功能让你可以轻松输入，而且识别准确，还支持不同的方言，让沟通更简单、更高效。豆包还提供了多种音色，能用自然、亲切的声音回答你。&lt;/p>
-&lt;p>除了豆包自己，还有各种各样不同的 AI 智能体，能满足你在学习、生活、创作、职业、情感等方面的需求，你也可以定制属于自己的 AI 智能体，选择你喜欢的说话风格、技能和背景。快来探索吧！&lt;/p>
-&lt;h1 id="豆包的特色-">豆包的特色 →&lt;/h1>
-&lt;ul>
-&lt;li>简单清爽的界面设计&lt;/li>
-&lt;li>可以随时获取最新信息&lt;/li>
-&lt;li>便捷而且准确的语音输入&lt;/li>
-&lt;li>自然且接近人声的语音输出&lt;/li>
-&lt;li>发现和创建属于你的 AI 智能体&lt;/li>
-&lt;/ul>
-&lt;h1 id="喜欢豆包的大家怎么说-">喜欢豆包的大家怎么说 →&lt;/h1>
-&lt;ul>
-&lt;li>“界面很简洁”&lt;/li>
-&lt;li>“语音识别极其准确”&lt;/li>
-&lt;li>“在学习方面的好帮手”&lt;/li>
-&lt;li>“豆包拓宽了自己的知识边界”&lt;/li>
-&lt;li>“问东西很方便，还能语音回答”&lt;/li>
-&lt;li>“AI 的感情很丰富，不只是文字对话”&lt;/li>
-&lt;li>“就像请的家教一样，什么都可以服务”&lt;/li>
-&lt;li>“效率高、质量好、特别智能”&lt;/li>
-&lt;/ul>
-&lt;p>请注意，豆包作为一款 AI，虽然我们已经尽力提高其准确性和可靠性，但仍有可能出现误解或误导的情况。我们建议用户在使用豆包获取信息时，结合其他来源进行参考。我们非常欢迎用户提供反馈和建议，以帮助我们不断改进。&lt;/p></description></item><item><title>文心一言</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/wenxinyiyan/</link><pubDate>Fri, 27 Sep 2024 20:26:15 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/wenxinyiyan/</guid><description>&lt;p>文心一言（英文名：ERNIE Bot）是百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动、回答问题、协助创作，高效便捷地帮助人们获取信息、知识和灵感。文心一言从数万亿数据和数千亿知识中融合学习，得到预训练大模型，在此基础上采用有监督精调、人类反馈强化学习、提示等技术，具备知识增强、检索增强和对话增强的技术优势。&lt;/p>
+&lt;p>【旅游爱好者】快速输出旅行攻略，行程规划合理省时，并附带景点信息详细介绍，做你说走就走的旅游小帮手。&lt;/p></description></item><item><title>星火语伴</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/xinghuo/</link><pubDate>Fri, 27 Sep 2024 20:27:11 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/xinghuo/</guid><description>&lt;p>突破语言障碍，学习口语！语伴Sparkle是英语口语学习APP。支持多语种翻译，多话题对话，文字、图片、语音输入，自动评测，语法纠错，查词。全方位支持口语学习，体验功能丰富的英语口语学习神器！&lt;/p></description></item><item><title>文心一言</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/wenxinyiyan/</link><pubDate>Fri, 27 Sep 2024 20:26:15 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/wenxinyiyan/</guid><description>&lt;p>文心一言（英文名：ERNIE Bot）是百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动、回答问题、协助创作，高效便捷地帮助人们获取信息、知识和灵感。文心一言从数万亿数据和数千亿知识中融合学习，得到预训练大模型，在此基础上采用有监督精调、人类反馈强化学习、提示等技术，具备知识增强、检索增强和对话增强的技术优势。&lt;/p>
 &lt;p>2023年3月16日文心一言新闻发布会上，百度创始人、董事长兼首席执行官李彦宏及百度首席技术官、深度学习技术及应用国家工程研究中心主任王海峰展示了文心一言在文学创作、商业文案创作、数理推算、中文理解、多模态生成五个使用场景中的综合能力。&lt;/p>
 &lt;h3 id="文学创作">文学创作&lt;/h3>
 &lt;p>文心一言根据对话问题将知名科幻小说《三体》的核心内容进行了总结，并提出了五个续写《三体》的建议角度，体现出对话问答、总结分析、内容创作生成的综合能力。此外，文心一言准确回答了《三体》作者、电视剧角色扮演者等事实性问题。生成式AI在回答事实性问题时常常“胡编乱造”，而文心一言延续了百度知识增强的大模型理念，大幅度提升了事实性问题的准确率。面对“于和伟和张鲁一有哪些共同点”、“于和伟和张鲁一谁更高”这类问题，文心一言也基于推理能力得出了正确答案。&lt;/p>
@@ -369,22 +387,4 @@ AI 时代永远不要忘了你有智能助手 4.告别传统的 PPT 制作方式
 &lt;li>翻译功能：帮助用户跨越语言障碍，实现全球范围内的信息交流。&lt;/li>
 &lt;/ol>
 &lt;p>2024年10月11日，通用人工智能创业公司——月之暗面正式发布可自主海量搜索解决复杂问题的 Kimi 探索版。Kimi 探索版具备AI自主搜索能力，可以模拟人类的推理思考过程，多级分解复杂问题，执行深度搜索，并即时反思改进结果，提供更全面和准确的答案，帮助用户更高效地完成分析调研等复杂任务。&lt;/p>
-&lt;p>Kimi 探索版能够做到 自主规划策略，步步为营；自动化大规模信息检索，穷尽海量权威信源；即时反思搜索结果，补充信息。&lt;/p></description></item><item><title>剪映</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/capcut/</link><pubDate>Wed, 28 Aug 2024 15:15:23 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/capcut/</guid><description>&lt;p>字幕识别，智能定位素材，音频美化，声音克隆，智能打光，画面超分，镜头跟踪，智能运镜&lt;/p></description></item><item><title>可灵 AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/klingai/</link><pubDate>Wed, 28 Aug 2024 15:15:12 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/klingai/</guid><description>&lt;p>可灵大模型（Kling）是由快手大模型团队自研打造的视频生成大模型，具备强大的视频生成能力，让用户可以轻松高效地完成艺术视频创作&lt;/p>
-&lt;ul>
-&lt;li>大幅度的合理运动：可灵采用3D时空联合注意力机制，能够更好地建模复杂时空运动，生成较大幅度运动的视频内容，同时能够符合运动规律。&lt;/li>
-&lt;li>长达2分钟的视频生成：得益于高效的训练基础设施、极致的推理优化和可扩展的基础架构，可灵大模型能够生成长达2分钟的视频，且帧率达到30fps。&lt;/li>
-&lt;li>模拟物理世界特性：基于自研模型架构及Scaling Law激发出的强大建模能力，可灵能够模拟真实世界的物理特性，生成符合物理规律的视频。&lt;/li>
-&lt;li>强大的概念组合能力：基于对文本-视频语义的深刻理解和 Diffusion Transformer 架构的强大能力，可灵能够将用户丰富的想象力转化为具体的画面，虚构真实世界中不会出现的的场景&lt;/li>
-&lt;li>电影级的画面生成：基于自研3D VAE，可灵能够生成1080p分辨率的电影级视频，无论是浩瀚壮阔的宏大场景，还是细腻入微的特写镜头，都能够生动呈现。&lt;/li>
-&lt;li>支持自由的输出视频宽高比：可灵采用了可变分辨率的训练策略，在推理过程中可以做到同样的内容输出多种多样的视频宽高比，满足更丰富场景中的视频素材使用需求。&lt;/li>
-&lt;/ul></description></item><item><title>火山翻译</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/volcengine_translate/</link><pubDate>Wed, 28 Aug 2024 15:13:30 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/volcengine_translate/</guid><description>&lt;h2 id="在火山让翻译更简单">在火山，让翻译更简单&lt;/h2>
-&lt;p>依托百亿级数据积累和行业前沿算法，火山翻译向企业客户提供翻译 API、火山同传等产品服务，适用于直播同传、海外内容翻译等场景。同时，我们也在浏览器插件、在线翻译器等产品上向个人用户提供丰富、便捷的翻译功能。&lt;/p>
-&lt;h2 id="丰富的产品和服务能力">丰富的产品和服务能力&lt;/h2>
-&lt;p>从个人到企业，从文本翻译到音视频翻译，从标准API到定制化服务，各类型能力可满足不同场景需要&lt;/p>
-&lt;h2 id="前沿的算法能力">前沿的算法能力&lt;/h2>
-&lt;p>由字节跳动 AI Lab（人工智能实验室）自主研发，屡次斩获机器翻译大赛重磅奖项、学术研究成果国际知名，保证了先进的翻译质量和服务优化的长期投入&lt;/p>
-&lt;h2 id="广泛的行业应用场景">广泛的行业应用场景&lt;/h2>
-&lt;p>各行各业个人用户和企业客户的共同选择，为直播、游戏、电商等行业提供完善的翻译解决方案&lt;/p></description></item><item><title>通义千问</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/qwen/</link><pubDate>Sun, 25 Aug 2024 12:08:58 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/qwen/</guid><description>&lt;p>阿里巴巴的&amp;quot;通义千问&amp;quot;是阿里云自主研发的大语言模型，于2023年4月首次问世，致力于基础模型的技术研发，并不断升级迭代。最新版本2.5在理解能力、逻辑推理、指令遵循和代码能力等方面均有显著提升，尤其在中文能力方面持续领先业界。此外，通义还发布了1100亿参数的开源模型Qwen1.5-110B，在多个基准测评中超越了Meta的Llama-3-70B模型，登顶HuggingFace开源大模型排行榜。&lt;/p>
-&lt;p>通义千问在多模态模型和专有能力模型方面也具有业界顶尖影响力，如视觉理解模型Qwen-VL-Max和代码大模型CodeQwen1.5-7B均在各自领域取得优异成绩。通义千问已广泛应用于文生图、智能编码、文档解析、音视频理解等多个领域，企业客户和开发者可以通过API调用或模型下载等方式接入通义，个人用户也可免费使用。&lt;/p>
-&lt;p>阿里云坚定地走开源路线，推动大模型开源，让更多开发者和中小企业能够使用和迭代大模型，加速了大模型的应用落地进程。通义推出了参数规模从5亿到1100亿不等的多款大语言模型，满足不同场景用户的需求。&lt;/p>
-&lt;p>2024年5月24日，通义千问2.5正式发布，相比上一版本在多个方面有显著提升。同时，通义还推出了多模态AI生成能力，并与小米、微博、众安保险等企业达成合作，将大模型应用于社交媒体、保险、游戏等领域。&lt;/p></description></item></channel></rss>
+&lt;p>Kimi 探索版能够做到 自主规划策略，步步为营；自动化大规模信息检索，穷尽海量权威信源；即时反思搜索结果，补充信息。&lt;/p></description></item><item><title>剪映</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/capcut/</link><pubDate>Wed, 28 Aug 2024 15:15:23 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/capcut/</guid><description>&lt;p>字幕识别，智能定位素材，音频美化，声音克隆，智能打光，画面超分，镜头跟踪，智能运镜&lt;/p></description></item></channel></rss>

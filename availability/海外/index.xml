@@ -1,4 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>海外 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/availability/%E6%B5%B7%E5%A4%96/</link><description>Recent content in 海外 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 20:36:35 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/availability/%E6%B5%B7%E5%A4%96/index.xml" rel="self" type="application/rss+xml"/><item><title>ChatGPT</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/chatgpt/</link><pubDate>Sun, 25 Aug 2024 12:08:58 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/chatgpt/</guid><description>&lt;p>我们已经训练了一个名为ChatGPT的模型，它以对话的方式进行交互。对话格式使ChatGPT有可能回答后续问题，承认其错误，挑战不正确的前提，并拒绝不适当的请求。ChatGPT是InstructGPT的兄弟模型，它被训练为遵循提示中的指令并提供详细的响应。我们很高兴地介绍ChatGPT以获得用户的反馈并了解其优缺点。在研究预览期间，ChatGPT的使用是免费的。立即在 &lt;a href="https://chatgpt.com/">https://chatgpt.com/&lt;/a> 尝试。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>海外 on NJU AI 通识课</title><link>https://nil-zhuang.github.io/NJU-AI-Course/availability/%E6%B5%B7%E5%A4%96/</link><description>Recent content in 海外 on NJU AI 通识课</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 20:36:35 +0800</lastBuildDate><atom:link href="https://nil-zhuang.github.io/NJU-AI-Course/availability/%E6%B5%B7%E5%A4%96/index.xml" rel="self" type="application/rss+xml"/><item><title>Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
+&lt;ul>
+&lt;li>它可以帮助用户释放创造力短提示，在Word中生成文档的初稿，或在PowerPoint中创建漂亮的幻灯片，并根据用户在微软图形中的数据添加相关内容。&lt;/li>
+&lt;li>它可以在Microsoft Excel中帮助用户分析数据，生成图表和报告，并提供有用的见解和建议。&lt;/li>
+&lt;li>它可以在Microsoft Outlook中帮助用户管理日程安排，回复邮件，编写摘要和提纲，并提供适当的语气和礼貌。&lt;/li>
+&lt;li>它可以在Microsoft Teams中帮助用户协作沟通，分享信息，创建任务和计划，并提供相关的反馈和建议。&lt;/li>
+&lt;li>它可以在商务聊天中帮助用户根据自然语言提示生成文本内容，例如状态更新、项目提案、市场分析等，并根据用户在微软图形（Microsoft Graph）中的数据进行调整和优化。&lt;/li>
+&lt;li>它始终尊重用户的控制权，让用户决定保留、修改或丢弃它生成的内容。&lt;/li>
+&lt;li>它遵循微软对数据安全和隐私的承诺，在企业环境中保护用户的数据不被滥用或泄露。&lt;/li>
+&lt;/ul></description></item><item><title>Midjourney</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/midjourney/</link><pubDate>Fri, 27 Sep 2024 20:28:03 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/midjourney/</guid><description>&lt;p>Midjourney是一个由位于美国加州旧金山的同名研究实验室开发之人工智能程序，可根据文本生成图像，于2022年7月12日进入公开测试阶段，用户可透过Discord的机器人指令进行操作。该研究实验室由Leap Motion的创办人大卫·霍尔兹（David Holz）负责领导。&lt;/p>
+&lt;h2 id="midjourney是什么">Midjourney是什么？&lt;/h2>
+&lt;p>Midjourney是一款基于人工智能技术的绘画软件，它利用深度学习算法来辅助用户进行绘画创作。通过对大量的绘画作品进行学习，Midjourney能够理解各种绘画风格和技巧，从而帮助用户轻松地创作出具有个性化风格的作品。这款软件适用于各种绘画领域，如插画、漫画、油画等，无论是专业画家还是绘画爱好者，都可以在Midjourney中找到适合自己的创作方式。&lt;/p>
+&lt;p>Midjourney 生成图片的方式有 3 种：&lt;/p>
+&lt;p>总结起来，Midjourney 是 AI 绘画界中最受欢迎的工具之一。它提供了简单易用的功能，包括通过文本描述、图片输入和混合图片等方式生成创意图片。使用 Midjourney，你可以轻松地创作出大量灵感图片，为你的创作提供源源不断的灵感：&lt;/p>
+&lt;ul>
+&lt;li>文字生成图片：通过在输入框中描述图片场景的关键词，AI 会根据描述生成相应的画作。&lt;/li>
+&lt;li>图片生成图片：上传一张特定风格的图片，并描述该图片的关键词，AI 将生成相同风格的新图片。&lt;/li>
+&lt;li>混合图片生成图片：将多张图片输入给 AI 进行混合，生成一张融合了多个图片的新作品。&lt;/li>
+&lt;/ul></description></item><item><title>Stable_diffusion</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/stable_diffusion/</link><pubDate>Fri, 27 Sep 2024 20:27:54 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/stable_diffusion/</guid><description>&lt;p>Stable Diffusion 3 是我们最新和最先进的文本到图像人工智能模型，包含20亿个参数。它在照片真实感方面表现出色，处理复杂的提示，并生成明文。权重在社区许可下可用。如需商业用途，请联系我们了解许可详情。&lt;/p></description></item><item><title>Cursor</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/cursor/</link><pubDate>Wed, 28 Aug 2024 15:15:40 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/cursor/</guid><description>&lt;p>Cursor 是一个基于 Visual Studio Code（VS Code）技术构建的高级代码编辑器，专为提高编程效率并更深度地整合 AI 功能而设计。它不仅继承了 VS Code 的强大功能和用户界面，还增加了专门针对 AI 支持的特色功能。&lt;/p>
+&lt;p>Cursor通过这些独特的功能，极大地提升了编程的便捷和效率，使开发者能够更有效地利用AI技术进行软件开发。下面是Cursor的三个核心功能&lt;/p>
+&lt;ol>
+&lt;li>了解您的代码库：用户可以通过聊天界面直接查询代码库中的信息或引用特定的文件或文档。这种方式非常适合快速获取方案或进行代码审查，用户还可以通过简单的点击即可使用模型生成的代码片段。&lt;/li>
+&lt;li>Copilot++通过 Cursor 的 Copilot++ 功能，只需按下 Tab 键，编辑器就能预测并自动完成代码，根据上下文推荐下一步可能的代码编辑。这不仅加快了代码编写速度，还提高了开发效率，尤其是在处理复杂代码时能够提供实时的智能支持。&lt;/li>
+&lt;li>Cmd-K：使用自然语言编辑：Cursor 的 Cmd-K 功能允许用户使用自然语言指令来编写和更新代码。这意味着用户可以通过简单的文本提示，如“增加一个新方法”或“更新这个函数的参数”，快速执行复杂的编程任务。&lt;/li>
+&lt;/ol></description></item><item><title>Github Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/github_copilot/</link><pubDate>Wed, 28 Aug 2024 15:15:32 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/github_copilot/</guid><description>&lt;h1 id="github-copilot">Github Copilot&lt;/h1>
+&lt;p>GitHub Copilot 是一款 AI 编码助手，可帮助你更快、更省力地编写代码，从而将更多精力集中在问题解决和协作上。&lt;/p>
+&lt;p>GitHub Copilot 已被证明可以提高开发人员的工作效率并加快软件开发的步伐。 有关更多信息，请参阅 GitHub 博客上的“&lt;a href="https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/">研究：量化 GitHub Copilot 对开发人员生产力和幸福感的影响&lt;/a>”。&lt;/p>
+&lt;p>有学生教育优惠，可冲&lt;/p>
+&lt;p>GitHub Copilot 包括一套功能。 可以使用 Copilot 来完成以下事宜：&lt;/p>
+&lt;ul>
+&lt;li>在 IDE 中编码时获取代码建议&lt;/li>
+&lt;li>与 Copilot 聊天，寻求代码方面的帮助&lt;/li>
+&lt;li>使用命令行来寻求 Copilot 的帮助&lt;/li>
+&lt;li>针对拉取请求中的更改生成描述（仅限 Copilot Enterprise）&lt;/li>
+&lt;li>创建和管理文档集合，即知识库，以用作与 Copilot 聊天的上下文（仅限 Copilot Enterprise）&lt;/li>
+&lt;/ul>
+&lt;p>Copilot 可用于：&lt;/p>
+&lt;ul>
+&lt;li>IDE 中&lt;/li>
+&lt;li>在 GitHub Mobile 中，作为一个聊天界面&lt;/li>
+&lt;li>在命令行中通过 GitHub CLI 使用&lt;/li>
+&lt;li>在 GitHub.com 上，具有 Copilot Enterprise 订阅时&lt;/li>
+&lt;/ul></description></item><item><title>Cool Papers</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/coolpapers/</link><pubDate>Wed, 28 Aug 2024 15:13:47 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/coolpapers/</guid><description>&lt;p>@Copyright 苏剑林 科学FM &lt;a href="https://kexue.fm/archives/10088">https://kexue.fm/archives/10088&lt;/a>&lt;/p>
+&lt;h2 id="写在开头">写在开头&lt;/h2>
+&lt;p>一直以来，笔者都有日刷Arxiv的习惯，以求尽可能跟上领域内最新成果，并告诫自己“不进则退”。之前也有不少读者问我是怎么刷Arxiv的、有什么辅助工具等，但事实上，在很长的时间里，笔者都是直接刷Arxiv官网，并且没有用任何算法过滤，都是自己一篇篇过的。这个过程很枯燥，但并非不能接受，之所以不用算法初筛，主要还是担心算法漏召，毕竟“刷”就是为了追新，一旦算法漏召就“错失先机”了。&lt;/p>
+&lt;p>自从Kimi Chat发布后，笔者就一直计划着写一个辅助网站结合Kimi来加速刷论文的过程。最近几个星期稍微闲了一点，于是在GPT4、Kimi的帮助下，初步写成了这个网站，并且经过几天的测试和优化后，已经逐步趋于稳定，于是正式邀请读者试用。&lt;/p>
+&lt;p>Cool Papers：https://papers.cool&lt;/p>
+&lt;h2 id="写在中间">写在中间&lt;/h2>
+&lt;p>正如“Cool Papers”这个名字所述，该网站希望让刷论文变成一种非常“酷”的沉浸式体验。当然，目前的实现还是比较简陋，“酷”主要体现在通过Kimi回答了几个论文的FAQ，这可以让我们更加准确、高效地了解论文的主要内容（相比只看标题、摘要），从而判断是否是需要精读的论文。&lt;/p>
+&lt;p>特别要指出的是：&lt;/p>
+&lt;p>1、这是一个“刷”论文的网站，不是“读”论文的网站，“刷”的意思是“筛”、“过滤”，“刷”的目的是找出需要精读的论文，而不是代替精读；
+2、目前只支持Arxiv作为论文源，实时同步Arxiv的最新一天的论文列表，所以刷Cool Papers基本上能等价于刷Arxiv，未来可能会接入其他论文源，比如OpenReview，这个看后面的使用情况和反馈再做计划；
+3、因为定位为“刷”，所以“贵在坚持，过时不候”，因此目前只支持显示最新一天的论文，暂时不支持历史回溯，当然这个也可以根据读者后面的反馈需求再做改动；
+4、FAQ基于Kimi Chat，请大家感恩并珍惜，事实上根据标题和摘要基本上也能筛掉不少论文了，Kimi FAQ的存在是为了对不确定的论文做更精准的判断，所以不要随意点“[Kimi]”；
+5、点击“[PDF]”可以预览论文内容（仅限PC浏览器，手机浏览器会触发下载），但这个是依赖于自己的网页去访问Arxiv，所以如果迟迟不出来，可能是自身网络问题；
+6、点击“[Copy]”会将论文的基本信息（标题、摘要、链接等）复制到剪切板中，可以在其他地方粘贴，从而分享论文；
+7、论文列表默认保持Arxiv的发布顺序，如果加上“-sorted-by-stars”，则按照所有用户的点击情况计算的stars进行排序；
+8、论文更新：论文的更新是直接同步Arxiv官网的，正常延迟不超过10分钟，Arxiv更新时间一般在工作日早上十点左右（北京时间），但波动可能有几个小时，并且周六日和美国的一些节假日都是不更新的，如果发现网站论文没有更新，可以到Arxiv官方上确认一下更新情况。&lt;/p>
+&lt;h2 id="关于kimi-faq的进一步说明">关于Kimi FAQ的进一步说明：&lt;/h2>
+&lt;p>1、点击每篇论文对应的“[Kimi]”后，会进入排队；
+2、如果排队人数比较多，会显示“Pending:xxx”的结果，“xxx”是排队数，该数字会自动更新；
+3、排队完成后会显示“Loading:xxx%”，随后流式输出FAQ内容；
+4、排队和生成的过程不需要保持页面打开，即便关闭页面也会在后台保持排队和生成，并且重新打开页面并点击同一“[Kimi]”时会恢复原来的进度；
+5、如果你点击“[Kimi]”后发现瞬间就输出完了FAQ内容，那就意味着这篇论文已经被其他读者读过，FAQ被缓存了下来；
+6、因为有排队机制，所以随意点“[Kimi]”倒是不会让网站有太大压力，但会让别人的等待时间过长，这是一个不友善的行为。&lt;/p>
+&lt;h2 id="写在结尾">写在结尾&lt;/h2>
+&lt;p>最后，欢迎大家的意见和建议，也欢迎大家继续提需求。很明显，目前的Cool Papers还非常粗糙，远没有想象中那么“酷”，并且用Kimi做FAQ也仅仅是Kimi与论文结合的一个非常基本的方案，Kimi的超长Context应该还有非常大的想象空间。所以非常期待大家发挥想象力，找到Kimi与刷论文的更完美的结合方式。&lt;/p></description></item><item><title>ChatGPT</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/chatgpt/</link><pubDate>Sun, 25 Aug 2024 12:08:58 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/chatgpt/</guid><description>&lt;p>我们已经训练了一个名为ChatGPT的模型，它以对话的方式进行交互。对话格式使ChatGPT有可能回答后续问题，承认其错误，挑战不正确的前提，并拒绝不适当的请求。ChatGPT是InstructGPT的兄弟模型，它被训练为遵循提示中的指令并提供详细的响应。我们很高兴地介绍ChatGPT以获得用户的反馈并了解其优缺点。在研究预览期间，ChatGPT的使用是免费的。立即在 &lt;a href="https://chatgpt.com/">https://chatgpt.com/&lt;/a> 尝试。&lt;/p>
 &lt;h2 id="methods">Methods&lt;/h2>
 &lt;p>我们使用来自人类反馈的强化学习（RLHF）训练这个模型，使用与InstructGPT相同的方法，但数据采集设置略有不同。我们使用监督微调训练了一个初始模型：人类人工智能培训师提供对话，他们在对话中扮演双方——用户和人工智能助手。我们让培训师访问模型编写的建议，以帮助他们编写响应。我们将这个新的对话数据集与InstructGPT数据集混合在一起，并将其转换为对话格式。为了创建强化学习的奖励模型，我们需要收集比较数据，其中包括两个或多个按质量排序的模型响应。&lt;/p>
 &lt;p>为了收集这些数据，我们采用了人工智能培训师与聊天机器人的对话。我们随机选择一条模型编写的消息，采样几个替代完成，并让人工智能培训师对它们进行排名。使用这些奖励模型，我们可以使用邻近策略优化来微调模型。&lt;/p>
@@ -10,7 +76,19 @@
 &lt;p>理想情况下，当用户提供模棱两可的查询时，模型会提出澄清问题。相反，我们当前的模型通常会猜测用户的意图。虽然我们已经努力使模型拒绝不适当的请求，但它有时会对有害的指令做出反应或表现出有偏见的行为。&lt;/p>
 &lt;p>我们正在使用审核API来警告或阻止某些类型的不安全内容，但我们预计它目前会有一些假阴性和阳性。我们渴望收集用户反馈，以帮助我们正在进行的工作来改进这个系统。&lt;/p>
 &lt;h2 id="迭代部署">迭代部署&lt;/h2>
-&lt;p>今天发布的ChatGPT研究版本是OpenAI迭代部署越来越安全和有用的人工智能系统的最新一步。GPT-3和法典等早期模型部署的许多经验教训为本版本提供了安全缓解措施，包括通过使用人类反馈强化学习（RLHF）大幅减少有害和不真实的输出。&lt;/p></description></item><item><title>Gauth 学习助手</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/gauth/</link><pubDate>Fri, 27 Sep 2024 20:36:35 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/gauth/</guid><description>&lt;p>由 AI 驱动的 Gauth 是一个方便的作业助手，具有高精度。拍张照片，AI 即可为您解决复杂的数学、化学等问题。凭借广泛的专家网络，Gauth 还提供随时随地的专业帮助。无论您的作业需求是什么，都可以试试 Gauth！&lt;/p>
+&lt;p>今天发布的ChatGPT研究版本是OpenAI迭代部署越来越安全和有用的人工智能系统的最新一步。GPT-3和法典等早期模型部署的许多经验教训为本版本提供了安全缓解措施，包括通过使用人类反馈强化学习（RLHF）大幅减少有害和不真实的输出。&lt;/p></description></item><item><title>Claude</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/claude/</link><pubDate>Sun, 25 Aug 2024 12:08:58 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/claude/</guid><description>&lt;h1 id="claude">Claude&lt;/h1>
+&lt;ul>
+&lt;li>高级推理: Claude可以执行超越简单模式识别或文本生成的复杂认知任务&lt;/li>
+&lt;li>视觉分析: 转录和分析几乎任何静态图像，从手写笔记和图表到照片&lt;/li>
+&lt;li>代码生成: 开始使用超文本标记语言和CSS创建网站，将图像转换为结构化JSON数据，或调试复杂的代码库&lt;/li>
+&lt;li>多语言处理: 在各种语言之间实时翻译、练习语法或创建多语言内容&lt;/li>
+&lt;/ul>
+&lt;p>Claude系列模型适合任何任务，提供速度和性能的最佳组合。&lt;/p>
+&lt;ul>
+&lt;li>Haiku: 我们最快的模型可以执行轻量级操作，速度领先行业。&lt;/li>
+&lt;li>Sonnet: 我们的性能和速度的最佳组合，可实现高效、高吞吐量的任务。&lt;/li>
+&lt;li>Opus: 我们性能最高的模型，可以处理复杂的分析、具有许多步骤的较长任务以及高阶数学和编码任务。&lt;/li>
+&lt;/ul></description></item><item><title>Gauth 学习助手</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/gauth/</link><pubDate>Fri, 27 Sep 2024 20:36:35 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/gauth/</guid><description>&lt;p>由 AI 驱动的 Gauth 是一个方便的作业助手，具有高精度。拍张照片，AI 即可为您解决复杂的数学、化学等问题。凭借广泛的专家网络，Gauth 还提供随时随地的专业帮助。无论您的作业需求是什么，都可以试试 Gauth！&lt;/p>
 &lt;h2 id="主要功能">主要功能：&lt;/h2>
 &lt;h3 id="-准确的答案逐步解析">► 准确的答案，逐步解析&lt;/h3>
 &lt;p>与其他作业助手相比，Gauth 更快、更准确，尤其是借助 Gauth AI Pro 的支持。问题可以在几秒钟内快速解决，所有答案都附有动画演示和详细解释。&lt;/p>
@@ -41,16 +119,7 @@
 &lt;li>统计与数据分析（概率；数据表示；泊松/正态分布）&lt;/li>
 &lt;li>矩阵（矩阵代数；线性方程组与矩阵）&lt;/li>
 &lt;li>逻辑（推理与证明）&lt;/li>
-&lt;/ul></description></item><item><title>Grok</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</link><pubDate>Fri, 27 Sep 2024 20:36:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</guid><description>&lt;p>Grok是 xAI 基于大型语言模型开发的生成式人工智能聊天机器人，类似于 ChatGPT。它能够实时回答用户的问题，并利用 X 社交媒体平台的数据进行回应。&lt;/p></description></item><item><title>Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</link><pubDate>Fri, 27 Sep 2024 20:35:34 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/windows_copilot/</guid><description>&lt;p>Microsoft 365 Copilot是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。它于2023年9月26日由微软公司正式发布，并集成在微软365（Microsoft 365）的多个应用程序中，包括Word、Excel、PowerPoint、Outlook、Teams等。它还提供了一个全新的体验：商务聊天（Business Chat），它可以跨越LLM、微软365应用程序和用户的数据，根据用户的自然语言提示生成文本内容。微软目前正在与 20 家客户一起测试 Microsoft 365 Copilot，并会在接下来的几个月中，向更多客户提供试用版，扩大测试范围。随着Microsoft 365 Copilot推出，Cortana正式被微软停止支持。&lt;/p>
-&lt;ul>
-&lt;li>它可以帮助用户释放创造力短提示，在Word中生成文档的初稿，或在PowerPoint中创建漂亮的幻灯片，并根据用户在微软图形中的数据添加相关内容。&lt;/li>
-&lt;li>它可以在Microsoft Excel中帮助用户分析数据，生成图表和报告，并提供有用的见解和建议。&lt;/li>
-&lt;li>它可以在Microsoft Outlook中帮助用户管理日程安排，回复邮件，编写摘要和提纲，并提供适当的语气和礼貌。&lt;/li>
-&lt;li>它可以在Microsoft Teams中帮助用户协作沟通，分享信息，创建任务和计划，并提供相关的反馈和建议。&lt;/li>
-&lt;li>它可以在商务聊天中帮助用户根据自然语言提示生成文本内容，例如状态更新、项目提案、市场分析等，并根据用户在微软图形（Microsoft Graph）中的数据进行调整和优化。&lt;/li>
-&lt;li>它始终尊重用户的控制权，让用户决定保留、修改或丢弃它生成的内容。&lt;/li>
-&lt;li>它遵循微软对数据安全和隐私的承诺，在企业环境中保护用户的数据不被滥用或泄露。&lt;/li>
-&lt;/ul></description></item><item><title>Noisee AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/noisee_ai/</link><pubDate>Fri, 27 Sep 2024 20:31:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/noisee_ai/</guid><description>&lt;p>Noisee AI是由月之暗面Moonshot AI旗下的公司Tranquillitatis, Inc.推出的一个AI音乐视频MV生成工具。通过文字描述，提供音视频，下载视频生成30秒音视频。&lt;/p></description></item><item><title>Amazon Q</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/amazon_q/</link><pubDate>Fri, 27 Sep 2024 20:31:02 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/amazon_q/</guid><description>&lt;p>Amazon Q Developer是一款生成式人工智能（AI）驱动的对话助手，可以帮助您理解、构建、扩展和操作AWS应用程序。您可以提出有关AWS架构、您的AWS资源、最佳实践、留档、支持等方面的问题。Amazon Q 不断更新其功能，以便您的问题获得最上下文相关和可操作的答案。&lt;/p>
+&lt;/ul></description></item><item><title>Grok</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</link><pubDate>Fri, 27 Sep 2024 20:36:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/grok/</guid><description>&lt;p>Grok是 xAI 基于大型语言模型开发的生成式人工智能聊天机器人，类似于 ChatGPT。它能够实时回答用户的问题，并利用 X 社交媒体平台的数据进行回应。&lt;/p></description></item><item><title>Noisee AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/noisee_ai/</link><pubDate>Fri, 27 Sep 2024 20:31:17 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/noisee_ai/</guid><description>&lt;p>Noisee AI是由月之暗面Moonshot AI旗下的公司Tranquillitatis, Inc.推出的一个AI音乐视频MV生成工具。通过文字描述，提供音视频，下载视频生成30秒音视频。&lt;/p></description></item><item><title>Amazon Q</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/amazon_q/</link><pubDate>Fri, 27 Sep 2024 20:31:02 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/amazon_q/</guid><description>&lt;p>Amazon Q Developer是一款生成式人工智能（AI）驱动的对话助手，可以帮助您理解、构建、扩展和操作AWS应用程序。您可以提出有关AWS架构、您的AWS资源、最佳实践、留档、支持等方面的问题。Amazon Q 不断更新其功能，以便您的问题获得最上下文相关和可操作的答案。&lt;/p>
 &lt;p>当在集成开发环境（IDE）中使用时，Amazon Q 提供软件开发帮助。Amazon Q 可以聊天代码，提供内联代码完成，生成新代码，扫描您的代码以查找安全漏洞，并进行代码升级和改进，例如语言更新、调试和优化。&lt;/p>
 &lt;p>Amazon Q 由 Amazon Bedrock 提供支持，这是一项完全托管的服务，通过应用编程接口提供基础模型。为 Amazon Q 提供支持的模型已经通过高质量的AWS内容得到了增强，为您提供更完整、可操作和参考的答案，以加速您在AWS上的构建。&lt;/p></description></item><item><title>Runway</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/runway/</link><pubDate>Fri, 27 Sep 2024 20:29:50 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/runway/</guid><description>&lt;p>Runway是一款基于人工智能的创意工具和平台，它提供了一系列强大的功能，旨在帮助用户在视觉内容创作、设计和开发过程中提高效率和创新能力。&lt;/p>
 &lt;h2 id="主要功能">主要功能：&lt;/h2>
@@ -83,16 +152,7 @@
 &lt;ul>
 &lt;li>创建一个搜集电影评论的工作流，快速查看一部最新电影的评论与评分。&lt;/li>
 &lt;li>创建一个撰写行业研究报告的工作流，让 Bot 写一份 20 页的报告。&lt;/li>
-&lt;/ul></description></item><item><title>Midjourney</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/midjourney/</link><pubDate>Fri, 27 Sep 2024 20:28:03 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/midjourney/</guid><description>&lt;p>Midjourney是一个由位于美国加州旧金山的同名研究实验室开发之人工智能程序，可根据文本生成图像，于2022年7月12日进入公开测试阶段，用户可透过Discord的机器人指令进行操作。该研究实验室由Leap Motion的创办人大卫·霍尔兹（David Holz）负责领导。&lt;/p>
-&lt;h2 id="midjourney是什么">Midjourney是什么？&lt;/h2>
-&lt;p>Midjourney是一款基于人工智能技术的绘画软件，它利用深度学习算法来辅助用户进行绘画创作。通过对大量的绘画作品进行学习，Midjourney能够理解各种绘画风格和技巧，从而帮助用户轻松地创作出具有个性化风格的作品。这款软件适用于各种绘画领域，如插画、漫画、油画等，无论是专业画家还是绘画爱好者，都可以在Midjourney中找到适合自己的创作方式。&lt;/p>
-&lt;p>Midjourney 生成图片的方式有 3 种：&lt;/p>
-&lt;p>总结起来，Midjourney 是 AI 绘画界中最受欢迎的工具之一。它提供了简单易用的功能，包括通过文本描述、图片输入和混合图片等方式生成创意图片。使用 Midjourney，你可以轻松地创作出大量灵感图片，为你的创作提供源源不断的灵感：&lt;/p>
-&lt;ul>
-&lt;li>文字生成图片：通过在输入框中描述图片场景的关键词，AI 会根据描述生成相应的画作。&lt;/li>
-&lt;li>图片生成图片：上传一张特定风格的图片，并描述该图片的关键词，AI 将生成相同风格的新图片。&lt;/li>
-&lt;li>混合图片生成图片：将多张图片输入给 AI 进行混合，生成一张融合了多个图片的新作品。&lt;/li>
-&lt;/ul></description></item><item><title>Stable_diffusion</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/stable_diffusion/</link><pubDate>Fri, 27 Sep 2024 20:27:54 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/stable_diffusion/</guid><description>&lt;p>Stable Diffusion 3 是我们最新和最先进的文本到图像人工智能模型，包含20亿个参数。它在照片真实感方面表现出色，处理复杂的提示，并生成明文。权重在社区许可下可用。如需商业用途，请联系我们了解许可详情。&lt;/p></description></item><item><title>Devv AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/devv_ai/</link><pubDate>Fri, 27 Sep 2024 20:27:37 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/devv_ai/</guid><description>&lt;h2 id="devv的主要功能">Devv的主要功能&lt;/h2>
+&lt;/ul></description></item><item><title>Devv AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/devv_ai/</link><pubDate>Fri, 27 Sep 2024 20:27:37 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/devv_ai/</guid><description>&lt;h2 id="devv的主要功能">Devv的主要功能&lt;/h2>
 &lt;ul>
 &lt;li>编程和技术问题搜索解答：Devv.ai可以提供关于编程、软件开发和人工智能等方面的建议和指导，回答关于编程语言、算法、代码调试、软件开发最佳实践等方面的问题&lt;/li>
 &lt;li>预设多种编程语言：Devv.ai搜索引擎预设了Python、Go、JavaScript、Java、SQL、Rust、PHP、C、Swift等10多种编程语言可供选择进行提问&lt;/li>
@@ -114,31 +174,7 @@
 &lt;p>投资者的支持：Perplexity AI完成了由IVP领投的7000万美元融资，虽然版权问题和模型运行成本较高，但投资者仍然对其前景持有乐观态度。&lt;/p>
 &lt;p>富有挑战性的工作环境：Perplexity AI所面对的版权问题和模型运行成本较高等挑战，这种环境对员工是一个很好的激励，促进他们的创新和专业精神。&lt;/p>
 &lt;p>未来潜力：尽管Perplexity AI面临这些问题，投资者仍然对其前景持乐观态度，显示了对其未来的潜力的预期。&lt;/p></description></item><item><title>SUNO AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/suno_ai/</link><pubDate>Wed, 28 Aug 2024 15:15:47 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/suno_ai/</guid><description>&lt;h1 id="suno-ai">SUNO AI&lt;/h1>
-&lt;p>Suno正在建设一个任何人都可以创作伟大音乐的未来。无论你是淋浴歌手还是图表艺术家，我们都会打破你和你梦想创作的歌曲之间的障碍。不需要乐器，只要想象。从你的头脑到音乐。&lt;/p></description></item><item><title>Cursor</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/cursor/</link><pubDate>Wed, 28 Aug 2024 15:15:40 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/cursor/</guid><description>&lt;p>Cursor 是一个基于 Visual Studio Code（VS Code）技术构建的高级代码编辑器，专为提高编程效率并更深度地整合 AI 功能而设计。它不仅继承了 VS Code 的强大功能和用户界面，还增加了专门针对 AI 支持的特色功能。&lt;/p>
-&lt;p>Cursor通过这些独特的功能，极大地提升了编程的便捷和效率，使开发者能够更有效地利用AI技术进行软件开发。下面是Cursor的三个核心功能&lt;/p>
-&lt;ol>
-&lt;li>了解您的代码库：用户可以通过聊天界面直接查询代码库中的信息或引用特定的文件或文档。这种方式非常适合快速获取方案或进行代码审查，用户还可以通过简单的点击即可使用模型生成的代码片段。&lt;/li>
-&lt;li>Copilot++通过 Cursor 的 Copilot++ 功能，只需按下 Tab 键，编辑器就能预测并自动完成代码，根据上下文推荐下一步可能的代码编辑。这不仅加快了代码编写速度，还提高了开发效率，尤其是在处理复杂代码时能够提供实时的智能支持。&lt;/li>
-&lt;li>Cmd-K：使用自然语言编辑：Cursor 的 Cmd-K 功能允许用户使用自然语言指令来编写和更新代码。这意味着用户可以通过简单的文本提示，如“增加一个新方法”或“更新这个函数的参数”，快速执行复杂的编程任务。&lt;/li>
-&lt;/ol></description></item><item><title>Github Copilot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/github_copilot/</link><pubDate>Wed, 28 Aug 2024 15:15:32 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/github_copilot/</guid><description>&lt;h1 id="github-copilot">Github Copilot&lt;/h1>
-&lt;p>GitHub Copilot 是一款 AI 编码助手，可帮助你更快、更省力地编写代码，从而将更多精力集中在问题解决和协作上。&lt;/p>
-&lt;p>GitHub Copilot 已被证明可以提高开发人员的工作效率并加快软件开发的步伐。 有关更多信息，请参阅 GitHub 博客上的“&lt;a href="https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/">研究：量化 GitHub Copilot 对开发人员生产力和幸福感的影响&lt;/a>”。&lt;/p>
-&lt;p>有学生教育优惠，可冲&lt;/p>
-&lt;p>GitHub Copilot 包括一套功能。 可以使用 Copilot 来完成以下事宜：&lt;/p>
-&lt;ul>
-&lt;li>在 IDE 中编码时获取代码建议&lt;/li>
-&lt;li>与 Copilot 聊天，寻求代码方面的帮助&lt;/li>
-&lt;li>使用命令行来寻求 Copilot 的帮助&lt;/li>
-&lt;li>针对拉取请求中的更改生成描述（仅限 Copilot Enterprise）&lt;/li>
-&lt;li>创建和管理文档集合，即知识库，以用作与 Copilot 聊天的上下文（仅限 Copilot Enterprise）&lt;/li>
-&lt;/ul>
-&lt;p>Copilot 可用于：&lt;/p>
-&lt;ul>
-&lt;li>IDE 中&lt;/li>
-&lt;li>在 GitHub Mobile 中，作为一个聊天界面&lt;/li>
-&lt;li>在命令行中通过 GitHub CLI 使用&lt;/li>
-&lt;li>在 GitHub.com 上，具有 Copilot Enterprise 订阅时&lt;/li>
-&lt;/ul></description></item><item><title>Leonardo.AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/leonardo_ai/</link><pubDate>Wed, 28 Aug 2024 15:14:53 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/leonardo_ai/</guid><description>&lt;p>Leonardo.AI是一个使用人工智能技术创建艺术、设计和媒体素材的网站。&lt;/p>
+&lt;p>Suno正在建设一个任何人都可以创作伟大音乐的未来。无论你是淋浴歌手还是图表艺术家，我们都会打破你和你梦想创作的歌曲之间的障碍。不需要乐器，只要想象。从你的头脑到音乐。&lt;/p></description></item><item><title>Leonardo.AI</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/leonardo_ai/</link><pubDate>Wed, 28 Aug 2024 15:14:53 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/leonardo_ai/</guid><description>&lt;p>Leonardo.AI是一个使用人工智能技术创建艺术、设计和媒体素材的网站。&lt;/p>
 &lt;p>以前所未有的方式为3D资产注入活力。只需上传您的OBJ文件，使用上下文智能生成纹理并下载为各种应用程序量身定制的丰富文件。使用我们的前卫工具增强设计过程，将您的项目提升到新的高度。&lt;/p>
 &lt;h2 id="适用场景">适用场景&lt;/h2>
 &lt;p>1.使用AI技术自动生成艺术和设计素材，如插画、背景、贴图等。
@@ -168,31 +204,7 @@
 &lt;li>使用生成式AI立即创建草稿、回复和重写。&lt;/li>
 &lt;li>节省校对和完善单词的时间。&lt;/li>
 &lt;li>安装并在几秒钟内开始获得写作帮助。&lt;/li>
-&lt;/ul></description></item><item><title>QuillBot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/quillbot/</link><pubDate>Wed, 28 Aug 2024 15:13:58 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/quillbot/</guid><description>&lt;p>使用QuillBot的AI驱动的生产力工具提升您的写作：语法检查器、复述器、AI作家、摘要器等等！在旅途中需要帮助吗？QuillBot的新生成式AI写作功能允许您立即撰写和回复电子邮件，而复述工具和语法检查器允许您根据您的声音定制每封电子邮件。QuillBot与您一起写作，确保以真实的方式进行有效沟通。凭借许多AI写作工具和生成功能，包括世界级的复述工具，QuillBot是满足您所有写作需求的一站式商店，无论是精美的电子邮件、轮廓分明的文档，还是LinkedIn或X（以前的Twitter）的帖子。&lt;/p></description></item><item><title>Cool Papers</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/coolpapers/</link><pubDate>Wed, 28 Aug 2024 15:13:47 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/coolpapers/</guid><description>&lt;p>@Copyright 苏剑林 科学FM &lt;a href="https://kexue.fm/archives/10088">https://kexue.fm/archives/10088&lt;/a>&lt;/p>
-&lt;h2 id="写在开头">写在开头&lt;/h2>
-&lt;p>一直以来，笔者都有日刷Arxiv的习惯，以求尽可能跟上领域内最新成果，并告诫自己“不进则退”。之前也有不少读者问我是怎么刷Arxiv的、有什么辅助工具等，但事实上，在很长的时间里，笔者都是直接刷Arxiv官网，并且没有用任何算法过滤，都是自己一篇篇过的。这个过程很枯燥，但并非不能接受，之所以不用算法初筛，主要还是担心算法漏召，毕竟“刷”就是为了追新，一旦算法漏召就“错失先机”了。&lt;/p>
-&lt;p>自从Kimi Chat发布后，笔者就一直计划着写一个辅助网站结合Kimi来加速刷论文的过程。最近几个星期稍微闲了一点，于是在GPT4、Kimi的帮助下，初步写成了这个网站，并且经过几天的测试和优化后，已经逐步趋于稳定，于是正式邀请读者试用。&lt;/p>
-&lt;p>Cool Papers：https://papers.cool&lt;/p>
-&lt;h2 id="写在中间">写在中间&lt;/h2>
-&lt;p>正如“Cool Papers”这个名字所述，该网站希望让刷论文变成一种非常“酷”的沉浸式体验。当然，目前的实现还是比较简陋，“酷”主要体现在通过Kimi回答了几个论文的FAQ，这可以让我们更加准确、高效地了解论文的主要内容（相比只看标题、摘要），从而判断是否是需要精读的论文。&lt;/p>
-&lt;p>特别要指出的是：&lt;/p>
-&lt;p>1、这是一个“刷”论文的网站，不是“读”论文的网站，“刷”的意思是“筛”、“过滤”，“刷”的目的是找出需要精读的论文，而不是代替精读；
-2、目前只支持Arxiv作为论文源，实时同步Arxiv的最新一天的论文列表，所以刷Cool Papers基本上能等价于刷Arxiv，未来可能会接入其他论文源，比如OpenReview，这个看后面的使用情况和反馈再做计划；
-3、因为定位为“刷”，所以“贵在坚持，过时不候”，因此目前只支持显示最新一天的论文，暂时不支持历史回溯，当然这个也可以根据读者后面的反馈需求再做改动；
-4、FAQ基于Kimi Chat，请大家感恩并珍惜，事实上根据标题和摘要基本上也能筛掉不少论文了，Kimi FAQ的存在是为了对不确定的论文做更精准的判断，所以不要随意点“[Kimi]”；
-5、点击“[PDF]”可以预览论文内容（仅限PC浏览器，手机浏览器会触发下载），但这个是依赖于自己的网页去访问Arxiv，所以如果迟迟不出来，可能是自身网络问题；
-6、点击“[Copy]”会将论文的基本信息（标题、摘要、链接等）复制到剪切板中，可以在其他地方粘贴，从而分享论文；
-7、论文列表默认保持Arxiv的发布顺序，如果加上“-sorted-by-stars”，则按照所有用户的点击情况计算的stars进行排序；
-8、论文更新：论文的更新是直接同步Arxiv官网的，正常延迟不超过10分钟，Arxiv更新时间一般在工作日早上十点左右（北京时间），但波动可能有几个小时，并且周六日和美国的一些节假日都是不更新的，如果发现网站论文没有更新，可以到Arxiv官方上确认一下更新情况。&lt;/p>
-&lt;h2 id="关于kimi-faq的进一步说明">关于Kimi FAQ的进一步说明：&lt;/h2>
-&lt;p>1、点击每篇论文对应的“[Kimi]”后，会进入排队；
-2、如果排队人数比较多，会显示“Pending:xxx”的结果，“xxx”是排队数，该数字会自动更新；
-3、排队完成后会显示“Loading:xxx%”，随后流式输出FAQ内容；
-4、排队和生成的过程不需要保持页面打开，即便关闭页面也会在后台保持排队和生成，并且重新打开页面并点击同一“[Kimi]”时会恢复原来的进度；
-5、如果你点击“[Kimi]”后发现瞬间就输出完了FAQ内容，那就意味着这篇论文已经被其他读者读过，FAQ被缓存了下来；
-6、因为有排队机制，所以随意点“[Kimi]”倒是不会让网站有太大压力，但会让别人的等待时间过长，这是一个不友善的行为。&lt;/p>
-&lt;h2 id="写在结尾">写在结尾&lt;/h2>
-&lt;p>最后，欢迎大家的意见和建议，也欢迎大家继续提需求。很明显，目前的Cool Papers还非常粗糙，远没有想象中那么“酷”，并且用Kimi做FAQ也仅仅是Kimi与论文结合的一个非常基本的方案，Kimi的超长Context应该还有非常大的想象空间。所以非常期待大家发挥想象力，找到Kimi与刷论文的更完美的结合方式。&lt;/p></description></item><item><title>DeepL</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/deepl/</link><pubDate>Wed, 28 Aug 2024 15:13:03 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/deepl/</guid><description>&lt;h1 id="deepl">DeepL&lt;/h1>
+&lt;/ul></description></item><item><title>QuillBot</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/quillbot/</link><pubDate>Wed, 28 Aug 2024 15:13:58 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/quillbot/</guid><description>&lt;p>使用QuillBot的AI驱动的生产力工具提升您的写作：语法检查器、复述器、AI作家、摘要器等等！在旅途中需要帮助吗？QuillBot的新生成式AI写作功能允许您立即撰写和回复电子邮件，而复述工具和语法检查器允许您根据您的声音定制每封电子邮件。QuillBot与您一起写作，确保以真实的方式进行有效沟通。凭借许多AI写作工具和生成功能，包括世界级的复述工具，QuillBot是满足您所有写作需求的一站式商店，无论是精美的电子邮件、轮廓分明的文档，还是LinkedIn或X（以前的Twitter）的帖子。&lt;/p></description></item><item><title>DeepL</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/deepl/</link><pubDate>Wed, 28 Aug 2024 15:13:03 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/deepl/</guid><description>&lt;h1 id="deepl">DeepL&lt;/h1>
 &lt;h2 id="推动机器翻译的科学突破">推动机器翻译的科学突破&lt;/h2>
 &lt;p>自2017年首次推出DeepL，我们一直在致力于开发全新一代的神经网络（NN）。利用新颖的NN设计，DeepL网络学会了掌握句子的微妙含义，并以一种前所未有的方式将其翻译成目标语言。世界知名的机器翻译质量由此产生，并超过了所有科技巨头公司。&lt;/p>
 &lt;p>DeepL不仅与世界领先的深度学习公司保持同步，而且持续以其在神经网络数学和方法学方面的进步设定新标准。在2020年和2021年，我们推出了新的模型，可以更准确地表达翻译句子的意思，甚至战胜了特定行业专业术语的挑战，取得了巨大成功。&lt;/p>
@@ -206,16 +218,4 @@
 &lt;h2 id="设定准确的语气">设定准确的语气&lt;/h2>
 &lt;p>即时调整翻译以适应你的目标受众。 通过选择正式或非正式语气来调整你的翻译语气，它会自动更新你翻译中使用的代词。可用于荷兰语、法语、德语、意大利语、波兰语、葡萄牙语、俄语和西班牙语。&lt;/p>
 &lt;h2 id="创建你自己的术语表">创建你自己的术语表&lt;/h2>
-&lt;p>用适合你的语境的单词和短语自动化自定义你的翻译。 通过设置规则，确保你的关键词和短语总是被准确翻译，从而节省编辑时间。所有DeepL Pro计划允许无限量术语表条目。通过我们的Advanced和Ultimate计划，你可以创建多个术语表并上传你自己的术语表。该功能适用于以下语言组合：EN &amp;lt;&amp;gt; DE、EN &amp;lt;&amp;gt; FR以及EN &amp;lt;&amp;gt; ES。&lt;/p></description></item><item><title>Claude</title><link>https://nil-zhuang.github.io/NJU-AI-Course/posts/claude/</link><pubDate>Sun, 25 Aug 2024 12:08:58 +0800</pubDate><guid>https://nil-zhuang.github.io/NJU-AI-Course/posts/claude/</guid><description>&lt;h1 id="claude">Claude&lt;/h1>
-&lt;ul>
-&lt;li>高级推理: Claude可以执行超越简单模式识别或文本生成的复杂认知任务&lt;/li>
-&lt;li>视觉分析: 转录和分析几乎任何静态图像，从手写笔记和图表到照片&lt;/li>
-&lt;li>代码生成: 开始使用超文本标记语言和CSS创建网站，将图像转换为结构化JSON数据，或调试复杂的代码库&lt;/li>
-&lt;li>多语言处理: 在各种语言之间实时翻译、练习语法或创建多语言内容&lt;/li>
-&lt;/ul>
-&lt;p>Claude系列模型适合任何任务，提供速度和性能的最佳组合。&lt;/p>
-&lt;ul>
-&lt;li>Haiku: 我们最快的模型可以执行轻量级操作，速度领先行业。&lt;/li>
-&lt;li>Sonnet: 我们的性能和速度的最佳组合，可实现高效、高吞吐量的任务。&lt;/li>
-&lt;li>Opus: 我们性能最高的模型，可以处理复杂的分析、具有许多步骤的较长任务以及高阶数学和编码任务。&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;p>用适合你的语境的单词和短语自动化自定义你的翻译。 通过设置规则，确保你的关键词和短语总是被准确翻译，从而节省编辑时间。所有DeepL Pro计划允许无限量术语表条目。通过我们的Advanced和Ultimate计划，你可以创建多个术语表并上传你自己的术语表。该功能适用于以下语言组合：EN &amp;lt;&amp;gt; DE、EN &amp;lt;&amp;gt; FR以及EN &amp;lt;&amp;gt; ES。&lt;/p></description></item></channel></rss>
