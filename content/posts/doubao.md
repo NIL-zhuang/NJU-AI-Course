@@ -4,6 +4,7 @@ date: "2024-09-27T20:26:25+08:00"
 modality: ["文本"]
 availability: ["国内"]
 scenario: ["聊天"]
+weight: 100
 featured_image: "icons/doubao.jpeg"
 description: "字节旗下 AI 智能对话问答助手，具备写作、文案、翻译、情感陪伴、编程等多种功能。"
 rating: 5

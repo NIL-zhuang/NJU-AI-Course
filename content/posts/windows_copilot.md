@@ -4,6 +4,7 @@ date: "2024-09-27T20:35:34+08:00"
 modality: ["文本","图像","PPT"]
 availability: ["国内","海外"]
 scenario: ["办公","聊天","文生图"]
+weight: 100
 featured_image: "icons/copilot.jpg"
 description: "由微软开发的日常 AI 助手，深度融合 Windows 和 M365"
 rating: 5

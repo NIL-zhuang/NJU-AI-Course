@@ -4,6 +4,7 @@ date: "2024-09-27T20:27:54+08:00"
 modality: ["图像", "视频"]
 availability: ["海外"]
 scenario: ["文生图", "文生视频", "图生视频"]
+weight: 100
 featured_image: "icons/stability_ai.png"
 description: "Stability AI 推出的最新AI智能图像/视频生成工具"
 rating: 4

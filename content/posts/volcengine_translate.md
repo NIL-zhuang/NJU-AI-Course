@@ -4,6 +4,7 @@ date: "2024-08-28T15:13:30+08:00"
 modality: ["文本"]
 availability: ["国内"]
 scenario: ["翻译"]
+weight: 100
 featured_image: "icons/volcengine.png"
 description: "在火山， 让翻译更简单"
 rating: 5
