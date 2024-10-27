@@ -49,7 +49,7 @@ hugo server --config hugo_gh_pages.toml
 
 ### 方法 2️⃣：项目 issue 区发起讨论
 
-可以点击 GitHub 页面上方(或 NJU GitLab 页面左侧)的 issue 区，也可以访问 [GitHub issue](https://github.com/NIL-zhuang/NJU-AI-Course/issues) 或 [NJU GitLab issue](https://git.nju.edu.cn/zhuangzy/NJU-AI-Course/-/issues)，点击新建 issue，并依照[指引](https://github.com/NIL-zhuang/NJU-AI-Course/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)填写新增 AI 产品的相关信息。
+可以点击 GitHub 页面上方(或 NJU GitLab 页面左侧)的 issue 区，也可以访问 [GitHub issue](https://github.com/NIL-zhuang/NJU-AI-Course/issues) 或 [NJU GitLab issue](https://git.nju.edu.cn/zhuangzy/NJU-AI-Course/-/issues)，点击新建 issue，选择对应的"feature_request"模板，填写新增 AI 产品的相关信息。
 
 在你发起 issue 后，项目维护者或其他同学可能会在下方进行讨论或维护，可以关注一下邮件或 issue 讨论区的相关信息。
 
