@@ -4,6 +4,7 @@ date: "2024-09-27T20:28:03+08:00"
 modality: ["图像"]
 availability: ["海外"]
 scenario: ["文生图"]
+weight: 100
 featured_image: "icons/midjourney.png"
 description: "使用 Midjourney 机器人在几秒钟内从简单的文本提示中生成令人惊叹的图像"
 rating: 4

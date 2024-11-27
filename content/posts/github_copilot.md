@@ -4,6 +4,7 @@ date: "2024-08-28T15:15:32+08:00"
 modality: ["代码"]
 availability: ["海外"]
 scenario: ["编程", "代码补全"]
+weight: 100
 featured_image: "icons/copilot.jpg"
 description: "世界上采用最广泛的AI开发工具"
 rating: 5
